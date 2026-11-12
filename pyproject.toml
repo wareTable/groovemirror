@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "groovemirror"
+version = "0.1.0"
+description = "Reproducible drum-onset analysis baseline for GrooveMirror"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "numpy>=2.2,<3",
+  "scipy>=1.15,<2",
+  "librosa>=0.11,<0.12",
+  "soundfile>=0.13,<0.14",
+  "matplotlib>=3.10,<4",
+  "PyYAML>=6,<7",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "ruff>=0.11,<1"]
+
+[project.scripts]
+groovemirror-baseline = "groovemirror_ml.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["ml/src"]
+
+[tool.pytest.ini_options]
+testpaths = ["ml/tests"]
+addopts = "-ra"
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]

@@ -1,0 +1,3 @@
+# Onset-only evaluation: one-to-one matching within 50 milliseconds.
+# This is not the Phase 4 musical on-time/matching-window configuration.
+onset_tolerance_seconds: 0.05

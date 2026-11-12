@@ -1,0 +1,82 @@
+{
+  "manifest_version": "idmt-phase1-v1",
+  "source_record": "https://zenodo.org/records/7544164",
+  "archive_url": "https://zenodo.org/records/7544164/files/IDMT-SMT-DRUMS-V2.zip",
+  "archive_bytes": 287075649,
+  "published_archive_md5": "d2664b4c2aaa34b90ba2f57b389c5663",
+  "full_archive_md5_verified": false,
+  "license": "CC-BY-NC-ND-4.0",
+  "usage": "Local noncommercial educational evaluation; no source audio or derived annotations redistributed",
+  "selection": "First numbered MIX recording in each of RealDrum01, WaveDrum01, TechnoDrum01; not representative benchmark or held-out test",
+  "recordings": [
+    {
+      "recording_id": "RealDrum01_00",
+      "recording_group": "RealDrum01",
+      "split": "development_smoke_only",
+      "audio_path": "data/raw/idmt/audio/RealDrum01_00#MIX.wav",
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_00#MIX.xml",
+      "annotation_path": "data/processed/idmt/RealDrum01_00.json",
+      "audio_sha256": "e9d84b4ba7b4d477415458269bd4af4ff16887d1ed6bb1c81926202486dae250",
+      "raw_annotation_sha256": "0792fceaba1b011c533ed4848a425182c8e283b14b060e2577f583af9a94a199",
+      "annotation_sha256": "5b17f329e3dbf7752850723db19605a3f5dead49d47666ad6519bb6b69087ce8",
+      "sample_rate": 44100,
+      "frames": 779794,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "duration_seconds": 17.682403628117914,
+      "event_count": 86,
+      "unique_onset_count": 86,
+      "instrument_counts": {
+        "kick": 23,
+        "snare": 21,
+        "hihat": 42
+      }
+    },
+    {
+      "recording_id": "WaveDrum01_00",
+      "recording_group": "WaveDrum01",
+      "split": "development_smoke_only",
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_00#MIX.wav",
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_00#MIX.xml",
+      "annotation_path": "data/processed/idmt/WaveDrum01_00.json",
+      "audio_sha256": "8a69d331f251bdd77e7f9aed11c293983acfaa33f623670a3402533cf64040b6",
+      "raw_annotation_sha256": "ee99dcdd920f8581215a807b44cef35f7e61e9902e739bbfcde84ea03e5efadc",
+      "annotation_sha256": "ca248d2f98997a8b0bcfe4e9b4aa8f5574957e5f06999ce5a848d82d068a7c05",
+      "sample_rate": 44100,
+      "frames": 942638,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "duration_seconds": 21.375011337868482,
+      "event_count": 129,
+      "unique_onset_count": 129,
+      "instrument_counts": {
+        "kick": 25,
+        "snare": 14,
+        "hihat": 90
+      }
+    },
+    {
+      "recording_id": "TechnoDrum01_00",
+      "recording_group": "TechnoDrum01",
+      "split": "development_smoke_only",
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_00#MIX.wav",
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_00#MIX.xml",
+      "annotation_path": "data/processed/idmt/TechnoDrum01_00.json",
+      "audio_sha256": "950660e84ca0bfc4012987f9e3cab0893d1bb1820a6786341f1de1c86135b766",
+      "raw_annotation_sha256": "c77794b1651400dcb0e2988b0bb9dfd23af770dc272397208e59f6ece68fd1b9",
+      "annotation_sha256": "49afb5751a6c6dd93aea8fbe4a23ee5f385d558746a4ab68857c147cc70fd179",
+      "sample_rate": 44100,
+      "frames": 843413,
+      "channels": 1,
+      "sample_width_bytes": 2,
+      "duration_seconds": 19.125011337868482,
+      "event_count": 133,
+      "unique_onset_count": 133,
+      "instrument_counts": {
+        "kick": 26,
+        "snare": 14,
+        "hihat": 93
+      }
+    }
+  ]
+}

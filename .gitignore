@@ -1,0 +1,49 @@
+# Python environments, caches and build products
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+ml/tests/.tmp-*/
+.pytest_tmp/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# Secrets and machine-specific runtime state
+.env
+.env.*
+!.env.example
+.dsh/
+*.sqlite
+*.sqlite-*
+.DS_Store
+Thumbs.db
+
+# Licensed/private datasets and derived data; public notes live in docs/
+data/raw/
+data/processed/
+data/annotations/
+
+# Models, predictions, plots and experiment state
+artifacts/
+mlruns/
+mlartifacts/
+*.pt
+*.pth
+*.onnx
+
+# Local taskboard import tools contain machine-specific paths and session IDs
+taskboard-create-project.mjs
+taskboard-import.mjs
+taskboard-import.md
+
+# Local publication and full project-planning documents
+/docs/github-repository-plan.md
+/docs/private/
+/Workflow.md
+
+# Future frontend build products
+node_modules/
+frontend/dist/

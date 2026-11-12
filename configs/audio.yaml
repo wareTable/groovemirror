@@ -1,0 +1,9 @@
+# Shared Phase 1 preprocessing/onset configuration. Flat AudioConfig schema.
+sample_rate: 22050
+hop_length: 256
+n_fft: 1024
+max_duration_seconds: 300
+max_file_size_mb: 100
+silence_rms_threshold: 0.0000001
+backtrack: false
+res_type: soxr_hq

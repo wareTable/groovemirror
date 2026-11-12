@@ -1,0 +1,7542 @@
+{
+  "url": "https://zenodo.org/records/7544164/files/IDMT-SMT-DRUMS-V2.zip",
+  "content_range": "bytes 287010092-287075648/287075649",
+  "members": [
+    {
+      "name": "annotation_svl/WaveDrum02_57#HH.svl",
+      "compressed_bytes": 475,
+      "bytes": 1866,
+      "offset": 0,
+      "crc32": "64ddc89f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_01#KD.svl",
+      "compressed_bytes": 429,
+      "bytes": 1345,
+      "offset": 540,
+      "crc32": "b2c7e14a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_17#HH.svl",
+      "compressed_bytes": 516,
+      "bytes": 2221,
+      "offset": 1034,
+      "crc32": "484c6f84",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_51#SD.svl",
+      "compressed_bytes": 382,
+      "bytes": 1003,
+      "offset": 1615,
+      "crc32": "46197fdb",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_36#KD.svl",
+      "compressed_bytes": 481,
+      "bytes": 1977,
+      "offset": 2062,
+      "crc32": "a3041aaf",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_11#SD.svl",
+      "compressed_bytes": 374,
+      "bytes": 954,
+      "offset": 2608,
+      "crc32": "43991be6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_10#KD.svl",
+      "compressed_bytes": 458,
+      "bytes": 1639,
+      "offset": 3047,
+      "crc32": "72644b9c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_09#SD.svl",
+      "compressed_bytes": 410,
+      "bytes": 1200,
+      "offset": 3570,
+      "crc32": "a344679c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_02#HH.svl",
+      "compressed_bytes": 581,
+      "bytes": 2812,
+      "offset": 4047,
+      "crc32": "34dc79a7",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_47#SD.svl",
+      "compressed_bytes": 374,
+      "bytes": 954,
+      "offset": 4695,
+      "crc32": "c9f75064",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_60#KD.svl",
+      "compressed_bytes": 421,
+      "bytes": 1372,
+      "offset": 5134,
+      "crc32": "976bf30c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_20#KD.svl",
+      "compressed_bytes": 387,
+      "bytes": 1047,
+      "offset": 5620,
+      "crc32": "081c8bf6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_07#SD.svl",
+      "compressed_bytes": 425,
+      "bytes": 1394,
+      "offset": 6072,
+      "crc32": "229d9610",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_06#KD.svl",
+      "compressed_bytes": 457,
+      "bytes": 1637,
+      "offset": 6562,
+      "crc32": "b4037306",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_04#SD.svl",
+      "compressed_bytes": 419,
+      "bytes": 1249,
+      "offset": 7084,
+      "crc32": "0801e66c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_41#HH.svl",
+      "compressed_bytes": 572,
+      "bytes": 2758,
+      "offset": 7570,
+      "crc32": "668edde9",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_01#HH.svl",
+      "compressed_bytes": 474,
+      "bytes": 1873,
+      "offset": 8207,
+      "crc32": "74fcf72f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_07#SD.svl",
+      "compressed_bytes": 410,
+      "bytes": 1199,
+      "offset": 8746,
+      "crc32": "22633b7c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_10#HH.svl",
+      "compressed_bytes": 501,
+      "bytes": 2077,
+      "offset": 9221,
+      "crc32": "30a4ce00",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_36#HH.svl",
+      "compressed_bytes": 489,
+      "bytes": 2172,
+      "offset": 9787,
+      "crc32": "b74ae3cc",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_30#SD.svl",
+      "compressed_bytes": 374,
+      "bytes": 954,
+      "offset": 10341,
+      "crc32": "f18e8a27",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_17#KD.svl",
+      "compressed_bytes": 488,
+      "bytes": 1977,
+      "offset": 10780,
+      "crc32": "5a769042",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_01#HH.svl",
+      "compressed_bytes": 789,
+      "bytes": 4816,
+      "offset": 11333,
+      "crc32": "84f15071",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_57#KD.svl",
+      "compressed_bytes": 422,
+      "bytes": 1369,
+      "offset": 12187,
+      "crc32": "0877bbc2",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_26#SD.svl",
+      "compressed_bytes": 414,
+      "bytes": 1296,
+      "offset": 12674,
+      "crc32": "52af10b9",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_01#KD.svl",
+      "compressed_bytes": 404,
+      "bytes": 1223,
+      "offset": 13153,
+      "crc32": "22e881e0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_00#SD.svl",
+      "compressed_bytes": 442,
+      "bytes": 1492,
+      "offset": 13622,
+      "crc32": "d721e50d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_41#KD.svl",
+      "compressed_bytes": 434,
+      "bytes": 1439,
+      "offset": 14129,
+      "crc32": "c352e380",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_06#HH.svl",
+      "compressed_bytes": 625,
+      "bytes": 3250,
+      "offset": 14628,
+      "crc32": "8e4a703e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_20#HH.svl",
+      "compressed_bytes": 453,
+      "bytes": 1586,
+      "offset": 15318,
+      "crc32": "d0fb6015",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_60#HH.svl",
+      "compressed_bytes": 608,
+      "bytes": 3407,
+      "offset": 15836,
+      "crc32": "930b48a2",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_02#KD.svl",
+      "compressed_bytes": 428,
+      "bytes": 1345,
+      "offset": 16509,
+      "crc32": "ec86c202",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_13#SD.svl",
+      "compressed_bytes": 384,
+      "bytes": 1003,
+      "offset": 17004,
+      "crc32": "34747434",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_12#KD.svl",
+      "compressed_bytes": 427,
+      "bytes": 1346,
+      "offset": 17453,
+      "crc32": "9b68a663",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_34#KD.svl",
+      "compressed_bytes": 486,
+      "bytes": 1977,
+      "offset": 17945,
+      "crc32": "8222e702",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum02_00#KD.svl",
+      "compressed_bytes": 390,
+      "bytes": 1046,
+      "offset": 18496,
+      "crc32": "ac812d9c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_53#SD.svl",
+      "compressed_bytes": 418,
+      "bytes": 1345,
+      "offset": 18953,
+      "crc32": "81ea4819",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_48#SD.svl",
+      "compressed_bytes": 372,
+      "bytes": 954,
+      "offset": 19436,
+      "crc32": "a91c16f1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_15#HH.svl",
+      "compressed_bytes": 613,
+      "bytes": 3147,
+      "offset": 19873,
+      "crc32": "68e1606f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_03#KD.svl",
+      "compressed_bytes": 591,
+      "bytes": 2959,
+      "offset": 20551,
+      "crc32": "5ad657a8",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_55#HH.svl",
+      "compressed_bytes": 490,
+      "bytes": 2164,
+      "offset": 21207,
+      "crc32": "88cdb7cf",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_08#SD.svl",
+      "compressed_bytes": 414,
+      "bytes": 1296,
+      "offset": 21762,
+      "crc32": "379624bd",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_09#KD.svl",
+      "compressed_bytes": 475,
+      "bytes": 1833,
+      "offset": 22241,
+      "crc32": "a705a74d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_03#HH.svl",
+      "compressed_bytes": 460,
+      "bytes": 1673,
+      "offset": 22781,
+      "crc32": "0ce2b3ad",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_06#SD.svl",
+      "compressed_bytes": 600,
+      "bytes": 3008,
+      "offset": 23306,
+      "crc32": "247afe95",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_43#HH.svl",
+      "compressed_bytes": 429,
+      "bytes": 1438,
+      "offset": 23973,
+      "crc32": "abc88059",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_39#KD.svl",
+      "compressed_bytes": 386,
+      "bytes": 1048,
+      "offset": 24467,
+      "crc32": "233d7393",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_05#SD.svl",
+      "compressed_bytes": 432,
+      "bytes": 1394,
+      "offset": 24918,
+      "crc32": "0063a8d3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_04#KD.svl",
+      "compressed_bytes": 441,
+      "bytes": 1491,
+      "offset": 25415,
+      "crc32": "1c53de1b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_58#HH.svl",
+      "compressed_bytes": 479,
+      "bytes": 1866,
+      "offset": 25921,
+      "crc32": "50de5ddd",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_22#KD.svl",
+      "compressed_bytes": 421,
+      "bytes": 1292,
+      "offset": 26465,
+      "crc32": "4b404ad0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_00#HH.svl",
+      "compressed_bytes": 789,
+      "bytes": 4964,
+      "offset": 26951,
+      "crc32": "003fb987",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_18#HH.svl",
+      "compressed_bytes": 501,
+      "bytes": 2221,
+      "offset": 27807,
+      "crc32": "510e1880",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_45#SD.svl",
+      "compressed_bytes": 413,
+      "bytes": 1296,
+      "offset": 28373,
+      "crc32": "87bd013d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_09#HH.svl",
+      "compressed_bytes": 632,
+      "bytes": 3298,
+      "offset": 28851,
+      "crc32": "53f74b25",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_55#KD.svl",
+      "compressed_bytes": 392,
+      "bytes": 1120,
+      "offset": 29548,
+      "crc32": "664eb3d4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_03#HH.svl",
+      "compressed_bytes": 560,
+      "bytes": 2569,
+      "offset": 30005,
+      "crc32": "e29a7a51",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_15#KD.svl",
+      "compressed_bytes": 493,
+      "bytes": 1976,
+      "offset": 30630,
+      "crc32": "d705dd5e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_32#SD.svl",
+      "compressed_bytes": 385,
+      "bytes": 1003,
+      "offset": 31188,
+      "crc32": "ea17f723",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_29#SD.svl",
+      "compressed_bytes": 373,
+      "bytes": 954,
+      "offset": 31638,
+      "crc32": "2fcd09b9",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_34#HH.svl",
+      "compressed_bytes": 493,
+      "bytes": 2221,
+      "offset": 32076,
+      "crc32": "93aba6a0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_12#HH.svl",
+      "compressed_bytes": 601,
+      "bytes": 2960,
+      "offset": 32634,
+      "crc32": "cca80436",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_05#SD.svl",
+      "compressed_bytes": 444,
+      "bytes": 1493,
+      "offset": 33300,
+      "crc32": "40cbde07",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_18#KD.svl",
+      "compressed_bytes": 479,
+      "bytes": 1977,
+      "offset": 33809,
+      "crc32": "f4e074c2",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_00#KD.svl",
+      "compressed_bytes": 471,
+      "bytes": 1737,
+      "offset": 34353,
+      "crc32": "53f7ca49",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_58#KD.svl",
+      "compressed_bytes": 422,
+      "bytes": 1371,
+      "offset": 34891,
+      "crc32": "9331b233",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_22#HH.svl",
+      "compressed_bytes": 546,
+      "bytes": 2513,
+      "offset": 35378,
+      "crc32": "a2ba1fee",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_04#HH.svl",
+      "compressed_bytes": 631,
+      "bytes": 3347,
+      "offset": 35989,
+      "crc32": "b7c38488",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_43#KD.svl",
+      "compressed_bytes": 437,
+      "bytes": 1488,
+      "offset": 36685,
+      "crc32": "a506a6bb",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_39#HH.svl",
+      "compressed_bytes": 452,
+      "bytes": 1586,
+      "offset": 37187,
+      "crc32": "e287bd4c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_08#SD.svl",
+      "compressed_bytes": 417,
+      "bytes": 1249,
+      "offset": 37704,
+      "crc32": "2a49bd4a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_03#KD.svl",
+      "compressed_bytes": 387,
+      "bytes": 1048,
+      "offset": 38186,
+      "crc32": "a7f1a2b0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_02#SD.svl",
+      "compressed_bytes": 445,
+      "bytes": 1492,
+      "offset": 38638,
+      "crc32": "7645baf9",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_24#SD.svl",
+      "compressed_bytes": 431,
+      "bytes": 1394,
+      "offset": 39148,
+      "crc32": "7b0825d3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_05#HH.svl",
+      "compressed_bytes": 584,
+      "bytes": 2876,
+      "offset": 39644,
+      "crc32": "d0fd9912",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_58#SD.svl",
+      "compressed_bytes": 404,
+      "bytes": 1178,
+      "offset": 40293,
+      "crc32": "3038e79c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_18#SD.svl",
+      "compressed_bytes": 413,
+      "bytes": 1296,
+      "offset": 40762,
+      "crc32": "70907788",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_45#HH.svl",
+      "compressed_bytes": 468,
+      "bytes": 1878,
+      "offset": 41240,
+      "crc32": "54b9ab6b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_00#SD.svl",
+      "compressed_bytes": 401,
+      "bytes": 1151,
+      "offset": 41773,
+      "crc32": "4e17257c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_24#KD.svl",
+      "compressed_bytes": 437,
+      "bytes": 1439,
+      "offset": 42241,
+      "crc32": "cc189496",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_03#SD.svl",
+      "compressed_bytes": 388,
+      "bytes": 1052,
+      "offset": 42743,
+      "crc32": "4ffd7430",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_02#KD.svl",
+      "compressed_bytes": 441,
+      "bytes": 1489,
+      "offset": 43196,
+      "crc32": "a832bfde",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_08#KD.svl",
+      "compressed_bytes": 486,
+      "bytes": 1882,
+      "offset": 43702,
+      "crc32": "6dc404a4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_43#SD.svl",
+      "compressed_bytes": 384,
+      "bytes": 1052,
+      "offset": 44253,
+      "crc32": "bba3554e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_06#HH.svl",
+      "compressed_bytes": 599,
+      "bytes": 2958,
+      "offset": 44702,
+      "crc32": "75b93720",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_32#KD.svl",
+      "compressed_bytes": 491,
+      "bytes": 1976,
+      "offset": 45368,
+      "crc32": "11648dd9",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_48#HH.svl",
+      "compressed_bytes": 513,
+      "bytes": 2221,
+      "offset": 45924,
+      "crc32": "92b17183",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_15#SD.svl",
+      "compressed_bytes": 384,
+      "bytes": 1003,
+      "offset": 46502,
+      "crc32": "7c754c2e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_55#SD.svl",
+      "compressed_bytes": 379,
+      "bytes": 980,
+      "offset": 46951,
+      "crc32": "9a7dc39b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_08#HH.svl",
+      "compressed_bytes": 480,
+      "bytes": 1928,
+      "offset": 47395,
+      "crc32": "81dfc2fe",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_05#KD.svl",
+      "compressed_bytes": 467,
+      "bytes": 1738,
+      "offset": 47940,
+      "crc32": "91e9bd13",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_13#HH.svl",
+      "compressed_bytes": 610,
+      "bytes": 3147,
+      "offset": 48472,
+      "crc32": "239c27fb",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_29#KD.svl",
+      "compressed_bytes": 370,
+      "bytes": 950,
+      "offset": 49147,
+      "crc32": "09112b64",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_53#HH.svl",
+      "compressed_bytes": 489,
+      "bytes": 2172,
+      "offset": 49582,
+      "crc32": "8e5ed18a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_06#KD.svl",
+      "compressed_bytes": 591,
+      "bytes": 2957,
+      "offset": 50136,
+      "crc32": "e046c70c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_39#SD.svl",
+      "compressed_bytes": 392,
+      "bytes": 1052,
+      "offset": 50794,
+      "crc32": "ab2ea042",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_08#HH.svl",
+      "compressed_bytes": 671,
+      "bytes": 3643,
+      "offset": 51251,
+      "crc32": "7e38a535",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_02#HH.svl",
+      "compressed_bytes": 608,
+      "bytes": 3097,
+      "offset": 51987,
+      "crc32": "5d2f1764",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_24#HH.svl",
+      "compressed_bytes": 566,
+      "bytes": 2758,
+      "offset": 52660,
+      "crc32": "9578e529",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_45#KD.svl",
+      "compressed_bytes": 468,
+      "bytes": 1831,
+      "offset": 53291,
+      "crc32": "e9a7e54b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_22#SD.svl",
+      "compressed_bytes": 422,
+      "bytes": 1296,
+      "offset": 53824,
+      "crc32": "1c2d0de5",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_05#KD.svl",
+      "compressed_bytes": 432,
+      "bytes": 1438,
+      "offset": 54311,
+      "crc32": "03e00c1a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_04#SD.svl",
+      "compressed_bytes": 436,
+      "bytes": 1395,
+      "offset": 54808,
+      "crc32": "e12883d6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_29#HH.svl",
+      "compressed_bytes": 517,
+      "bytes": 2221,
+      "offset": 55309,
+      "crc32": "65808793",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_53#KD.svl",
+      "compressed_bytes": 481,
+      "bytes": 1977,
+      "offset": 55891,
+      "crc32": "400a29cd",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum02_00#SD.svl",
+      "compressed_bytes": 363,
+      "bytes": 807,
+      "offset": 56437,
+      "crc32": "df67a374",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_34#SD.svl",
+      "compressed_bytes": 410,
+      "bytes": 1296,
+      "offset": 56867,
+      "crc32": "f7370c98",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_13#KD.svl",
+      "compressed_bytes": 493,
+      "bytes": 1976,
+      "offset": 57342,
+      "crc32": "5b447fa4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_12#SD.svl",
+      "compressed_bytes": 407,
+      "bytes": 1151,
+      "offset": 57900,
+      "crc32": "f10723fa",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_05#HH.svl",
+      "compressed_bytes": 758,
+      "bytes": 4621,
+      "offset": 58372,
+      "crc32": "a2b12f30",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_08#KD.svl",
+      "compressed_bytes": 473,
+      "bytes": 1831,
+      "offset": 59195,
+      "crc32": "9537467f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_09#SD.svl",
+      "compressed_bytes": 442,
+      "bytes": 1443,
+      "offset": 59733,
+      "crc32": "9090dcf0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_03#SD.svl",
+      "compressed_bytes": 436,
+      "bytes": 1445,
+      "offset": 60240,
+      "crc32": "f15ed42f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_32#HH.svl",
+      "compressed_bytes": 613,
+      "bytes": 3147,
+      "offset": 60741,
+      "crc32": "ffbae65b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_48#KD.svl",
+      "compressed_bytes": 371,
+      "bytes": 951,
+      "offset": 61419,
+      "crc32": "4436c509",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_41#SD.svl",
+      "compressed_bytes": 431,
+      "bytes": 1394,
+      "offset": 61855,
+      "crc32": "e0ad9bb4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_04#HH.svl",
+      "compressed_bytes": 621,
+      "bytes": 3156,
+      "offset": 62351,
+      "crc32": "f04c28db",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_01#SD.svl",
+      "compressed_bytes": 405,
+      "bytes": 1180,
+      "offset": 63039,
+      "crc32": "4230d972",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_00#KD.svl",
+      "compressed_bytes": 452,
+      "bytes": 1589,
+      "offset": 63509,
+      "crc32": "ea6cbd10",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_26#KD.svl",
+      "compressed_bytes": 472,
+      "bytes": 1831,
+      "offset": 64026,
+      "crc32": "99cea223",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_47#HH.svl",
+      "compressed_bytes": 511,
+      "bytes": 2320,
+      "offset": 64563,
+      "crc32": "dd85ccec",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_02#SD.svl",
+      "compressed_bytes": 404,
+      "bytes": 1150,
+      "offset": 65139,
+      "crc32": "31d1b794",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_07#HH.svl",
+      "compressed_bytes": 481,
+      "bytes": 2025,
+      "offset": 65610,
+      "crc32": "0856c0aa",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_51#HH.svl",
+      "compressed_bytes": 612,
+      "bytes": 3146,
+      "offset": 66156,
+      "crc32": "039dc1bd",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_09#HH.svl",
+      "compressed_bytes": 608,
+      "bytes": 3154,
+      "offset": 66833,
+      "crc32": "0c043a6d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_11#HH.svl",
+      "compressed_bytes": 515,
+      "bytes": 2221,
+      "offset": 67508,
+      "crc32": "d6f1085c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_07#KD.svl",
+      "compressed_bytes": 446,
+      "bytes": 1541,
+      "offset": 68088,
+      "crc32": "7060972c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_57#SD.svl",
+      "compressed_bytes": 402,
+      "bytes": 1178,
+      "offset": 68599,
+      "crc32": "c98fc558",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_17#SD.svl",
+      "compressed_bytes": 414,
+      "bytes": 1296,
+      "offset": 69066,
+      "crc32": "336ea3f1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_30#KD.svl",
+      "compressed_bytes": 372,
+      "bytes": 951,
+      "offset": 69545,
+      "crc32": "6c4425bd",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_07#KD.svl",
+      "compressed_bytes": 489,
+      "bytes": 2027,
+      "offset": 69982,
+      "crc32": "0ab036bf",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_06#SD.svl",
+      "compressed_bytes": 454,
+      "bytes": 1590,
+      "offset": 70536,
+      "crc32": "2f744c5f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_20#SD.svl",
+      "compressed_bytes": 388,
+      "bytes": 1052,
+      "offset": 71055,
+      "crc32": "43a67fcf",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_60#SD.svl",
+      "compressed_bytes": 373,
+      "bytes": 930,
+      "offset": 71508,
+      "crc32": "2468a7e7",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_47#KD.svl",
+      "compressed_bytes": 376,
+      "bytes": 951,
+      "offset": 71946,
+      "crc32": "9be3503c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_26#HH.svl",
+      "compressed_bytes": 457,
+      "bytes": 1878,
+      "offset": 72387,
+      "crc32": "ad15a94c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_00#HH.svl",
+      "compressed_bytes": 549,
+      "bytes": 2468,
+      "offset": 72909,
+      "crc32": "6af00866",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_04#KD.svl",
+      "compressed_bytes": 456,
+      "bytes": 1590,
+      "offset": 73523,
+      "crc32": "a448ccea",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_30#HH.svl",
+      "compressed_bytes": 506,
+      "bytes": 2221,
+      "offset": 74046,
+      "crc32": "fb458f7f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_01#SD.svl",
+      "compressed_bytes": 398,
+      "bytes": 1101,
+      "offset": 74617,
+      "crc32": "18e67bb8",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_07#HH.svl",
+      "compressed_bytes": 537,
+      "bytes": 2373,
+      "offset": 75080,
+      "crc32": "be286e40",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_11#KD.svl",
+      "compressed_bytes": 374,
+      "bytes": 950,
+      "offset": 75682,
+      "crc32": "8cc10773",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_10#SD.svl",
+      "compressed_bytes": 477,
+      "bytes": 1837,
+      "offset": 76121,
+      "crc32": "c91294a8",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_36#SD.svl",
+      "compressed_bytes": 413,
+      "bytes": 1345,
+      "offset": 76663,
+      "crc32": "9e9ea256",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_09#KD.svl",
+      "compressed_bytes": 457,
+      "bytes": 1590,
+      "offset": 77141,
+      "crc32": "ac2c1a48",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_51#KD.svl",
+      "compressed_bytes": 490,
+      "bytes": 1976,
+      "offset": 77665,
+      "crc32": "b41eefb4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_04#HH.svl",
+      "compressed_bytes": 560,
+      "bytes": 2569,
+      "offset": 78220,
+      "crc32": "12e4f17c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_12#KD.svl",
+      "compressed_bytes": 374,
+      "bytes": 951,
+      "offset": 78845,
+      "crc32": "4fd46a9a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_13#SD.svl",
+      "compressed_bytes": 362,
+      "bytes": 807,
+      "offset": 79284,
+      "crc32": "63aa4bce",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_35#SD.svl",
+      "compressed_bytes": 412,
+      "bytes": 1296,
+      "offset": 79711,
+      "crc32": "90bf6ff3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_52#KD.svl",
+      "compressed_bytes": 489,
+      "bytes": 1977,
+      "offset": 80188,
+      "crc32": "0beec96c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_28#HH.svl",
+      "compressed_bytes": 510,
+      "bytes": 2221,
+      "offset": 80742,
+      "crc32": "dd6af12b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_49#KD.svl",
+      "compressed_bytes": 493,
+      "bytes": 1976,
+      "offset": 81317,
+      "crc32": "a7855f44",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_33#HH.svl",
+      "compressed_bytes": 618,
+      "bytes": 3146,
+      "offset": 81875,
+      "crc32": "cd75f5eb",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_02#SD.svl",
+      "compressed_bytes": 405,
+      "bytes": 1150,
+      "offset": 82558,
+      "crc32": "2a7ea8f3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_09#KD.svl",
+      "compressed_bytes": 474,
+      "bytes": 1880,
+      "offset": 83028,
+      "crc32": "ba78878a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_08#SD.svl",
+      "compressed_bytes": 456,
+      "bytes": 1591,
+      "offset": 83567,
+      "crc32": "405a047f",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_25#HH.svl",
+      "compressed_bytes": 483,
+      "bytes": 2025,
+      "offset": 84088,
+      "crc32": "a536ec76",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_03#HH.svl",
+      "compressed_bytes": 565,
+      "bytes": 2661,
+      "offset": 84636,
+      "crc32": "b873e0be",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_09#HH.svl",
+      "compressed_bytes": 814,
+      "bytes": 5207,
+      "offset": 85266,
+      "crc32": "439e719d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_07#KD.svl",
+      "compressed_bytes": 477,
+      "bytes": 1786,
+      "offset": 86145,
+      "crc32": "1db36359",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_38#SD.svl",
+      "compressed_bytes": 392,
+      "bytes": 1052,
+      "offset": 86689,
+      "crc32": "001a2707",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_04#KD.svl",
+      "compressed_bytes": 437,
+      "bytes": 1488,
+      "offset": 87146,
+      "crc32": "c4d50d84",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_05#SD.svl",
+      "compressed_bytes": 437,
+      "bytes": 1443,
+      "offset": 87648,
+      "crc32": "5d3c98c6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_23#SD.svl",
+      "compressed_bytes": 433,
+      "bytes": 1394,
+      "offset": 88150,
+      "crc32": "9bc726bb",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_44#KD.svl",
+      "compressed_bytes": 475,
+      "bytes": 1880,
+      "offset": 88648,
+      "crc32": "b36adc15",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_09#HH.svl",
+      "compressed_bytes": 460,
+      "bytes": 1829,
+      "offset": 89188,
+      "crc32": "55acc2d8",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_54#SD.svl",
+      "compressed_bytes": 410,
+      "bytes": 1296,
+      "offset": 89713,
+      "crc32": "86a35c17",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_14#SD.svl",
+      "compressed_bytes": 386,
+      "bytes": 1003,
+      "offset": 90188,
+      "crc32": "9b2df1ab",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_49#HH.svl",
+      "compressed_bytes": 608,
+      "bytes": 3147,
+      "offset": 90639,
+      "crc32": "b543a044",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_33#KD.svl",
+      "compressed_bytes": 488,
+      "bytes": 1976,
+      "offset": 91312,
+      "crc32": "d77eecab",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_52#HH.svl",
+      "compressed_bytes": 503,
+      "bytes": 2221,
+      "offset": 91865,
+      "crc32": "44353cfb",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_28#KD.svl",
+      "compressed_bytes": 374,
+      "bytes": 951,
+      "offset": 92433,
+      "crc32": "3c701fd3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_12#HH.svl",
+      "compressed_bytes": 505,
+      "bytes": 2221,
+      "offset": 92872,
+      "crc32": "f420dd26",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_04#KD.svl",
+      "compressed_bytes": 595,
+      "bytes": 2959,
+      "offset": 93442,
+      "crc32": "1832722e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_44#HH.svl",
+      "compressed_bytes": 461,
+      "bytes": 1829,
+      "offset": 94102,
+      "crc32": "d87103de",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_19#SD.svl",
+      "compressed_bytes": 389,
+      "bytes": 1052,
+      "offset": 94628,
+      "crc32": "3a300413",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_01#SD.svl",
+      "compressed_bytes": 402,
+      "bytes": 1101,
+      "offset": 95082,
+      "crc32": "a9faa6f1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_59#SD.svl",
+      "compressed_bytes": 374,
+      "bytes": 930,
+      "offset": 95551,
+      "crc32": "3262bf32",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_04#HH.svl",
+      "compressed_bytes": 589,
+      "bytes": 3018,
+      "offset": 95990,
+      "crc32": "0fdc0935",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_42#SD.svl",
+      "compressed_bytes": 429,
+      "bytes": 1394,
+      "offset": 96644,
+      "crc32": "ce46485b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_07#HH.svl",
+      "compressed_bytes": 668,
+      "bytes": 3644,
+      "offset": 97138,
+      "crc32": "bc091ac0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_09#KD.svl",
+      "compressed_bytes": 491,
+      "bytes": 1932,
+      "offset": 97873,
+      "crc32": "1ac60540",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_02#SD.svl",
+      "compressed_bytes": 392,
+      "bytes": 1052,
+      "offset": 98429,
+      "crc32": "39a46fb7",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_03#KD.svl",
+      "compressed_bytes": 451,
+      "bytes": 1586,
+      "offset": 98886,
+      "crc32": "a99bada6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_25#KD.svl",
+      "compressed_bytes": 491,
+      "bytes": 2027,
+      "offset": 99402,
+      "crc32": "4646ae61",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_00#SD.svl",
+      "compressed_bytes": 405,
+      "bytes": 1151,
+      "offset": 99958,
+      "crc32": "87f54b1c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_31#HH.svl",
+      "compressed_bytes": 619,
+      "bytes": 3147,
+      "offset": 100428,
+      "crc32": "5a30e6f1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_50#KD.svl",
+      "compressed_bytes": 487,
+      "bytes": 1976,
+      "offset": 101112,
+      "crc32": "fbcbe60d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_37#SD.svl",
+      "compressed_bytes": 388,
+      "bytes": 1052,
+      "offset": 101664,
+      "crc32": "f247b302",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_10#KD.svl",
+      "compressed_bytes": 375,
+      "bytes": 951,
+      "offset": 102117,
+      "crc32": "8a1b3c80",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_11#SD.svl",
+      "compressed_bytes": 408,
+      "bytes": 1151,
+      "offset": 102557,
+      "crc32": "dd00b16d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_08#KD.svl",
+      "compressed_bytes": 454,
+      "bytes": 1590,
+      "offset": 103030,
+      "crc32": "afdb76f0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_06#HH.svl",
+      "compressed_bytes": 586,
+      "bytes": 2814,
+      "offset": 103551,
+      "crc32": "7c4ae560",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_46#KD.svl",
+      "compressed_bytes": 376,
+      "bytes": 951,
+      "offset": 104202,
+      "crc32": "2eb55878",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_21#SD.svl",
+      "compressed_bytes": 389,
+      "bytes": 1052,
+      "offset": 104643,
+      "crc32": "3a7ed226",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_06#KD.svl",
+      "compressed_bytes": 437,
+      "bytes": 1439,
+      "offset": 105097,
+      "crc32": "5b5ec0e9",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_07#SD.svl",
+      "compressed_bytes": 451,
+      "bytes": 1590,
+      "offset": 105599,
+      "crc32": "5638c73c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_05#KD.svl",
+      "compressed_bytes": 418,
+      "bytes": 1247,
+      "offset": 106115,
+      "crc32": "22ec90b4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_01#HH.svl",
+      "compressed_bytes": 557,
+      "bytes": 2614,
+      "offset": 106600,
+      "crc32": "dc85a5d2",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_27#HH.svl",
+      "compressed_bytes": 470,
+      "bytes": 1878,
+      "offset": 107222,
+      "crc32": "ab206c0d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_06#KD.svl",
+      "compressed_bytes": 476,
+      "bytes": 1786,
+      "offset": 107757,
+      "crc32": "3aead5a7",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_08#HH.svl",
+      "compressed_bytes": 618,
+      "bytes": 3153,
+      "offset": 108298,
+      "crc32": "7adbb014",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_10#HH.svl",
+      "compressed_bytes": 514,
+      "bytes": 2318,
+      "offset": 108983,
+      "crc32": "3aa5e59c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_50#HH.svl",
+      "compressed_bytes": 617,
+      "bytes": 3265,
+      "offset": 109562,
+      "crc32": "5b88e3ca",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_31#KD.svl",
+      "compressed_bytes": 489,
+      "bytes": 1976,
+      "offset": 110244,
+      "crc32": "72338642",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_16#SD.svl",
+      "compressed_bytes": 414,
+      "bytes": 1296,
+      "offset": 110798,
+      "crc32": "c1e3f0b6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_56#SD.svl",
+      "compressed_bytes": 379,
+      "bytes": 980,
+      "offset": 111277,
+      "crc32": "9a7dc39b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_27#KD.svl",
+      "compressed_bytes": 465,
+      "bytes": 1831,
+      "offset": 111721,
+      "crc32": "4585bd68",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_01#KD.svl",
+      "compressed_bytes": 438,
+      "bytes": 1442,
+      "offset": 112251,
+      "crc32": "0fe2e992",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_40#SD.svl",
+      "compressed_bytes": 428,
+      "bytes": 1394,
+      "offset": 112754,
+      "crc32": "8d00837a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_05#HH.svl",
+      "compressed_bytes": 481,
+      "bytes": 1834,
+      "offset": 113247,
+      "crc32": "94ae5789",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_06#HH.svl",
+      "compressed_bytes": 577,
+      "bytes": 2868,
+      "offset": 113795,
+      "crc32": "cddf594c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_46#HH.svl",
+      "compressed_bytes": 506,
+      "bytes": 2221,
+      "offset": 114437,
+      "crc32": "cc4361c6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_03#SD.svl",
+      "compressed_bytes": 441,
+      "bytes": 1494,
+      "offset": 115008,
+      "crc32": "cf66639d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_40#KD.svl",
+      "compressed_bytes": 438,
+      "bytes": 1439,
+      "offset": 115516,
+      "crc32": "654ddbb3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_01#SD.svl",
+      "compressed_bytes": 397,
+      "bytes": 1102,
+      "offset": 116019,
+      "crc32": "0f5004be",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_27#SD.svl",
+      "compressed_bytes": 414,
+      "bytes": 1296,
+      "offset": 116481,
+      "crc32": "7de6889d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_03#KD.svl",
+      "compressed_bytes": 596,
+      "bytes": 2910,
+      "offset": 116960,
+      "crc32": "6d340c34",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_21#HH.svl",
+      "compressed_bytes": 453,
+      "bytes": 1586,
+      "offset": 117623,
+      "crc32": "16c3b5a9",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_07#HH.svl",
+      "compressed_bytes": 669,
+      "bytes": 3739,
+      "offset": 118141,
+      "crc32": "fb2d81a5",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_37#HH.svl",
+      "compressed_bytes": 451,
+      "bytes": 1586,
+      "offset": 118875,
+      "crc32": "bbaed426",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_11#HH.svl",
+      "compressed_bytes": 588,
+      "bytes": 2863,
+      "offset": 119391,
+      "crc32": "70e42ffe",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_06#SD.svl",
+      "compressed_bytes": 436,
+      "bytes": 1395,
+      "offset": 120044,
+      "crc32": "90198b50",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_56#KD.svl",
+      "compressed_bytes": 392,
+      "bytes": 1120,
+      "offset": 120545,
+      "crc32": "664eb3d4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_00#HH.svl",
+      "compressed_bytes": 775,
+      "bytes": 4817,
+      "offset": 121002,
+      "crc32": "0d1e35b1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_16#KD.svl",
+      "compressed_bytes": 482,
+      "bytes": 1977,
+      "offset": 121842,
+      "crc32": "6f33c521",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_31#SD.svl",
+      "compressed_bytes": 388,
+      "bytes": 1003,
+      "offset": 122389,
+      "crc32": "2d4922c8",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_06#SD.svl",
+      "compressed_bytes": 429,
+      "bytes": 1394,
+      "offset": 122842,
+      "crc32": "ac137989",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_07#KD.svl",
+      "compressed_bytes": 463,
+      "bytes": 1686,
+      "offset": 123336,
+      "crc32": "63a00140",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_21#KD.svl",
+      "compressed_bytes": 388,
+      "bytes": 1048,
+      "offset": 123864,
+      "crc32": "91f2eb4e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_03#HH.svl",
+      "compressed_bytes": 586,
+      "bytes": 2812,
+      "offset": 124317,
+      "crc32": "ad514ef3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_46#SD.svl",
+      "compressed_bytes": 374,
+      "bytes": 954,
+      "offset": 124970,
+      "crc32": "9954d5bf",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_05#SD.svl",
+      "compressed_bytes": 450,
+      "bytes": 1591,
+      "offset": 125409,
+      "crc32": "9c8d788e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_40#HH.svl",
+      "compressed_bytes": 588,
+      "bytes": 2856,
+      "offset": 125926,
+      "crc32": "39eb92c4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_16#HH.svl",
+      "compressed_bytes": 503,
+      "bytes": 2221,
+      "offset": 126579,
+      "crc32": "80f0e6db",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_00#KD.svl",
+      "compressed_bytes": 466,
+      "bytes": 1688,
+      "offset": 127147,
+      "crc32": "9ae78605",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_56#HH.svl",
+      "compressed_bytes": 467,
+      "bytes": 1768,
+      "offset": 127678,
+      "crc32": "d8d6267c",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_10#SD.svl",
+      "compressed_bytes": 375,
+      "bytes": 954,
+      "offset": 128210,
+      "crc32": "bdc1246a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_11#KD.svl",
+      "compressed_bytes": 428,
+      "bytes": 1347,
+      "offset": 128650,
+      "crc32": "02372eb5",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_37#KD.svl",
+      "compressed_bytes": 386,
+      "bytes": 1048,
+      "offset": 129143,
+      "crc32": "230e03a3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_08#SD.svl",
+      "compressed_bytes": 410,
+      "bytes": 1199,
+      "offset": 129594,
+      "crc32": "c864c209",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_50#SD.svl",
+      "compressed_bytes": 387,
+      "bytes": 1030,
+      "offset": 130071,
+      "crc32": "1c19f8a1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_05#HH.svl",
+      "compressed_bytes": 649,
+      "bytes": 3592,
+      "offset": 130523,
+      "crc32": "267ab1c6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_23#HH.svl",
+      "compressed_bytes": 574,
+      "bytes": 2758,
+      "offset": 131237,
+      "crc32": "121f98b2",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_59#KD.svl",
+      "compressed_bytes": 420,
+      "bytes": 1370,
+      "offset": 131876,
+      "crc32": "93f1f8d1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_19#KD.svl",
+      "compressed_bytes": 387,
+      "bytes": 1048,
+      "offset": 132361,
+      "crc32": "77fe50b7",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_01#KD.svl",
+      "compressed_bytes": 431,
+      "bytes": 1345,
+      "offset": 132813,
+      "crc32": "d27f6c44",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_25#SD.svl",
+      "compressed_bytes": 424,
+      "bytes": 1394,
+      "offset": 133311,
+      "crc32": "f2ea4e85",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_02#KD.svl",
+      "compressed_bytes": 387,
+      "bytes": 1047,
+      "offset": 133800,
+      "crc32": "081c8bf6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_03#SD.svl",
+      "compressed_bytes": 429,
+      "bytes": 1345,
+      "offset": 134252,
+      "crc32": "1e38fb48",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_09#SD.svl",
+      "compressed_bytes": 487,
+      "bytes": 1884,
+      "offset": 134746,
+      "crc32": "de4351cf",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_38#HH.svl",
+      "compressed_bytes": 449,
+      "bytes": 1586,
+      "offset": 135298,
+      "crc32": "ab60a30a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_42#KD.svl",
+      "compressed_bytes": 436,
+      "bytes": 1439,
+      "offset": 135812,
+      "crc32": "9a9095f0",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_33#SD.svl",
+      "compressed_bytes": 386,
+      "bytes": 1003,
+      "offset": 136313,
+      "crc32": "7b8de826",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_14#KD.svl",
+      "compressed_bytes": 492,
+      "bytes": 1976,
+      "offset": 136764,
+      "crc32": "16492089",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_02#HH.svl",
+      "compressed_bytes": 820,
+      "bytes": 5257,
+      "offset": 137321,
+      "crc32": "31098b7d",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_54#KD.svl",
+      "compressed_bytes": 490,
+      "bytes": 1977,
+      "offset": 138206,
+      "crc32": "cc42c1ac",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_08#HH.svl",
+      "compressed_bytes": 694,
+      "bytes": 3933,
+      "offset": 138761,
+      "crc32": "b561018e",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_04#SD.svl",
+      "compressed_bytes": 437,
+      "bytes": 1445,
+      "offset": 139520,
+      "crc32": "b236a0f6",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_13#HH.svl",
+      "compressed_bytes": 425,
+      "bytes": 1387,
+      "offset": 140022,
+      "crc32": "406e8f89",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_35#HH.svl",
+      "compressed_bytes": 502,
+      "bytes": 2221,
+      "offset": 140512,
+      "crc32": "41354585",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_28#SD.svl",
+      "compressed_bytes": 373,
+      "bytes": 954,
+      "offset": 141079,
+      "crc32": "d5a19c8b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_07#SD.svl",
+      "compressed_bytes": 422,
+      "bytes": 1298,
+      "offset": 141517,
+      "crc32": "63651a4a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_38#KD.svl",
+      "compressed_bytes": 387,
+      "bytes": 1048,
+      "offset": 142006,
+      "crc32": "f06052e1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_42#HH.svl",
+      "compressed_bytes": 574,
+      "bytes": 2758,
+      "offset": 142458,
+      "crc32": "7c138234",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_02#HH.svl",
+      "compressed_bytes": 450,
+      "bytes": 1673,
+      "offset": 143097,
+      "crc32": "546ec03b",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/TechnoDrum01_01#HH.svl",
+      "compressed_bytes": 574,
+      "bytes": 2763,
+      "offset": 143612,
+      "crc32": "8e2398d4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_44#SD.svl",
+      "compressed_bytes": 414,
+      "bytes": 1296,
+      "offset": 144253,
+      "crc32": "fd1bbff1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_19#HH.svl",
+      "compressed_bytes": 451,
+      "bytes": 1586,
+      "offset": 144732,
+      "crc32": "78a76293",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_23#KD.svl",
+      "compressed_bytes": 437,
+      "bytes": 1438,
+      "offset": 145248,
+      "crc32": "a51903a2",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_59#HH.svl",
+      "compressed_bytes": 594,
+      "bytes": 3258,
+      "offset": 145750,
+      "crc32": "6146722a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_04#SD.svl",
+      "compressed_bytes": 438,
+      "bytes": 1443,
+      "offset": 146409,
+      "crc32": "0d883c27",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_05#KD.svl",
+      "compressed_bytes": 433,
+      "bytes": 1392,
+      "offset": 146912,
+      "crc32": "c97c4bff",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_52#SD.svl",
+      "compressed_bytes": 410,
+      "bytes": 1296,
+      "offset": 147410,
+      "crc32": "30a79e01",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_35#KD.svl",
+      "compressed_bytes": 483,
+      "bytes": 1977,
+      "offset": 147885,
+      "crc32": "0dd39d05",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_12#SD.svl",
+      "compressed_bytes": 373,
+      "bytes": 954,
+      "offset": 148433,
+      "crc32": "77c613f4",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_13#KD.svl",
+      "compressed_bytes": 358,
+      "bytes": 805,
+      "offset": 148871,
+      "crc32": "9a4606c1",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_09#SD.svl",
+      "compressed_bytes": 410,
+      "bytes": 1296,
+      "offset": 149294,
+      "crc32": "86e7c067",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/RealDrum01_08#KD.svl",
+      "compressed_bytes": 480,
+      "bytes": 1830,
+      "offset": 149769,
+      "crc32": "c69cb1c3",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_54#HH.svl",
+      "compressed_bytes": 499,
+      "bytes": 2221,
+      "offset": 150314,
+      "crc32": "8c537c87",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum01_02#KD.svl",
+      "compressed_bytes": 433,
+      "bytes": 1394,
+      "offset": 150878,
+      "crc32": "d3064884",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_14#HH.svl",
+      "compressed_bytes": 604,
+      "bytes": 3147,
+      "offset": 151376,
+      "crc32": "d2525d2a",
+      "method": 8
+    },
+    {
+      "name": "annotation_svl/WaveDrum02_49#SD.svl",
+      "compressed_bytes": 383,
+      "bytes": 1003,
+      "offset": 152045,
+      "crc32": "bc68eb02",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_53#MIX.xml",
+      "compressed_bytes": 1028,
+      "bytes": 13473,
+      "offset": 152493,
+      "crc32": "7e5f4410",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_57#MIX.xml",
+      "compressed_bytes": 855,
+      "bytes": 9751,
+      "offset": 153587,
+      "crc32": "9f403748",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_08#MIX.xml",
+      "compressed_bytes": 1391,
+      "bytes": 19442,
+      "offset": 154508,
+      "crc32": "9d11e098",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_04#MIX.xml",
+      "compressed_bytes": 1208,
+      "bytes": 15934,
+      "offset": 155965,
+      "crc32": "5881c1d4",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_00#MIX.xml",
+      "compressed_bytes": 1094,
+      "bytes": 13784,
+      "offset": 157239,
+      "crc32": "217f0512",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_11#MIX.xml",
+      "compressed_bytes": 850,
+      "bytes": 9191,
+      "offset": 158399,
+      "crc32": "8dfc6a07",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_15#MIX.xml",
+      "compressed_bytes": 1171,
+      "bytes": 15459,
+      "offset": 159315,
+      "crc32": "3efd9a3c",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_19#MIX.xml",
+      "compressed_bytes": 787,
+      "bytes": 7835,
+      "offset": 160552,
+      "crc32": "cd48d320",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_36#MIX.xml",
+      "compressed_bytes": 1026,
+      "bytes": 13461,
+      "offset": 161405,
+      "crc32": "b8e821f0",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_32#MIX.xml",
+      "compressed_bytes": 1184,
+      "bytes": 15459,
+      "offset": 162497,
+      "crc32": "5e34536f",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_08#MIX.xml",
+      "compressed_bytes": 996,
+      "bytes": 11943,
+      "offset": 163747,
+      "crc32": "f6912f75",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_04#MIX.xml",
+      "compressed_bytes": 1127,
+      "bytes": 14709,
+      "offset": 164809,
+      "crc32": "f0d786f0",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_23#MIX.xml",
+      "compressed_bytes": 1080,
+      "bytes": 13771,
+      "offset": 166002,
+      "crc32": "ae7bfe6f",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_03#MIX.xml",
+      "compressed_bytes": 1317,
+      "bytes": 18202,
+      "offset": 167148,
+      "crc32": "6eb85bd1",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_07#MIX.xml",
+      "compressed_bytes": 1027,
+      "bytes": 12426,
+      "offset": 168531,
+      "crc32": "c152a673",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_27#MIX.xml",
+      "compressed_bytes": 993,
+      "bytes": 11943,
+      "offset": 169624,
+      "crc32": "13b7a1bf",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_46#MIX.xml",
+      "compressed_bytes": 839,
+      "bytes": 9205,
+      "offset": 170683,
+      "crc32": "ab0b409a",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_42#MIX.xml",
+      "compressed_bytes": 1066,
+      "bytes": 13785,
+      "offset": 171588,
+      "crc32": "d915294b",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_07#MIX.xml",
+      "compressed_bytes": 1301,
+      "bytes": 17474,
+      "offset": 172720,
+      "crc32": "ee180e09",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_03#MIX.xml",
+      "compressed_bytes": 1362,
+      "bytes": 18998,
+      "offset": 174089,
+      "crc32": "28d525a2",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_11#MIX.xml",
+      "compressed_bytes": 1068,
+      "bytes": 13196,
+      "offset": 175519,
+      "crc32": "972b7697",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum02_00#MIX.xml",
+      "compressed_bytes": 518,
+      "bytes": 3701,
+      "offset": 176653,
+      "crc32": "9ce7b73b",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_05#MIX.xml",
+      "compressed_bytes": 1093,
+      "bytes": 13911,
+      "offset": 177239,
+      "crc32": "9bce071c",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_01#MIX.xml",
+      "compressed_bytes": 877,
+      "bytes": 9371,
+      "offset": 178398,
+      "crc32": "40d1b3db",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_09#MIX.xml",
+      "compressed_bytes": 997,
+      "bytes": 11943,
+      "offset": 179341,
+      "crc32": "b47dc656",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_22#MIX.xml",
+      "compressed_bytes": 983,
+      "bytes": 12243,
+      "offset": 180404,
+      "crc32": "60c1927d",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_02#MIX.xml",
+      "compressed_bytes": 1424,
+      "bytes": 20806,
+      "offset": 181453,
+      "crc32": "d0e9ebbc",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_06#MIX.xml",
+      "compressed_bytes": 1176,
+      "bytes": 15198,
+      "offset": 182943,
+      "crc32": "2633cb64",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_26#MIX.xml",
+      "compressed_bytes": 994,
+      "bytes": 11947,
+      "offset": 184185,
+      "crc32": "5c8d112f",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_06#MIX.xml",
+      "compressed_bytes": 1624,
+      "bytes": 24322,
+      "offset": 185245,
+      "crc32": "53f3d97d",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_02#MIX.xml",
+      "compressed_bytes": 1050,
+      "bytes": 13038,
+      "offset": 186937,
+      "crc32": "2ed93111",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_47#MIX.xml",
+      "compressed_bytes": 844,
+      "bytes": 9355,
+      "offset": 188055,
+      "crc32": "384914df",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_43#MIX.xml",
+      "compressed_bytes": 763,
+      "bytes": 8743,
+      "offset": 188965,
+      "crc32": "ebb973c7",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_10#MIX.xml",
+      "compressed_bytes": 1114,
+      "bytes": 13822,
+      "offset": 189794,
+      "crc32": "83a60373",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_60#MIX.xml",
+      "compressed_bytes": 1012,
+      "bytes": 13679,
+      "offset": 190974,
+      "crc32": "8714f5a1",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_52#MIX.xml",
+      "compressed_bytes": 1053,
+      "bytes": 13473,
+      "offset": 192052,
+      "crc32": "eb9fd405",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_56#MIX.xml",
+      "compressed_bytes": 735,
+      "bytes": 8017,
+      "offset": 193171,
+      "crc32": "ac4a4173",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_05#MIX.xml",
+      "compressed_bytes": 1253,
+      "bytes": 16546,
+      "offset": 193972,
+      "crc32": "62d4c0c0",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_01#MIX.xml",
+      "compressed_bytes": 1022,
+      "bytes": 12560,
+      "offset": 195291,
+      "crc32": "8d79286c",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_09#MIX.xml",
+      "compressed_bytes": 1272,
+      "bytes": 16994,
+      "offset": 196379,
+      "crc32": "8b7210d7",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_18#MIX.xml",
+      "compressed_bytes": 1017,
+      "bytes": 13465,
+      "offset": 197717,
+      "crc32": "5a559f6a",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_10#MIX.xml",
+      "compressed_bytes": 835,
+      "bytes": 9333,
+      "offset": 198800,
+      "crc32": "6671bd0b",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_14#MIX.xml",
+      "compressed_bytes": 1190,
+      "bytes": 15459,
+      "offset": 199701,
+      "crc32": "26736231",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_37#MIX.xml",
+      "compressed_bytes": 781,
+      "bytes": 7829,
+      "offset": 200957,
+      "crc32": "bfd84009",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_33#MIX.xml",
+      "compressed_bytes": 1171,
+      "bytes": 15443,
+      "offset": 201804,
+      "crc32": "3af47fb9",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_20#MIX.xml",
+      "compressed_bytes": 785,
+      "bytes": 7839,
+      "offset": 203041,
+      "crc32": "f23edfe2",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_00#MIX.xml",
+      "compressed_bytes": 1417,
+      "bytes": 20376,
+      "offset": 203892,
+      "crc32": "168cde4d",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_04#MIX.xml",
+      "compressed_bytes": 1322,
+      "bytes": 18220,
+      "offset": 205375,
+      "crc32": "4927252a",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_24#MIX.xml",
+      "compressed_bytes": 1063,
+      "bytes": 13797,
+      "offset": 206763,
+      "crc32": "586fca1a",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_28#MIX.xml",
+      "compressed_bytes": 816,
+      "bytes": 9187,
+      "offset": 207892,
+      "crc32": "f39dfb2c",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_08#MIX.xml",
+      "compressed_bytes": 1288,
+      "bytes": 17776,
+      "offset": 208774,
+      "crc32": "5955fa5e",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_07#MIX.xml",
+      "compressed_bytes": 1049,
+      "bytes": 13329,
+      "offset": 210128,
+      "crc32": "7f125c6d",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_03#MIX.xml",
+      "compressed_bytes": 790,
+      "bytes": 7981,
+      "offset": 211243,
+      "crc32": "58065467",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_12#MIX.xml",
+      "compressed_bytes": 1081,
+      "bytes": 13508,
+      "offset": 212099,
+      "crc32": "e72569de",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_49#MIX.xml",
+      "compressed_bytes": 1173,
+      "bytes": 15457,
+      "offset": 213246,
+      "crc32": "3b20f28d",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_04#MIX.xml",
+      "compressed_bytes": 1163,
+      "bytes": 15180,
+      "offset": 214485,
+      "crc32": "03df6243",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_00#MIX.xml",
+      "compressed_bytes": 1446,
+      "bytes": 20990,
+      "offset": 215716,
+      "crc32": "e17a3d74",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_08#MIX.xml",
+      "compressed_bytes": 1166,
+      "bytes": 15010,
+      "offset": 217230,
+      "crc32": "a442d1ee",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_45#MIX.xml",
+      "compressed_bytes": 991,
+      "bytes": 11939,
+      "offset": 218464,
+      "crc32": "d126a93e",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_41#MIX.xml",
+      "compressed_bytes": 1056,
+      "bytes": 13797,
+      "offset": 219521,
+      "crc32": "15f18b7d",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_07#MIX.xml",
+      "compressed_bytes": 1348,
+      "bytes": 18380,
+      "offset": 220643,
+      "crc32": "a9b8f12e",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_03#MIX.xml",
+      "compressed_bytes": 1121,
+      "bytes": 13944,
+      "offset": 222057,
+      "crc32": "34723a0f",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_50#MIX.xml",
+      "compressed_bytes": 1193,
+      "bytes": 15607,
+      "offset": 223244,
+      "crc32": "fbd2f2d5",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_54#MIX.xml",
+      "compressed_bytes": 1048,
+      "bytes": 13453,
+      "offset": 224503,
+      "crc32": "4725c83c",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_58#MIX.xml",
+      "compressed_bytes": 860,
+      "bytes": 9747,
+      "offset": 225617,
+      "crc32": "dcac9a33",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_39#MIX.xml",
+      "compressed_bytes": 786,
+      "bytes": 7831,
+      "offset": 226543,
+      "crc32": "9045ad70",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_35#MIX.xml",
+      "compressed_bytes": 1031,
+      "bytes": 13449,
+      "offset": 227395,
+      "crc32": "2e035eef",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_31#MIX.xml",
+      "compressed_bytes": 1144,
+      "bytes": 15437,
+      "offset": 228492,
+      "crc32": "c2a757a5",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_12#MIX.xml",
+      "compressed_bytes": 823,
+      "bytes": 9205,
+      "offset": 229702,
+      "crc32": "df48011c",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_16#MIX.xml",
+      "compressed_bytes": 1045,
+      "bytes": 13475,
+      "offset": 230591,
+      "crc32": "e629234e",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_06#MIX.xml",
+      "compressed_bytes": 1257,
+      "bytes": 16696,
+      "offset": 231702,
+      "crc32": "c2245130",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_02#MIX.xml",
+      "compressed_bytes": 1203,
+      "bytes": 15474,
+      "offset": 233025,
+      "crc32": "25b51ff2",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_59#MIX.xml",
+      "compressed_bytes": 997,
+      "bytes": 13199,
+      "offset": 234294,
+      "crc32": "9a43d701",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_51#MIX.xml",
+      "compressed_bytes": 1184,
+      "bytes": 15463,
+      "offset": 235357,
+      "crc32": "f53ce917",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_55#MIX.xml",
+      "compressed_bytes": 766,
+      "bytes": 9185,
+      "offset": 236607,
+      "crc32": "744dcbb0",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_34#MIX.xml",
+      "compressed_bytes": 1029,
+      "bytes": 13469,
+      "offset": 237439,
+      "crc32": "e7b68b51",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_30#MIX.xml",
+      "compressed_bytes": 815,
+      "bytes": 9195,
+      "offset": 238534,
+      "crc32": "a950db26",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_38#MIX.xml",
+      "compressed_bytes": 784,
+      "bytes": 7829,
+      "offset": 239415,
+      "crc32": "42fcc23f",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_13#MIX.xml",
+      "compressed_bytes": 1174,
+      "bytes": 15463,
+      "offset": 240265,
+      "crc32": "c198fb6c",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_17#MIX.xml",
+      "compressed_bytes": 1067,
+      "bytes": 13447,
+      "offset": 241505,
+      "crc32": "aeb3e4c7",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_29#MIX.xml",
+      "compressed_bytes": 837,
+      "bytes": 9159,
+      "offset": 242638,
+      "crc32": "2bdd198a",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_09#MIX.xml",
+      "compressed_bytes": 1652,
+      "bytes": 24664,
+      "offset": 243541,
+      "crc32": "0630b633",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_21#MIX.xml",
+      "compressed_bytes": 786,
+      "bytes": 7831,
+      "offset": 245259,
+      "crc32": "784e4334",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_01#MIX.xml",
+      "compressed_bytes": 1354,
+      "bytes": 19116,
+      "offset": 246111,
+      "crc32": "bbe17fb7",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum01_05#MIX.xml",
+      "compressed_bytes": 1468,
+      "bytes": 21004,
+      "offset": 247531,
+      "crc32": "bfd7f9d8",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_25#MIX.xml",
+      "compressed_bytes": 1059,
+      "bytes": 13329,
+      "offset": 249065,
+      "crc32": "ab1da26f",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_06#MIX.xml",
+      "compressed_bytes": 1081,
+      "bytes": 13955,
+      "offset": 250190,
+      "crc32": "79727c44",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_02#MIX.xml",
+      "compressed_bytes": 797,
+      "bytes": 7993,
+      "offset": 251337,
+      "crc32": "e128dc84",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/RealDrum01_13#MIX.xml",
+      "compressed_bytes": 620,
+      "bytes": 5827,
+      "offset": 252200,
+      "crc32": "32ce3950",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_09#MIX.xml",
+      "compressed_bytes": 1160,
+      "bytes": 15020,
+      "offset": 252886,
+      "crc32": "941efd76",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_44#MIX.xml",
+      "compressed_bytes": 995,
+      "bytes": 11941,
+      "offset": 254114,
+      "crc32": "96e5ef73",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_40#MIX.xml",
+      "compressed_bytes": 1099,
+      "bytes": 14103,
+      "offset": 255175,
+      "crc32": "4cf21a77",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/WaveDrum02_48#MIX.xml",
+      "compressed_bytes": 830,
+      "bytes": 9209,
+      "offset": 256340,
+      "crc32": "b6ad23b5",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_05#MIX.xml",
+      "compressed_bytes": 954,
+      "bytes": 11046,
+      "offset": 257236,
+      "crc32": "325fba56",
+      "method": 8
+    },
+    {
+      "name": "annotation_xml/TechnoDrum01_01#MIX.xml",
+      "compressed_bytes": 1028,
+      "bytes": 12720,
+      "offset": 258258,
+      "crc32": "c16c1390",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_32#MIX.wav",
+      "compressed_bytes": 971259,
+      "bytes": 1139860,
+      "offset": 259354,
+      "crc32": "656f5a7c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_07#HH#train.wav",
+      "compressed_bytes": 201965,
+      "bytes": 405366,
+      "offset": 1230670,
+      "crc32": "476e0852",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_06#KD#train.wav",
+      "compressed_bytes": 222266,
+      "bytes": 836530,
+      "offset": 1432697,
+      "crc32": "ff0e6732",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_40#HH.wav",
+      "compressed_bytes": 663859,
+      "bytes": 1445114,
+      "offset": 1655025,
+      "crc32": "55a17407",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_32#KD#train.wav",
+      "compressed_bytes": 684411,
+      "bytes": 1705208,
+      "offset": 2318940,
+      "crc32": "e285c25a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_36#MIX.wav",
+      "compressed_bytes": 883126,
+      "bytes": 1058444,
+      "offset": 3003413,
+      "crc32": "9c5658e5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_47#SD#train.wav",
+      "compressed_bytes": 169998,
+      "bytes": 1267892,
+      "offset": 3886596,
+      "crc32": "73fadacc",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_06#SD.wav",
+      "compressed_bytes": 577168,
+      "bytes": 1245228,
+      "offset": 4056656,
+      "crc32": "dbda7b76",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_21#KD.wav",
+      "compressed_bytes": 503878,
+      "bytes": 1245228,
+      "offset": 4633880,
+      "crc32": "8a5fb72c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_27#HH#train.wav",
+      "compressed_bytes": 269002,
+      "bytes": 1508600,
+      "offset": 5137814,
+      "crc32": "6b7e94c3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_18#KD#train.wav",
+      "compressed_bytes": 437695,
+      "bytes": 1377528,
+      "offset": 5406878,
+      "crc32": "f520b228",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_09#KD#train.wav",
+      "compressed_bytes": 107993,
+      "bytes": 405366,
+      "offset": 5844635,
+      "crc32": "1d3346c8",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_13#HH#train.wav",
+      "compressed_bytes": 396494,
+      "bytes": 586018,
+      "offset": 5952692,
+      "crc32": "8fb2e57a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_46#SD.wav",
+      "compressed_bytes": 273044,
+      "bytes": 1376300,
+      "offset": 6349248,
+      "crc32": "815c364c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_14#SD#train.wav",
+      "compressed_bytes": 389315,
+      "bytes": 1595572,
+      "offset": 6622348,
+      "crc32": "eb63847a",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_05#SD#train.wav",
+      "compressed_bytes": 123495,
+      "bytes": 447806,
+      "offset": 7011725,
+      "crc32": "2c2d7ed5",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_08#KD#train.wav",
+      "compressed_bytes": 169083,
+      "bytes": 405364,
+      "offset": 7135284,
+      "crc32": "2b3c6615",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_19#KD#train.wav",
+      "compressed_bytes": 329693,
+      "bytes": 1637624,
+      "offset": 7304431,
+      "crc32": "db530fe7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_15#MIX.wav",
+      "compressed_bytes": 971876,
+      "bytes": 1139860,
+      "offset": 7634186,
+      "crc32": "c565d3d3",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_12#HH#train.wav",
+      "compressed_bytes": 297250,
+      "bytes": 703652,
+      "offset": 8606119,
+      "crc32": "101ae425",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_26#HH#train.wav",
+      "compressed_bytes": 338882,
+      "bytes": 1530036,
+      "offset": 8903431,
+      "crc32": "32d30455",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_46#SD#train.wav",
+      "compressed_bytes": 169898,
+      "bytes": 1223792,
+      "offset": 9242375,
+      "crc32": "2a8e8c4d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_10#SD.wav",
+      "compressed_bytes": 267150,
+      "bytes": 1245228,
+      "offset": 9412335,
+      "crc32": "cc9b345c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_37#KD.wav",
+      "compressed_bytes": 657961,
+      "bytes": 1324692,
+      "offset": 9679541,
+      "crc32": "f18bccb2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_50#SD.wav",
+      "compressed_bytes": 443065,
+      "bytes": 1139860,
+      "offset": 10337558,
+      "crc32": "8f95307f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_11#MIX.wav",
+      "compressed_bytes": 975504,
+      "bytes": 1245228,
+      "offset": 10780679,
+      "crc32": "10e7d89e",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_04#SD#train.wav",
+      "compressed_bytes": 161202,
+      "bytes": 500234,
+      "offset": 11756240,
+      "crc32": "73260750",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_15#SD#train.wav",
+      "compressed_bytes": 278368,
+      "bytes": 1464500,
+      "offset": 11917506,
+      "crc32": "1325fa5d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_06#HH#train.wav",
+      "compressed_bytes": 212992,
+      "bytes": 405366,
+      "offset": 12195936,
+      "crc32": "637e8456",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_16#HH.wav",
+      "compressed_bytes": 760743,
+      "bytes": 1176044,
+      "offset": 12408990,
+      "crc32": "45a87b72",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_60#KD#train.wav",
+      "compressed_bytes": 76618,
+      "bytes": 151188,
+      "offset": 13169789,
+      "crc32": "eb6686cf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_19#MIX.wav",
+      "compressed_bytes": 697740,
+      "bytes": 1264480,
+      "offset": 13246469,
+      "crc32": "79feb574",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_56#HH.wav",
+      "compressed_bytes": 586393,
+      "bytes": 705644,
+      "offset": 13944266,
+      "crc32": "a1e51edd",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_33#KD#train.wav",
+      "compressed_bytes": 552419,
+      "bytes": 1639672,
+      "offset": 14530715,
+      "crc32": "c2b49cf3",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_07#KD#train.wav",
+      "compressed_bytes": 238809,
+      "bytes": 636898,
+      "offset": 15083196,
+      "crc32": "96a2eba5",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum02_00#KD#train.wav",
+      "compressed_bytes": 376917,
+      "bytes": 672060,
+      "offset": 15322067,
+      "crc32": "e577c300",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_17#SD#train.wav",
+      "compressed_bytes": 395263,
+      "bytes": 1398964,
+      "offset": 15699048,
+      "crc32": "ec5e5783",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_06#SD#train.wav",
+      "compressed_bytes": 139112,
+      "bytes": 447806,
+      "offset": 16094373,
+      "crc32": "463380ee",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_48#KD#train.wav",
+      "compressed_bytes": 660495,
+      "bytes": 1508600,
+      "offset": 16233549,
+      "crc32": "fa97e287",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_44#SD#train.wav",
+      "compressed_bytes": 272516,
+      "bytes": 1136820,
+      "offset": 16894106,
+      "crc32": "0867e474",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_08#MIX.wav",
+      "compressed_bytes": 1424242,
+      "bytes": 1655346,
+      "offset": 17166684,
+      "crc32": "74183a7d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_24#HH#train.wav",
+      "compressed_bytes": 278034,
+      "bytes": 1443064,
+      "offset": 18590983,
+      "crc32": "c1d08cab",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_21#HH.wav",
+      "compressed_bytes": 471668,
+      "bytes": 1245228,
+      "offset": 18869079,
+      "crc32": "e13c691c",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_10#HH#train.wav",
+      "compressed_bytes": 320818,
+      "bytes": 711910,
+      "offset": 19340803,
+      "crc32": "bec4d1e5",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_00#MIX.wav",
+      "compressed_bytes": 1243910,
+      "bytes": 1561772,
+      "offset": 19661683,
+      "crc32": "3681e1e0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_40#KD.wav",
+      "compressed_bytes": 814421,
+      "bytes": 1445114,
+      "offset": 20905650,
+      "crc32": "c9f141e9",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_05#KD#train.wav",
+      "compressed_bytes": 180066,
+      "bytes": 830426,
+      "offset": 21720127,
+      "crc32": "835a86ac",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_31#KD#train.wav",
+      "compressed_bytes": 413906,
+      "bytes": 1661108,
+      "offset": 21900255,
+      "crc32": "fd74caed",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_04#MIX.wav",
+      "compressed_bytes": 1225165,
+      "bytes": 1440358,
+      "offset": 22314223,
+      "crc32": "64664db5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_27#SD.wav",
+      "compressed_bytes": 695188,
+      "bytes": 1245228,
+      "offset": 23539445,
+      "crc32": "b85beed2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_04#HH#train.wav",
+      "compressed_bytes": 227084,
+      "bytes": 500238,
+      "offset": 24234689,
+      "crc32": "8ee78202",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_09#SD#train.wav",
+      "compressed_bytes": 233311,
+      "bytes": 793032,
+      "offset": 24461835,
+      "crc32": "f99f0234",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_56#KD.wav",
+      "compressed_bytes": 245534,
+      "bytes": 705644,
+      "offset": 24695208,
+      "crc32": "be3255d6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_30#KD#train.wav",
+      "compressed_bytes": 285732,
+      "bytes": 1377528,
+      "offset": 24940798,
+      "crc32": "466365d7",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_04#KD#train.wav",
+      "compressed_bytes": 187563,
+      "bytes": 843420,
+      "offset": 25226592,
+      "crc32": "f4457c85",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_05#HH#train.wav",
+      "compressed_bytes": 251743,
+      "bytes": 447808,
+      "offset": 25414217,
+      "crc32": "83526df9",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_08#SD#train.wav",
+      "compressed_bytes": 280252,
+      "bytes": 755032,
+      "offset": 25666022,
+      "crc32": "1f3664d7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_16#KD.wav",
+      "compressed_bytes": 736180,
+      "bytes": 1176044,
+      "offset": 25946336,
+      "crc32": "e669d9b7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_31#SD.wav",
+      "compressed_bytes": 367029,
+      "bytes": 1139860,
+      "offset": 26682572,
+      "crc32": "b074ec23",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_49#KD#train.wav",
+      "compressed_bytes": 694870,
+      "bytes": 1792180,
+      "offset": 27049657,
+      "crc32": "62adbb79",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_07#SD#train.wav",
+      "compressed_bytes": 142340,
+      "bytes": 405364,
+      "offset": 27744589,
+      "crc32": "033fd6b3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_16#SD#train.wav",
+      "compressed_bytes": 337284,
+      "bytes": 1333428,
+      "offset": 27886993,
+      "crc32": "00505490",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_57#MIX.wav",
+      "compressed_bytes": 658210,
+      "bytes": 846764,
+      "offset": 28224339,
+      "crc32": "d336b00a",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_11#HH#train.wav",
+      "compressed_bytes": 320818,
+      "bytes": 711910,
+      "offset": 28882606,
+      "crc32": "bec4d1e5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_53#MIX.wav",
+      "compressed_bytes": 855057,
+      "bytes": 1176044,
+      "offset": 29203486,
+      "crc32": "2ed13517",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_25#HH#train.wav",
+      "compressed_bytes": 315774,
+      "bytes": 1938680,
+      "offset": 30058600,
+      "crc32": "10f2cfb3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_37#HH.wav",
+      "compressed_bytes": 395733,
+      "bytes": 1324692,
+      "offset": 30374436,
+      "crc32": "e6ebce9e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_45#SD#train.wav",
+      "compressed_bytes": 528950,
+      "bytes": 1289328,
+      "offset": 30770225,
+      "crc32": "9dbd7bc9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_00#HH#train.wav",
+      "compressed_bytes": 224983,
+      "bytes": 531362,
+      "offset": 31299237,
+      "crc32": "5e31a3bb",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_39#SD#train.wav",
+      "compressed_bytes": 475103,
+      "bytes": 1333428,
+      "offset": 31524282,
+      "crc32": "383c8d14",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_59#HH#train.wav",
+      "compressed_bytes": 142989,
+      "bytes": 207862,
+      "offset": 31999447,
+      "crc32": "d91b4759",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_44#SD.wav",
+      "compressed_bytes": 610947,
+      "bytes": 1245228,
+      "offset": 32142498,
+      "crc32": "55090d97",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_19#HH.wav",
+      "compressed_bytes": 360224,
+      "bytes": 1264480,
+      "offset": 32753501,
+      "crc32": "e686bd4d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_59#HH.wav",
+      "compressed_bytes": 572181,
+      "bytes": 846764,
+      "offset": 33113781,
+      "crc32": "30eb8a98",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_23#KD.wav",
+      "compressed_bytes": 654591,
+      "bytes": 1441836,
+      "offset": 33686018,
+      "crc32": "e86f9631",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_04#SD.wav",
+      "compressed_bytes": 668764,
+      "bytes": 1324692,
+      "offset": 34340665,
+      "crc32": "ab9dae0f",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_01#KD#train.wav",
+      "compressed_bytes": 191022,
+      "bytes": 725950,
+      "offset": 35009485,
+      "crc32": "d69b5613",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_35#KD#train.wav",
+      "compressed_bytes": 515975,
+      "bytes": 1464500,
+      "offset": 35200569,
+      "crc32": "7e8337cc",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_11#MIX.wav",
+      "compressed_bytes": 1383555,
+      "bytes": 1727990,
+      "offset": 35716606,
+      "crc32": "2c44f04c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_20#HH#train.wav",
+      "compressed_bytes": 261853,
+      "bytes": 1267892,
+      "offset": 37100218,
+      "crc32": "46904e27",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_42#HH.wav",
+      "compressed_bytes": 834623,
+      "bytes": 1507372,
+      "offset": 37362133,
+      "crc32": "7a72e8b4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_38#KD.wav",
+      "compressed_bytes": 299494,
+      "bytes": 1245228,
+      "offset": 38196812,
+      "crc32": "f1daa37b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_40#SD#train.wav",
+      "compressed_bytes": 508748,
+      "bytes": 1970904,
+      "offset": 38496362,
+      "crc32": "c408b3c3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_02#HH.wav",
+      "compressed_bytes": 517204,
+      "bytes": 1310764,
+      "offset": 39005172,
+      "crc32": "fd60e958",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_13#SD#train.wav",
+      "compressed_bytes": 322162,
+      "bytes": 1464500,
+      "offset": 39522432,
+      "crc32": "97e16f93",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_02#SD#train.wav",
+      "compressed_bytes": 296810,
+      "bytes": 500234,
+      "offset": 39844656,
+      "crc32": "34849ac1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_41#SD#train.wav",
+      "compressed_bytes": 363207,
+      "bytes": 1508600,
+      "offset": 40141530,
+      "crc32": "e3310c70",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_42#MIX.wav",
+      "compressed_bytes": 1081362,
+      "bytes": 1507372,
+      "offset": 40504799,
+      "crc32": "40968cb5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_09#SD.wav",
+      "compressed_bytes": 619444,
+      "bytes": 1179692,
+      "offset": 41586218,
+      "crc32": "66c7dfa1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_54#HH.wav",
+      "compressed_bytes": 827278,
+      "bytes": 1176044,
+      "offset": 42205718,
+      "crc32": "1d74f339",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_21#HH#train.wav",
+      "compressed_bytes": 202244,
+      "bytes": 1158256,
+      "offset": 43033052,
+      "crc32": "587e072f",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_03#SD#train.wav",
+      "compressed_bytes": 103162,
+      "bytes": 500234,
+      "offset": 43235358,
+      "crc32": "b781dd3a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_12#SD#train.wav",
+      "compressed_bytes": 120145,
+      "bytes": 1223792,
+      "offset": 43338584,
+      "crc32": "45f427f1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_46#MIX.wav",
+      "compressed_bytes": 903138,
+      "bytes": 1376300,
+      "offset": 43458791,
+      "crc32": "1b903e0d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_14#HH.wav",
+      "compressed_bytes": 733924,
+      "bytes": 1139860,
+      "offset": 44361986,
+      "crc32": "b4cab03b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_49#SD.wav",
+      "compressed_bytes": 531402,
+      "bytes": 1139860,
+      "offset": 45095966,
+      "crc32": "2935bf3c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_58#HH#train.wav",
+      "compressed_bytes": 146222,
+      "bytes": 233580,
+      "offset": 45627424,
+      "crc32": "b569bcf3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_52#SD.wav",
+      "compressed_bytes": 719589,
+      "bytes": 1176044,
+      "offset": 45773708,
+      "crc32": "e3faf122",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_38#SD#train.wav",
+      "compressed_bytes": 199143,
+      "bytes": 1136820,
+      "offset": 46493353,
+      "crc32": "52c6260b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_01#HH#train.wav",
+      "compressed_bytes": 233317,
+      "bytes": 500236,
+      "offset": 46692558,
+      "crc32": "5ae5dbf7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_34#KD#train.wav",
+      "compressed_bytes": 316464,
+      "bytes": 1443064,
+      "offset": 46925937,
+      "crc32": "32dffe55",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_35#KD.wav",
+      "compressed_bytes": 657522,
+      "bytes": 1058444,
+      "offset": 47242463,
+      "crc32": "ea05ffe8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_12#SD.wav",
+      "compressed_bytes": 224991,
+      "bytes": 1245228,
+      "offset": 47900041,
+      "crc32": "4994b1f9",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_00#KD#train.wav",
+      "compressed_bytes": 176184,
+      "bytes": 729318,
+      "offset": 48125088,
+      "crc32": "4b27e264",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_25#SD.wav",
+      "compressed_bytes": 609444,
+      "bytes": 1324692,
+      "offset": 48301334,
+      "crc32": "9b4ab9cc",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_02#KD.wav",
+      "compressed_bytes": 624178,
+      "bytes": 1310764,
+      "offset": 48910834,
+      "crc32": "a34eb9f8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_10#SD#train.wav",
+      "compressed_bytes": 137343,
+      "bytes": 1223792,
+      "offset": 49535068,
+      "crc32": "ea3c612c",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_01#SD#train.wav",
+      "compressed_bytes": 209374,
+      "bytes": 500234,
+      "offset": 49672473,
+      "crc32": "e17fb83b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_23#HH#train.wav",
+      "compressed_bytes": 355939,
+      "bytes": 1464500,
+      "offset": 49881911,
+      "crc32": "90ea0627",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_43#SD#train.wav",
+      "compressed_bytes": 314726,
+      "bytes": 1092720,
+      "offset": 50237912,
+      "crc32": "1f970c5e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_42#KD.wav",
+      "compressed_bytes": 894572,
+      "bytes": 1507372,
+      "offset": 50552700,
+      "crc32": "163e4a7b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_38#HH.wav",
+      "compressed_bytes": 355403,
+      "bytes": 1245228,
+      "offset": 51447328,
+      "crc32": "d38a2bb0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_59#KD.wav",
+      "compressed_bytes": 200090,
+      "bytes": 846764,
+      "offset": 51802787,
+      "crc32": "7bed119b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_23#HH.wav",
+      "compressed_bytes": 698257,
+      "bytes": 1441836,
+      "offset": 52002933,
+      "crc32": "4485fe4b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_27#MIX.wav",
+      "compressed_bytes": 917142,
+      "bytes": 1245228,
+      "offset": 52701246,
+      "crc32": "341e2e23",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_09#HH#train.wav",
+      "compressed_bytes": 217789,
+      "bytes": 1443064,
+      "offset": 53618445,
+      "crc32": "477a9418",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_02#MIX.wav",
+      "compressed_bytes": 873816,
+      "bytes": 1589764,
+      "offset": 53836296,
+      "crc32": "bfa8ac7a",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_02#KD#train.wav",
+      "compressed_bytes": 177429,
+      "bytes": 752446,
+      "offset": 54710171,
+      "crc32": "c3e81e81",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_36#KD#train.wav",
+      "compressed_bytes": 410069,
+      "bytes": 1377528,
+      "offset": 54887662,
+      "crc32": "4e1ee1bb",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_07#MIX.wav",
+      "compressed_bytes": 1162190,
+      "bytes": 1488976,
+      "offset": 55297793,
+      "crc32": "81b9d4bb",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_06#MIX.wav",
+      "compressed_bytes": 1360260,
+      "bytes": 1539374,
+      "offset": 56460040,
+      "crc32": "cf3c56b7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_03#HH#train.wav",
+      "compressed_bytes": 209272,
+      "bytes": 500234,
+      "offset": 57820359,
+      "crc32": "fab8cb3e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_03#MIX.wav",
+      "compressed_bytes": 1346865,
+      "bytes": 1527512,
+      "offset": 58029693,
+      "crc32": "610308e8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_19#KD.wav",
+      "compressed_bytes": 341537,
+      "bytes": 1264480,
+      "offset": 59376615,
+      "crc32": "98f01404",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_23#MIX.wav",
+      "compressed_bytes": 1056288,
+      "bytes": 1441836,
+      "offset": 59718208,
+      "crc32": "2a547c06",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_37#KD#train.wav",
+      "compressed_bytes": 576977,
+      "bytes": 1697836,
+      "offset": 60774553,
+      "crc32": "f7462b32",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_08#HH#train.wav",
+      "compressed_bytes": 282689,
+      "bytes": 1464500,
+      "offset": 61351592,
+      "crc32": "671bf120",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_03#KD#train.wav",
+      "compressed_bytes": 196664,
+      "bytes": 742144,
+      "offset": 61634343,
+      "crc32": "d3039892",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_35#HH.wav",
+      "compressed_bytes": 728444,
+      "bytes": 1058444,
+      "offset": 61831069,
+      "crc32": "da9fb2d0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_08#MIX.wav",
+      "compressed_bytes": 1008999,
+      "bytes": 1285244,
+      "offset": 62559569,
+      "crc32": "414338e5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_02#HH#train.wav",
+      "compressed_bytes": 276197,
+      "bytes": 500236,
+      "offset": 63568625,
+      "crc32": "701d76c7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_28#SD.wav",
+      "compressed_bytes": 183624,
+      "bytes": 1179692,
+      "offset": 63844884,
+      "crc32": "71abd4a3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_33#SD.wav",
+      "compressed_bytes": 557123,
+      "bytes": 1139860,
+      "offset": 64028564,
+      "crc32": "0bd5057d",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_00#SD#train.wav",
+      "compressed_bytes": 105380,
+      "bytes": 531362,
+      "offset": 64585743,
+      "crc32": "8b8e256a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_14#KD.wav",
+      "compressed_bytes": 766942,
+      "bytes": 1139860,
+      "offset": 64691187,
+      "crc32": "32ac373a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_11#SD#train.wav",
+      "compressed_bytes": 163025,
+      "bytes": 1223792,
+      "offset": 65458185,
+      "crc32": "69ef5fe9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_42#SD#train.wav",
+      "compressed_bytes": 725949,
+      "bytes": 1705208,
+      "offset": 65621272,
+      "crc32": "e6b2c1b6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_54#KD.wav",
+      "compressed_bytes": 885058,
+      "bytes": 1176044,
+      "offset": 66347283,
+      "crc32": "6d0f822b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_22#HH#train.wav",
+      "compressed_bytes": 329123,
+      "bytes": 2135426,
+      "offset": 67232397,
+      "crc32": "2ab98dad",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_04#MIX.wav",
+      "compressed_bytes": 1033984,
+      "bytes": 1324692,
+      "offset": 67561582,
+      "crc32": "82fd957c",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_08#KD#train.wav",
+      "compressed_bytes": 193798,
+      "bytes": 755032,
+      "offset": 68595623,
+      "crc32": "49dba3de",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_03#HH#train.wav",
+      "compressed_bytes": 177565,
+      "bytes": 1158256,
+      "offset": 68789483,
+      "crc32": "65edd9f3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_28#KD.wav",
+      "compressed_bytes": 263543,
+      "bytes": 1179692,
+      "offset": 68967110,
+      "crc32": "36018186",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_52#HH.wav",
+      "compressed_bytes": 698391,
+      "bytes": 1176044,
+      "offset": 69230709,
+      "crc32": "6e5f6713",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_12#HH.wav",
+      "compressed_bytes": 410967,
+      "bytes": 1245228,
+      "offset": 69929156,
+      "crc32": "5326304d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_50#HH#train.wav",
+      "compressed_bytes": 297632,
+      "bytes": 1508600,
+      "offset": 70340179,
+      "crc32": "9525bbba",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_04#SD#train.wav",
+      "compressed_bytes": 177121,
+      "bytes": 843420,
+      "offset": 70637873,
+      "crc32": "5e2126d3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_09#HH#train.wav",
+      "compressed_bytes": 214426,
+      "bytes": 536882,
+      "offset": 70815056,
+      "crc32": "2a669414",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_30#SD#train.wav",
+      "compressed_bytes": 185415,
+      "bytes": 1267892,
+      "offset": 71029544,
+      "crc32": "44821c65",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_09#HH.wav",
+      "compressed_bytes": 655510,
+      "bytes": 1179692,
+      "offset": 71215021,
+      "crc32": "90248ee9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_45#KD#train.wav",
+      "compressed_bytes": 655881,
+      "bytes": 1311992,
+      "offset": 71870587,
+      "crc32": "79304afd",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_54#SD.wav",
+      "compressed_bytes": 810335,
+      "bytes": 1176044,
+      "offset": 72526530,
+      "crc32": "d9c5e3d7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_60#MIX.wav",
+      "compressed_bytes": 674915,
+      "bytes": 846764,
+      "offset": 73336921,
+      "crc32": "b5a34862",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_14#SD.wav",
+      "compressed_bytes": 578938,
+      "bytes": 1139860,
+      "offset": 74011893,
+      "crc32": "31cbc47b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_33#KD.wav",
+      "compressed_bytes": 645384,
+      "bytes": 1139860,
+      "offset": 74590887,
+      "crc32": "e8847417",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_49#HH.wav",
+      "compressed_bytes": 808062,
+      "bytes": 1139860,
+      "offset": 75236327,
+      "crc32": "4eaf0185",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_49#SD#train.wav",
+      "compressed_bytes": 387183,
+      "bytes": 1574136,
+      "offset": 76044445,
+      "crc32": "398d98f6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_29#HH#train.wav",
+      "compressed_bytes": 333102,
+      "bytes": 1508600,
+      "offset": 76431690,
+      "crc32": "698760b2",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_10#MIX.wav",
+      "compressed_bytes": 1588424,
+      "bytes": 1876432,
+      "offset": 76764854,
+      "crc32": "28846746",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_07#KD#train.wav",
+      "compressed_bytes": 128947,
+      "bytes": 405364,
+      "offset": 78353335,
+      "crc32": "a058133c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_16#KD#train.wav",
+      "compressed_bytes": 511756,
+      "bytes": 1398964,
+      "offset": 78482346,
+      "crc32": "4b311610",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_44#KD#train.wav",
+      "compressed_bytes": 211608,
+      "bytes": 1180920,
+      "offset": 78994164,
+      "crc32": "5f2d2e1e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_42#SD.wav",
+      "compressed_bytes": 841766,
+      "bytes": 1507372,
+      "offset": 79205834,
+      "crc32": "1f33f875",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_02#SD.wav",
+      "compressed_bytes": 525440,
+      "bytes": 1310764,
+      "offset": 80047656,
+      "crc32": "27b1e1e2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_25#KD.wav",
+      "compressed_bytes": 572570,
+      "bytes": 1324692,
+      "offset": 80573152,
+      "crc32": "8febd2b0",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum02_00#SD#train.wav",
+      "compressed_bytes": 182356,
+      "bytes": 672044,
+      "offset": 81145778,
+      "crc32": "36f7889b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_17#KD#train.wav",
+      "compressed_bytes": 516841,
+      "bytes": 1443064,
+      "offset": 81328198,
+      "crc32": "32b2349b",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_06#KD#train.wav",
+      "compressed_bytes": 183484,
+      "bytes": 405364,
+      "offset": 81845101,
+      "crc32": "9b0ddc22",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_28#HH#train.wav",
+      "compressed_bytes": 145195,
+      "bytes": 1398964,
+      "offset": 82028649,
+      "crc32": "87cbfcf3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_48#SD#train.wav",
+      "compressed_bytes": 471868,
+      "bytes": 1398964,
+      "offset": 82173906,
+      "crc32": "3b137d95",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_43#MIX.wav",
+      "compressed_bytes": 878073,
+      "bytes": 1245228,
+      "offset": 82645836,
+      "crc32": "65ca7dbd",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_44#HH.wav",
+      "compressed_bytes": 637009,
+      "bytes": 1245228,
+      "offset": 83523966,
+      "crc32": "26865909",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_09#KD#train.wav",
+      "compressed_bytes": 189372,
+      "bytes": 793032,
+      "offset": 84161031,
+      "crc32": "7b6f7e8e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_19#SD.wav",
+      "compressed_bytes": 390821,
+      "bytes": 1264480,
+      "offset": 84350465,
+      "crc32": "8c8bc9fc",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_02#HH#train.wav",
+      "compressed_bytes": 229302,
+      "bytes": 1202356,
+      "offset": 84741342,
+      "crc32": "ffd2157f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_31#SD#train.wav",
+      "compressed_bytes": 280404,
+      "bytes": 1508600,
+      "offset": 84970706,
+      "crc32": "d0436abd",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_47#MIX.wav",
+      "compressed_bytes": 654682,
+      "bytes": 1179692,
+      "offset": 85251172,
+      "crc32": "0654f346",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_59#SD.wav",
+      "compressed_bytes": 313057,
+      "bytes": 846764,
+      "offset": 85905911,
+      "crc32": "2bc8c639",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_04#HH.wav",
+      "compressed_bytes": 759134,
+      "bytes": 1324692,
+      "offset": 86219024,
+      "crc32": "927c8e58",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_05#SD#train.wav",
+      "compressed_bytes": 290548,
+      "bytes": 830426,
+      "offset": 86978214,
+      "crc32": "d3d1143d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_08#HH#train.wav",
+      "compressed_bytes": 173940,
+      "bytes": 536882,
+      "offset": 87268824,
+      "crc32": "d06f7e74",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_51#HH#train.wav",
+      "compressed_bytes": 701095,
+      "bytes": 1639672,
+      "offset": 87442826,
+      "crc32": "31fc6796",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_33#HH.wav",
+      "compressed_bytes": 822842,
+      "bytes": 1139860,
+      "offset": 88143983,
+      "crc32": "b964bdf9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_49#KD.wav",
+      "compressed_bytes": 850469,
+      "bytes": 1139860,
+      "offset": 88966881,
+      "crc32": "6246c266",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_26#MIX.wav",
+      "compressed_bytes": 1027356,
+      "bytes": 1285244,
+      "offset": 89817406,
+      "crc32": "88f2c66e",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_03#MIX.wav",
+      "compressed_bytes": 1250848,
+      "bytes": 1589774,
+      "offset": 90844819,
+      "crc32": "cf8256a3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_06#MIX.wav",
+      "compressed_bytes": 1420625,
+      "bytes": 1690576,
+      "offset": 92095726,
+      "crc32": "7e8c5fcf",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_04#KD#train.wav",
+      "compressed_bytes": 127315,
+      "bytes": 500234,
+      "offset": 93516408,
+      "crc32": "8f093843",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_15#KD#train.wav",
+      "compressed_bytes": 492443,
+      "bytes": 1574136,
+      "offset": 93643787,
+      "crc32": "5363bf61",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_07#MIX.wav",
+      "compressed_bytes": 1082639,
+      "bytes": 1690574,
+      "offset": 94136292,
+      "crc32": "020dd700",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_02#MIX.wav",
+      "compressed_bytes": 1446005,
+      "bytes": 1620892,
+      "offset": 95218990,
+      "crc32": "dad64534",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_08#SD#train.wav",
+      "compressed_bytes": 124382,
+      "bytes": 405364,
+      "offset": 96665052,
+      "crc32": "8e36400d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_19#SD#train.wav",
+      "compressed_bytes": 234405,
+      "bytes": 1308580,
+      "offset": 96789498,
+      "crc32": "351c7533",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_09#KD.wav",
+      "compressed_bytes": 717261,
+      "bytes": 1179692,
+      "offset": 97023965,
+      "crc32": "11ce6954",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_22#MIX.wav",
+      "compressed_bytes": 771065,
+      "bytes": 1204268,
+      "offset": 97741282,
+      "crc32": "f3570e57",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_46#KD#train.wav",
+      "compressed_bytes": 428291,
+      "bytes": 1398964,
+      "offset": 98512404,
+      "crc32": "b8beafd4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_53#HH#train.wav",
+      "compressed_bytes": 233739,
+      "bytes": 1354864,
+      "offset": 98940757,
+      "crc32": "c2d38274",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_12#KD.wav",
+      "compressed_bytes": 478971,
+      "bytes": 1245228,
+      "offset": 99174558,
+      "crc32": "a05a5480",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_35#SD.wav",
+      "compressed_bytes": 694531,
+      "bytes": 1058444,
+      "offset": 99653585,
+      "crc32": "de3bfb34",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_07#SD#train.wav",
+      "compressed_bytes": 185196,
+      "bytes": 636898,
+      "offset": 100348172,
+      "crc32": "720872f5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_33#SD#train.wav",
+      "compressed_bytes": 481598,
+      "bytes": 1574136,
+      "offset": 100533430,
+      "crc32": "99691c02",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_28#HH.wav",
+      "compressed_bytes": 331951,
+      "bytes": 1179692,
+      "offset": 101015090,
+      "crc32": "eaf6e40a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_52#KD.wav",
+      "compressed_bytes": 822481,
+      "bytes": 1176044,
+      "offset": 101347097,
+      "crc32": "cd941e4d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_60#SD#train.wav",
+      "compressed_bytes": 67455,
+      "bytes": 110162,
+      "offset": 102169634,
+      "crc32": "a760fe1f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_04#KD.wav",
+      "compressed_bytes": 673996,
+      "bytes": 1324692,
+      "offset": 102237151,
+      "crc32": "6ed41c55",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_32#SD#train.wav",
+      "compressed_bytes": 514687,
+      "bytes": 1661108,
+      "offset": 102911203,
+      "crc32": "83ee469d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_23#SD.wav",
+      "compressed_bytes": 731675,
+      "bytes": 1441836,
+      "offset": 103425952,
+      "crc32": "f75ba51e",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_06#SD#train.wav",
+      "compressed_bytes": 186146,
+      "bytes": 836530,
+      "offset": 104157683,
+      "crc32": "64643357",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_01#MIX.wav",
+      "compressed_bytes": 1103807,
+      "bytes": 1505324,
+      "offset": 104343891,
+      "crc32": "9dbabad3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_52#HH#train.wav",
+      "compressed_bytes": 246486,
+      "bytes": 1398964,
+      "offset": 105447755,
+      "crc32": "101d8ebf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_44#KD.wav",
+      "compressed_bytes": 539330,
+      "bytes": 1245228,
+      "offset": 105694303,
+      "crc32": "a3988e36",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum02_00#MIX.wav",
+      "compressed_bytes": 440530,
+      "bytes": 672010,
+      "offset": 106233689,
+      "crc32": "c4a7bec3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_05#MIX.wav",
+      "compressed_bytes": 1021235,
+      "bytes": 1441836,
+      "offset": 106674278,
+      "crc32": "2abe38aa",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_01#HH#train.wav",
+      "compressed_bytes": 689089,
+      "bytes": 2978382,
+      "offset": 107695570,
+      "crc32": "41ff863c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_14#KD#train.wav",
+      "compressed_bytes": 621515,
+      "bytes": 1661108,
+      "offset": 108384721,
+      "crc32": "3510e027",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_05#KD#train.wav",
+      "compressed_bytes": 47789,
+      "bytes": 447806,
+      "offset": 109006298,
+      "crc32": "6118445d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_25#HH.wav",
+      "compressed_bytes": 696426,
+      "bytes": 1324692,
+      "offset": 109054151,
+      "crc32": "bef90279",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_09#MIX.wav",
+      "compressed_bytes": 935515,
+      "bytes": 1179692,
+      "offset": 109750633,
+      "crc32": "a017bd2a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_47#KD#train.wav",
+      "compressed_bytes": 179457,
+      "bytes": 1377528,
+      "offset": 110686205,
+      "crc32": "be51618f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_18#SD#train.wav",
+      "compressed_bytes": 297618,
+      "bytes": 1333428,
+      "offset": 110865724,
+      "crc32": "07bde464",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_09#SD#train.wav",
+      "compressed_bytes": 79459,
+      "bytes": 405366,
+      "offset": 111163404,
+      "crc32": "688e133f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_38#SD.wav",
+      "compressed_bytes": 455302,
+      "bytes": 1245228,
+      "offset": 111242927,
+      "crc32": "ab846237",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_31#KD.wav",
+      "compressed_bytes": 554979,
+      "bytes": 1139860,
+      "offset": 111698285,
+      "crc32": "f1723f4f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_04#HH#train.wav",
+      "compressed_bytes": 349942,
+      "bytes": 2091326,
+      "offset": 112253320,
+      "crc32": "aa533bc9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_16#SD.wav",
+      "compressed_bytes": 694292,
+      "bytes": 1176044,
+      "offset": 112603324,
+      "crc32": "56ab4bcf",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_03#SD#train.wav",
+      "compressed_bytes": 167782,
+      "bytes": 742144,
+      "offset": 113297672,
+      "crc32": "8a4b052b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_56#SD.wav",
+      "compressed_bytes": 229602,
+      "bytes": 705644,
+      "offset": 113465516,
+      "crc32": "e2c009ba",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_37#SD#train.wav",
+      "compressed_bytes": 331299,
+      "bytes": 1412892,
+      "offset": 113695174,
+      "crc32": "6933b413",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_57#HH#train.wav",
+      "compressed_bytes": 133607,
+      "bytes": 200042,
+      "offset": 114026535,
+      "crc32": "e5d64094",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_33#MIX.wav",
+      "compressed_bytes": 934655,
+      "bytes": 1139860,
+      "offset": 114160204,
+      "crc32": "b018195a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_42#KD#train.wav",
+      "compressed_bytes": 833313,
+      "bytes": 1661108,
+      "offset": 115094916,
+      "crc32": "d9fafe3f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_10#HH.wav",
+      "compressed_bytes": 592428,
+      "bytes": 1245228,
+      "offset": 115928291,
+      "crc32": "6fa2e673",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_00#KD#train.wav",
+      "compressed_bytes": 46947,
+      "bytes": 531362,
+      "offset": 116520775,
+      "crc32": "04e68b58",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_11#KD#train.wav",
+      "compressed_bytes": 345763,
+      "bytes": 1443064,
+      "offset": 116567786,
+      "crc32": "42c6f7ef",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_50#HH.wav",
+      "compressed_bytes": 738856,
+      "bytes": 1139860,
+      "offset": 116913611,
+      "crc32": "9dd90766",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_37#MIX.wav",
+      "compressed_bytes": 916897,
+      "bytes": 1324692,
+      "offset": 117652523,
+      "crc32": "b3522453",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_06#HH.wav",
+      "compressed_bytes": 660983,
+      "bytes": 1245228,
+      "offset": 118569477,
+      "crc32": "dc953cd3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_43#KD#train.wav",
+      "compressed_bytes": 426996,
+      "bytes": 1311992,
+      "offset": 119230516,
+      "crc32": "5a4394d9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_18#MIX.wav",
+      "compressed_bytes": 947669,
+      "bytes": 1176044,
+      "offset": 119657574,
+      "crc32": "60fa31a3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_46#HH.wav",
+      "compressed_bytes": 391122,
+      "bytes": 1376300,
+      "offset": 120605300,
+      "crc32": "c2ab5d25",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_10#KD#train.wav",
+      "compressed_bytes": 337681,
+      "bytes": 1398964,
+      "offset": 120996478,
+      "crc32": "24f7d613",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_01#KD#train.wav",
+      "compressed_bytes": 87657,
+      "bytes": 500234,
+      "offset": 121334221,
+      "crc32": "e9ede2ae",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_14#MIX.wav",
+      "compressed_bytes": 979346,
+      "bytes": 1139860,
+      "offset": 121421942,
+      "crc32": "ac46fffb",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_05#HH#train.wav",
+      "compressed_bytes": 305704,
+      "bytes": 1443064,
+      "offset": 122401345,
+      "crc32": "2261b7d2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_27#KD.wav",
+      "compressed_bytes": 645129,
+      "bytes": 1245228,
+      "offset": 122707111,
+      "crc32": "e4839710",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_56#HH#train.wav",
+      "compressed_bytes": 234792,
+      "bytes": 292926,
+      "offset": 123352296,
+      "crc32": "0e10434b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_40#SD.wav",
+      "compressed_bytes": 647662,
+      "bytes": 1445114,
+      "offset": 123587150,
+      "crc32": "86527301",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_36#SD#train.wav",
+      "compressed_bytes": 513080,
+      "bytes": 1420400,
+      "offset": 124234868,
+      "crc32": "f74e951e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_10#MIX.wav",
+      "compressed_bytes": 891014,
+      "bytes": 1245228,
+      "offset": 124748010,
+      "crc32": "25deeee2",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_02#SD#train.wav",
+      "compressed_bytes": 225225,
+      "bytes": 752446,
+      "offset": 125639081,
+      "crc32": "8e379dcf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_50#KD.wav",
+      "compressed_bytes": 557668,
+      "bytes": 1139860,
+      "offset": 125864368,
+      "crc32": "3bdc48de",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_01#MIX.wav",
+      "compressed_bytes": 1145048,
+      "bytes": 1561772,
+      "offset": 126422092,
+      "crc32": "b1ddd7a9",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_03#KD#train.wav",
+      "compressed_bytes": 122211,
+      "bytes": 500234,
+      "offset": 127567197,
+      "crc32": "1a22eb1c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_12#KD#train.wav",
+      "compressed_bytes": 283789,
+      "bytes": 1377528,
+      "offset": 127689472,
+      "crc32": "3cc3afb8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_41#KD#train.wav",
+      "compressed_bytes": 262071,
+      "bytes": 1508600,
+      "offset": 127973323,
+      "crc32": "6bbc0648",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_37#SD.wav",
+      "compressed_bytes": 533899,
+      "bytes": 1324692,
+      "offset": 128235456,
+      "crc32": "71b79721",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_10#KD.wav",
+      "compressed_bytes": 531684,
+      "bytes": 1245228,
+      "offset": 128769411,
+      "crc32": "903f6502",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_05#MIX.wav",
+      "compressed_bytes": 1290020,
+      "bytes": 1488986,
+      "offset": 129301151,
+      "crc32": "e599c6bd",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_00#SD#train.wav",
+      "compressed_bytes": 207656,
+      "bytes": 729318,
+      "offset": 130591228,
+      "crc32": "fb6416b2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_34#SD#train.wav",
+      "compressed_bytes": 286689,
+      "bytes": 1333428,
+      "offset": 130798946,
+      "crc32": "c3a2f33c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_54#HH#train.wav",
+      "compressed_bytes": 556629,
+      "bytes": 1530036,
+      "offset": 131085697,
+      "crc32": "b3114a57",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_09#MIX.wav",
+      "compressed_bytes": 1284822,
+      "bytes": 1463392,
+      "offset": 131642388,
+      "crc32": "4ba43113",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_07#HH#train.wav",
+      "compressed_bytes": 237146,
+      "bytes": 1697836,
+      "offset": 132927267,
+      "crc32": "78f8db70",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_38#KD#train.wav",
+      "compressed_bytes": 188973,
+      "bytes": 1267892,
+      "offset": 133164475,
+      "crc32": "f216f17e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_31#HH.wav",
+      "compressed_bytes": 777789,
+      "bytes": 1139860,
+      "offset": 133353510,
+      "crc32": "36e96456",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_55#HH#train.wav",
+      "compressed_bytes": 77411,
+      "bytes": 99348,
+      "offset": 134131355,
+      "crc32": "f5d45945",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_35#SD#train.wav",
+      "compressed_bytes": 518378,
+      "bytes": 1507372,
+      "offset": 134208828,
+      "crc32": "1ffbedf5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_56#MIX.wav",
+      "compressed_bytes": 608588,
+      "bytes": 705644,
+      "offset": 134727268,
+      "crc32": "694fadf7",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_01#SD#train.wav",
+      "compressed_bytes": 189215,
+      "bytes": 725950,
+      "offset": 135335913,
+      "crc32": "20ed7413",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_39#KD#train.wav",
+      "compressed_bytes": 669118,
+      "bytes": 1508600,
+      "offset": 135525190,
+      "crc32": "28c66bdc",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_06#HH#train.wav",
+      "compressed_bytes": 236808,
+      "bytes": 1398964,
+      "offset": 136194370,
+      "crc32": "216d0885",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_52#MIX.wav",
+      "compressed_bytes": 973868,
+      "bytes": 1176044,
+      "offset": 136431240,
+      "crc32": "e6b6f2c1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_27#HH.wav",
+      "compressed_bytes": 727276,
+      "bytes": 1245228,
+      "offset": 137405165,
+      "crc32": "7daf898f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_46#KD.wav",
+      "compressed_bytes": 590485,
+      "bytes": 1376300,
+      "offset": 138132497,
+      "crc32": "d19ac3a0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_13#KD#train.wav",
+      "compressed_bytes": 593490,
+      "bytes": 1595572,
+      "offset": 138723038,
+      "crc32": "02a21bb1",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_02#KD#train.wav",
+      "compressed_bytes": 34356,
+      "bytes": 500234,
+      "offset": 139316590,
+      "crc32": "6d3081f0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_40#KD#train.wav",
+      "compressed_bytes": 748562,
+      "bytes": 2135426,
+      "offset": 139351010,
+      "crc32": "5362608a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_21#SD.wav",
+      "compressed_bytes": 608620,
+      "bytes": 1245228,
+      "offset": 140099634,
+      "crc32": "5a503840",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_06#KD.wav",
+      "compressed_bytes": 628802,
+      "bytes": 1245228,
+      "offset": 140708310,
+      "crc32": "fa848ebf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_02#KD#train.wav",
+      "compressed_bytes": 364914,
+      "bytes": 1333428,
+      "offset": 141337168,
+      "crc32": "5d28a8e9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_04#SD#train.wav",
+      "compressed_bytes": 286436,
+      "bytes": 500238,
+      "offset": 141702144,
+      "crc32": "ed6a9030",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_09#HH#train.wav",
+      "compressed_bytes": 330597,
+      "bytes": 793032,
+      "offset": 141988642,
+      "crc32": "f7f54cce",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_45#KD.wav",
+      "compressed_bytes": 934759,
+      "bytes": 1285244,
+      "offset": 142319301,
+      "crc32": "efd93174",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_22#SD.wav",
+      "compressed_bytes": 410449,
+      "bytes": 1204268,
+      "offset": 143254116,
+      "crc32": "633bfd64",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_51#KD#train.wav",
+      "compressed_bytes": 972821,
+      "bytes": 1770744,
+      "offset": 143664621,
+      "crc32": "c56a8e36",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_05#KD.wav",
+      "compressed_bytes": 670347,
+      "bytes": 1441836,
+      "offset": 144637504,
+      "crc32": "b9568828",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_49#MIX.wav",
+      "compressed_bytes": 1001179,
+      "bytes": 1139860,
+      "offset": 145307907,
+      "crc32": "0320cda7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_08#KD#train.wav",
+      "compressed_bytes": 230148,
+      "bytes": 536882,
+      "offset": 146309143,
+      "crc32": "42daac10",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_10#SD#train.wav",
+      "compressed_bytes": 235346,
+      "bytes": 711910,
+      "offset": 146539353,
+      "crc32": "d2d9b3e6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_24#SD#train.wav",
+      "compressed_bytes": 509211,
+      "bytes": 1508600,
+      "offset": 146774761,
+      "crc32": "cc3fea03",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_39#SD.wav",
+      "compressed_bytes": 770500,
+      "bytes": 1376300,
+      "offset": 147284034,
+      "crc32": "21861ee5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_44#HH#train.wav",
+      "compressed_bytes": 149799,
+      "bytes": 1102544,
+      "offset": 148054590,
+      "crc32": "a4b190fc",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_41#MIX.wav",
+      "compressed_bytes": 871271,
+      "bytes": 1310764,
+      "offset": 148204451,
+      "crc32": "ecb4bcf9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_24#HH.wav",
+      "compressed_bytes": 720795,
+      "bytes": 1310764,
+      "offset": 149075779,
+      "crc32": "24270a45",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_45#MIX.wav",
+      "compressed_bytes": 1060259,
+      "bytes": 1285244,
+      "offset": 149796630,
+      "crc32": "204e764c",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_06#HH#train.wav",
+      "compressed_bytes": 44024,
+      "bytes": 447806,
+      "offset": 150856946,
+      "crc32": "316d4545",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_17#HH#train.wav",
+      "compressed_bytes": 341770,
+      "bytes": 1354864,
+      "offset": 150901034,
+      "crc32": "ebc7e0a8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_28#KD#train.wav",
+      "compressed_bytes": 180942,
+      "bytes": 1377528,
+      "offset": 151242866,
+      "crc32": "1058e19f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_45#HH#train.wav",
+      "compressed_bytes": 488709,
+      "bytes": 1530036,
+      "offset": 151423870,
+      "crc32": "8fcea557",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_25#SD#train.wav",
+      "compressed_bytes": 268932,
+      "bytes": 1774158,
+      "offset": 151912641,
+      "crc32": "1f6ad3d9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_08#KD.wav",
+      "compressed_bytes": 755144,
+      "bytes": 1285244,
+      "offset": 152181635,
+      "crc32": "b62c7c4b",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_11#SD#train.wav",
+      "compressed_bytes": 235346,
+      "bytes": 711910,
+      "offset": 152936835,
+      "crc32": "d2d9b3e6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_29#KD#train.wav",
+      "compressed_bytes": 395002,
+      "bytes": 1464500,
+      "offset": 153172243,
+      "crc32": "8d8bb0a0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_16#HH#train.wav",
+      "compressed_bytes": 315343,
+      "bytes": 1398964,
+      "offset": 153567307,
+      "crc32": "cc962b85",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_48#KD.wav",
+      "compressed_bytes": 779379,
+      "bytes": 1310764,
+      "offset": 153882712,
+      "crc32": "e6667c4a",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_07#HH#train.wav",
+      "compressed_bytes": 24911,
+      "bytes": 405364,
+      "offset": 154662147,
+      "crc32": "e3b34599",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_32#HH.wav",
+      "compressed_bytes": 783627,
+      "bytes": 1139860,
+      "offset": 154687122,
+      "crc32": "ad1e6857",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_53#KD.wav",
+      "compressed_bytes": 521372,
+      "bytes": 1176044,
+      "offset": 155470805,
+      "crc32": "b623106a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_29#HH.wav",
+      "compressed_bytes": 506327,
+      "bytes": 1310764,
+      "offset": 155992233,
+      "crc32": "d97e6f35",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_05#SD#train.wav",
+      "compressed_bytes": 229660,
+      "bytes": 447808,
+      "offset": 156498616,
+      "crc32": "3ffd43ed",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_03#KD#train.wav",
+      "compressed_bytes": 280568,
+      "bytes": 1311992,
+      "offset": 156728338,
+      "crc32": "bd88ba0d",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_08#HH#train.wav",
+      "compressed_bytes": 213979,
+      "bytes": 755032,
+      "offset": 157008968,
+      "crc32": "293bcaf9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_34#SD.wav",
+      "compressed_bytes": 529068,
+      "bytes": 1058444,
+      "offset": 157223009,
+      "crc32": "89afaa62",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_09#KD#train.wav",
+      "compressed_bytes": 256381,
+      "bytes": 536882,
+      "offset": 157752133,
+      "crc32": "975677c8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_13#KD.wav",
+      "compressed_bytes": 764419,
+      "bytes": 1139860,
+      "offset": 158008576,
+      "crc32": "4baa5e2f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_50#KD#train.wav",
+      "compressed_bytes": 342587,
+      "bytes": 1705208,
+      "offset": 158773051,
+      "crc32": "ab844c28",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_12#MIX.wav",
+      "compressed_bytes": 1565223,
+      "bytes": 1851628,
+      "offset": 159115700,
+      "crc32": "938c02ce",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_03#MIX.wav",
+      "compressed_bytes": 875063,
+      "bytes": 1179692,
+      "offset": 160680980,
+      "crc32": "a212a5a6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_24#KD.wav",
+      "compressed_bytes": 539814,
+      "bytes": 1310764,
+      "offset": 161556100,
+      "crc32": "7c14afae",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_03#SD.wav",
+      "compressed_bytes": 398415,
+      "bytes": 1179692,
+      "offset": 162095970,
+      "crc32": "e5187121",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_05#HH#train.wav",
+      "compressed_bytes": 53269,
+      "bytes": 447806,
+      "offset": 162494441,
+      "crc32": "25509776",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_14#HH#train.wav",
+      "compressed_bytes": 434988,
+      "bytes": 1551472,
+      "offset": 162547774,
+      "crc32": "e9a20aa8",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_13#SD#train.wav",
+      "compressed_bytes": 541710,
+      "bytes": 688648,
+      "offset": 162982824,
+      "crc32": "3857265a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_27#SD#train.wav",
+      "compressed_bytes": 391179,
+      "bytes": 1158256,
+      "offset": 163524596,
+      "crc32": "363db56b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_47#HH#train.wav",
+      "compressed_bytes": 149854,
+      "bytes": 1443064,
+      "offset": 163915837,
+      "crc32": "0d6c82af",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_07#MIX.wav",
+      "compressed_bytes": 1069834,
+      "bytes": 1324692,
+      "offset": 164065753,
+      "crc32": "027cf93d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_43#SD.wav",
+      "compressed_bytes": 539873,
+      "bytes": 1245228,
+      "offset": 165135644,
+      "crc32": "8bfeeac7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_05#HH.wav",
+      "compressed_bytes": 703607,
+      "bytes": 1441836,
+      "offset": 165675573,
+      "crc32": "9af4d3c3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_58#SD.wav",
+      "compressed_bytes": 156293,
+      "bytes": 846764,
+      "offset": 166379236,
+      "crc32": "61833818",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_52#KD#train.wav",
+      "compressed_bytes": 550271,
+      "bytes": 1508600,
+      "offset": 166535585,
+      "crc32": "b2a642be",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_01#KD#train.wav",
+      "compressed_bytes": 930211,
+      "bytes": 3219228,
+      "offset": 167085918,
+      "crc32": "0724524e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_07#SD#train.wav",
+      "compressed_bytes": 240300,
+      "bytes": 405366,
+      "offset": 168016191,
+      "crc32": "c54de7fe",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_18#SD.wav",
+      "compressed_bytes": 674393,
+      "bytes": 1176044,
+      "offset": 168256553,
+      "crc32": "b1b56b12",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_45#HH.wav",
+      "compressed_bytes": 836973,
+      "bytes": 1285244,
+      "offset": 168931002,
+      "crc32": "c0296652",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_24#MIX.wav",
+      "compressed_bytes": 957954,
+      "bytes": 1310764,
+      "offset": 169768031,
+      "crc32": "6ebcc787",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_13#HH.wav",
+      "compressed_bytes": 839167,
+      "bytes": 1139860,
+      "offset": 170726042,
+      "crc32": "47d809f0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_53#KD#train.wav",
+      "compressed_bytes": 287818,
+      "bytes": 1398964,
+      "offset": 171565265,
+      "crc32": "e7b5b3df",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_04#MIX.wav",
+      "compressed_bytes": 1392299,
+      "bytes": 1558648,
+      "offset": 171853145,
+      "crc32": "e20fdb25",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_01#MIX.wav",
+      "compressed_bytes": 856376,
+      "bytes": 1496374,
+      "offset": 173245501,
+      "crc32": "c89b025e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_00#MIX.wav",
+      "compressed_bytes": 1487042,
+      "bytes": 1887438,
+      "offset": 174101936,
+      "crc32": "63ec2071",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_05#MIX.wav",
+      "compressed_bytes": 615563,
+      "bytes": 1450510,
+      "offset": 175589035,
+      "crc32": "aea0ba93",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_06#SD#train.wav",
+      "compressed_bytes": 220439,
+      "bytes": 405366,
+      "offset": 176204657,
+      "crc32": "622c68c5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_20#MIX.wav",
+      "compressed_bytes": 1032644,
+      "bytes": 1376300,
+      "offset": 176425158,
+      "crc32": "c2051ad8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_53#HH.wav",
+      "compressed_bytes": 632731,
+      "bytes": 1176044,
+      "offset": 177457859,
+      "crc32": "ef90b6e9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_29#KD.wav",
+      "compressed_bytes": 522803,
+      "bytes": 1310764,
+      "offset": 178090646,
+      "crc32": "a8cebf18",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_48#HH.wav",
+      "compressed_bytes": 679449,
+      "bytes": 1310764,
+      "offset": 178613505,
+      "crc32": "a62ff7ec",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_32#KD.wav",
+      "compressed_bytes": 696103,
+      "bytes": 1139860,
+      "offset": 179293010,
+      "crc32": "a63bdabc",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_15#SD.wav",
+      "compressed_bytes": 426025,
+      "bytes": 1139860,
+      "offset": 179989169,
+      "crc32": "90308553",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_15#HH#train.wav",
+      "compressed_bytes": 335469,
+      "bytes": 1574136,
+      "offset": 180415250,
+      "crc32": "729c5ca2",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_04#HH#train.wav",
+      "compressed_bytes": 52941,
+      "bytes": 500234,
+      "offset": 180750781,
+      "crc32": "14034d4f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_08#MIX.wav",
+      "compressed_bytes": 1469481,
+      "bytes": 1816570,
+      "offset": 180803786,
+      "crc32": "c796938f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_28#MIX.wav",
+      "compressed_bytes": 626598,
+      "bytes": 1179692,
+      "offset": 182273324,
+      "crc32": "9e44dc44",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_46#HH#train.wav",
+      "compressed_bytes": 163586,
+      "bytes": 1443064,
+      "offset": 182899979,
+      "crc32": "ee416bf6",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_09#MIX.wav",
+      "compressed_bytes": 864849,
+      "bytes": 1463774,
+      "offset": 183063627,
+      "crc32": "ef1428cc",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_55#SD.wav",
+      "compressed_bytes": 229602,
+      "bytes": 705644,
+      "offset": 183928535,
+      "crc32": "e2c009ba",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_26#SD#train.wav",
+      "compressed_bytes": 394622,
+      "bytes": 1333428,
+      "offset": 184158193,
+      "crc32": "9f12d20f",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_08#HH.wav",
+      "compressed_bytes": 728984,
+      "bytes": 1285244,
+      "offset": 184552877,
+      "crc32": "323f89ba",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_12#SD#train.wav",
+      "compressed_bytes": 284288,
+      "bytes": 703652,
+      "offset": 185281917,
+      "crc32": "1fd0fbae",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_05#KD#train.wav",
+      "compressed_bytes": 499693,
+      "bytes": 1530036,
+      "offset": 185566267,
+      "crc32": "a910e839",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_03#SD#train.wav",
+      "compressed_bytes": 229300,
+      "bytes": 500234,
+      "offset": 186066022,
+      "crc32": "0c4327a2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_26#HH.wav",
+      "compressed_bytes": 737235,
+      "bytes": 1285244,
+      "offset": 186295384,
+      "crc32": "f2f0e12d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_09#SD#train.wav",
+      "compressed_bytes": 246044,
+      "bytes": 1136820,
+      "offset": 187032675,
+      "crc32": "68babef8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_56#KD#train.wav",
+      "compressed_bytes": 107730,
+      "bytes": 237268,
+      "offset": 187278781,
+      "crc32": "80e23876",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_43#HH#train.wav",
+      "compressed_bytes": 218977,
+      "bytes": 1443064,
+      "offset": 187386573,
+      "crc32": "84ab9164",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_16#MIX.wav",
+      "compressed_bytes": 965640,
+      "bytes": 1176044,
+      "offset": 187605612,
+      "crc32": "cc359b92",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_07#KD.wav",
+      "compressed_bytes": 813912,
+      "bytes": 1324692,
+      "offset": 188571309,
+      "crc32": "0a0add0d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_20#SD.wav",
+      "compressed_bytes": 572310,
+      "bytes": 1376300,
+      "offset": 189385277,
+      "crc32": "bf5ad5f9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_23#SD#train.wav",
+      "compressed_bytes": 514324,
+      "bytes": 1595572,
+      "offset": 189957643,
+      "crc32": "1c1e1d1b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_60#SD.wav",
+      "compressed_bytes": 279708,
+      "bytes": 846764,
+      "offset": 190472029,
+      "crc32": "897592c3",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_01#HH#train.wav",
+      "compressed_bytes": 47485,
+      "bytes": 500234,
+      "offset": 190751793,
+      "crc32": "2fc08291",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_10#HH#train.wav",
+      "compressed_bytes": 232032,
+      "bytes": 1398964,
+      "offset": 190799342,
+      "crc32": "4c6f9908",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_47#KD.wav",
+      "compressed_bytes": 239276,
+      "bytes": 1179692,
+      "offset": 191031436,
+      "crc32": "f9670446",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_12#MIX.wav",
+      "compressed_bytes": 834098,
+      "bytes": 1245228,
+      "offset": 191270768,
+      "crc32": "7d570a36",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_22#SD#train.wav",
+      "compressed_bytes": 305489,
+      "bytes": 2255848,
+      "offset": 192104923,
+      "crc32": "b84f75e5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_42#HH#train.wav",
+      "compressed_bytes": 529991,
+      "bytes": 1508600,
+      "offset": 192410474,
+      "crc32": "58cd82ec",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_11#KD.wav",
+      "compressed_bytes": 540009,
+      "bytes": 1245228,
+      "offset": 192940527,
+      "crc32": "8b142840",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_36#SD.wav",
+      "compressed_bytes": 710518,
+      "bytes": 1058444,
+      "offset": 193480592,
+      "crc32": "fe19dc1e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_39#MIX.wav",
+      "compressed_bytes": 1014216,
+      "bytes": 1376300,
+      "offset": 194191166,
+      "crc32": "4c3f3156",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_51#KD.wav",
+      "compressed_bytes": 884757,
+      "bytes": 1139860,
+      "offset": 195205439,
+      "crc32": "06203e3c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_11#HH#train.wav",
+      "compressed_bytes": 288475,
+      "bytes": 1398964,
+      "offset": 196090252,
+      "crc32": "d988dded",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_00#HH#train.wav",
+      "compressed_bytes": 62760,
+      "bytes": 531362,
+      "offset": 196378789,
+      "crc32": "024942bd",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_02#SD#train.wav",
+      "compressed_bytes": 300987,
+      "bytes": 500236,
+      "offset": 196441613,
+      "crc32": "2452f887",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_04#KD#train.wav",
+      "compressed_bytes": 384792,
+      "bytes": 1894580,
+      "offset": 196742662,
+      "crc32": "278ef188",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_31#MIX.wav",
+      "compressed_bytes": 913993,
+      "bytes": 1139860,
+      "offset": 197127516,
+      "crc32": "7211d8ad",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_30#HH.wav",
+      "compressed_bytes": 475797,
+      "bytes": 1245228,
+      "offset": 198041566,
+      "crc32": "b146338b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_57#KD#train.wav",
+      "compressed_bytes": 79277,
+      "bytes": 136738,
+      "offset": 198517419,
+      "crc32": "10012edf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_08#SD#train.wav",
+      "compressed_bytes": 379959,
+      "bytes": 1158256,
+      "offset": 198596758,
+      "crc32": "ad0bdfa4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_35#MIX.wav",
+      "compressed_bytes": 902796,
+      "bytes": 1058444,
+      "offset": 198976779,
+      "crc32": "9df46489",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_02#HH#train.wav",
+      "compressed_bytes": 56635,
+      "bytes": 500234,
+      "offset": 199879632,
+      "crc32": "59fd881c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_13#HH#train.wav",
+      "compressed_bytes": 383101,
+      "bytes": 1574136,
+      "offset": 199936331,
+      "crc32": "37759d09",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_47#HH.wav",
+      "compressed_bytes": 332110,
+      "bytes": 1179692,
+      "offset": 200319494,
+      "crc32": "1b2d3769",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_54#MIX.wav",
+      "compressed_bytes": 986892,
+      "bytes": 1176044,
+      "offset": 200651660,
+      "crc32": "3021ce13",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_40#HH#train.wav",
+      "compressed_bytes": 210694,
+      "bytes": 2337344,
+      "offset": 201638609,
+      "crc32": "de1dd856",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_50#MIX.wav",
+      "compressed_bytes": 897983,
+      "bytes": 1139860,
+      "offset": 201849365,
+      "crc32": "89ad3523",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_20#SD#train.wav",
+      "compressed_bytes": 313687,
+      "bytes": 1223792,
+      "offset": 202747405,
+      "crc32": "d9daec6b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_07#HH.wav",
+      "compressed_bytes": 795337,
+      "bytes": 1324692,
+      "offset": 203061154,
+      "crc32": "3958e210",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_41#SD.wav",
+      "compressed_bytes": 561677,
+      "bytes": 1310764,
+      "offset": 203856547,
+      "crc32": "d6863386",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_58#MIX.wav",
+      "compressed_bytes": 646016,
+      "bytes": 846764,
+      "offset": 204418280,
+      "crc32": "658e3108",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_55#KD#train.wav",
+      "compressed_bytes": 87037,
+      "bytes": 193976,
+      "offset": 205064353,
+      "crc32": "b98fcbd3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_59#SD#train.wav",
+      "compressed_bytes": 79080,
+      "bytes": 123486,
+      "offset": 205151452,
+      "crc32": "18e13771",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_01#SD.wav",
+      "compressed_bytes": 524126,
+      "bytes": 1505324,
+      "offset": 205230594,
+      "crc32": "3c4a64df",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_39#HH#train.wav",
+      "compressed_bytes": 404264,
+      "bytes": 1289328,
+      "offset": 205754776,
+      "crc32": "7d2a22e7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_26#KD.wav",
+      "compressed_bytes": 740630,
+      "bytes": 1285244,
+      "offset": 206159102,
+      "crc32": "c060cfa4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_06#KD#train.wav",
+      "compressed_bytes": 415982,
+      "bytes": 1508600,
+      "offset": 206899788,
+      "crc32": "55fbfa23",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_00#SD#train.wav",
+      "compressed_bytes": 241639,
+      "bytes": 531362,
+      "offset": 207315832,
+      "crc32": "a9b7d1e3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_54#KD#train.wav",
+      "compressed_bytes": 818361,
+      "bytes": 1530036,
+      "offset": 207557533,
+      "crc32": "d5bcdefd",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_03#MIX.wav",
+      "compressed_bytes": 1233183,
+      "bytes": 1550466,
+      "offset": 208375956,
+      "crc32": "f9959178",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_57#SD.wav",
+      "compressed_bytes": 202214,
+      "bytes": 846764,
+      "offset": 209609196,
+      "crc32": "60cc29f6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_01#SD#train.wav",
+      "compressed_bytes": 269481,
+      "bytes": 500236,
+      "offset": 209811466,
+      "crc32": "de890077",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_07#KD#train.wav",
+      "compressed_bytes": 418677,
+      "bytes": 1549424,
+      "offset": 210081009,
+      "crc32": "bfb6dc4d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_38#HH#train.wav",
+      "compressed_bytes": 165326,
+      "bytes": 1158256,
+      "offset": 210499748,
+      "crc32": "6e14c6b8",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_58#SD#train.wav",
+      "compressed_bytes": 55725,
+      "bytes": 112692,
+      "offset": 210665136,
+      "crc32": "b1513a6c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_17#SD.wav",
+      "compressed_bytes": 763761,
+      "bytes": 1176044,
+      "offset": 210720923,
+      "crc32": "dc2ffab1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_30#KD.wav",
+      "compressed_bytes": 392838,
+      "bytes": 1245228,
+      "offset": 211484740,
+      "crc32": "554dba98",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_07#MIX.wav",
+      "compressed_bytes": 1425541,
+      "bytes": 1633886,
+      "offset": 211877634,
+      "crc32": "cb25f44a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_51#HH.wav",
+      "compressed_bytes": 846351,
+      "bytes": 1139860,
+      "offset": 213303232,
+      "crc32": "269b817c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_12#HH#train.wav",
+      "compressed_bytes": 211674,
+      "bytes": 1443064,
+      "offset": 214149639,
+      "crc32": "6a454f64",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_03#HH#train.wav",
+      "compressed_bytes": 83243,
+      "bytes": 500234,
+      "offset": 214361375,
+      "crc32": "dc268ef0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_21#SD#train.wav",
+      "compressed_bytes": 288586,
+      "bytes": 1136820,
+      "offset": 214444682,
+      "crc32": "c664fd34",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_11#HH.wav",
+      "compressed_bytes": 527097,
+      "bytes": 1245228,
+      "offset": 214733330,
+      "crc32": "be21a13e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_41#HH#train.wav",
+      "compressed_bytes": 227816,
+      "bytes": 1398964,
+      "offset": 215260483,
+      "crc32": "73e41522",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_60#HH#train.wav",
+      "compressed_bytes": 100198,
+      "bytes": 139370,
+      "offset": 215488361,
+      "crc32": "3bfca0cb",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_17#MIX.wav",
+      "compressed_bytes": 1004069,
+      "bytes": 1176044,
+      "offset": 215588621,
+      "crc32": "a2ba52cf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_30#SD.wav",
+      "compressed_bytes": 313410,
+      "bytes": 1245228,
+      "offset": 216592747,
+      "crc32": "80fdd5ca",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_17#KD.wav",
+      "compressed_bytes": 730318,
+      "bytes": 1176044,
+      "offset": 216906213,
+      "crc32": "19d46fd4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_06#KD#train.wav",
+      "compressed_bytes": 286315,
+      "bytes": 405366,
+      "offset": 217636587,
+      "crc32": "bfc032d6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_57#KD.wav",
+      "compressed_bytes": 319808,
+      "bytes": 846764,
+      "offset": 217922964,
+      "crc32": "43fb7fe0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_33#HH#train.wav",
+      "compressed_bytes": 400016,
+      "bytes": 1574136,
+      "offset": 218242828,
+      "crc32": "39fbf1b8",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_07#HH#train.wav",
+      "compressed_bytes": 193383,
+      "bytes": 636898,
+      "offset": 218642906,
+      "crc32": "7a45a994",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_13#MIX.wav",
+      "compressed_bytes": 975515,
+      "bytes": 1139860,
+      "offset": 218836351,
+      "crc32": "e4d611d4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_53#SD#train.wav",
+      "compressed_bytes": 327282,
+      "bytes": 1398964,
+      "offset": 219811923,
+      "crc32": "3ee65d8f",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_12#KD#train.wav",
+      "compressed_bytes": 347620,
+      "bytes": 703652,
+      "offset": 220139267,
+      "crc32": "a09b0e99",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_19#HH#train.wav",
+      "compressed_bytes": 105273,
+      "bytes": 1172046,
+      "offset": 220486949,
+      "crc32": "8b0f78fe",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_08#HH#train.wav",
+      "compressed_bytes": 58648,
+      "bytes": 405364,
+      "offset": 220592284,
+      "crc32": "31df97ea",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_36#HH.wav",
+      "compressed_bytes": 762433,
+      "bytes": 1058444,
+      "offset": 220650996,
+      "crc32": "8fc2f2d2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_26#KD#train.wav",
+      "compressed_bytes": 415372,
+      "bytes": 1202356,
+      "offset": 221413485,
+      "crc32": "97575f58",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_27#KD#train.wav",
+      "compressed_bytes": 327953,
+      "bytes": 1180920,
+      "offset": 221828919,
+      "crc32": "492427e6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_30#MIX.wav",
+      "compressed_bytes": 786434,
+      "bytes": 1245228,
+      "offset": 222156934,
+      "crc32": "6ae8e02a",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_13#KD#train.wav",
+      "compressed_bytes": 575018,
+      "bytes": 881420,
+      "offset": 222943425,
+      "crc32": "4a9d0031",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_09#HH#train.wav",
+      "compressed_bytes": 50578,
+      "bytes": 405366,
+      "offset": 223518505,
+      "crc32": "fdcb0586",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_18#HH#train.wav",
+      "compressed_bytes": 289142,
+      "bytes": 1398964,
+      "offset": 223569147,
+      "crc32": "48569242",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_20#HH.wav",
+      "compressed_bytes": 511470,
+      "bytes": 1376300,
+      "offset": 223858351,
+      "crc32": "25c2c3f7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_60#HH.wav",
+      "compressed_bytes": 535595,
+      "bytes": 846764,
+      "offset": 224369877,
+      "crc32": "230140f4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_34#MIX.wav",
+      "compressed_bytes": 852868,
+      "bytes": 1058444,
+      "offset": 224905528,
+      "crc32": "f524cf6e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_01#SD#train.wav",
+      "compressed_bytes": 323186,
+      "bytes": 1894580,
+      "offset": 225758453,
+      "crc32": "becdfb69",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_07#KD#train.wav",
+      "compressed_bytes": 246608,
+      "bytes": 405366,
+      "offset": 226081701,
+      "crc32": "cee610b1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_26#SD.wav",
+      "compressed_bytes": 716289,
+      "bytes": 1285244,
+      "offset": 226328371,
+      "crc32": "50413e76",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_01#KD.wav",
+      "compressed_bytes": 728021,
+      "bytes": 1505324,
+      "offset": 227044716,
+      "crc32": "75a7c728",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_52#SD#train.wav",
+      "compressed_bytes": 383217,
+      "bytes": 1398964,
+      "offset": 227772793,
+      "crc32": "9b7de1d1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_38#MIX.wav",
+      "compressed_bytes": 759883,
+      "bytes": 1245228,
+      "offset": 228156072,
+      "crc32": "20b74345",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_41#KD.wav",
+      "compressed_bytes": 369271,
+      "bytes": 1310764,
+      "offset": 228916012,
+      "crc32": "ae1557f5",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_06#HH#train.wav",
+      "compressed_bytes": 321957,
+      "bytes": 836530,
+      "offset": 229285339,
+      "crc32": "38fe747d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_32#HH#train.wav",
+      "compressed_bytes": 496484,
+      "bytes": 1595572,
+      "offset": 229607358,
+      "crc32": "80408c26",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_51#SD.wav",
+      "compressed_bytes": 687466,
+      "bytes": 1139860,
+      "offset": 230103904,
+      "crc32": "6b5cac19",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_59#MIX.wav",
+      "compressed_bytes": 677987,
+      "bytes": 846764,
+      "offset": 230791426,
+      "crc32": "1e2dd7b7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_29#SD#train.wav",
+      "compressed_bytes": 252495,
+      "bytes": 1354864,
+      "offset": 231469470,
+      "crc32": "f645439d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_49#HH#train.wav",
+      "compressed_bytes": 314607,
+      "bytes": 1574136,
+      "offset": 231722027,
+      "crc32": "20b4c5ae",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_36#KD.wav",
+      "compressed_bytes": 585722,
+      "bytes": 1058444,
+      "offset": 232036696,
+      "crc32": "68876895",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_11#SD.wav",
+      "compressed_bytes": 325171,
+      "bytes": 1245228,
+      "offset": 232622474,
+      "crc32": "9536c2f0",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_11#KD#train.wav",
+      "compressed_bytes": 329139,
+      "bytes": 711910,
+      "offset": 232947701,
+      "crc32": "44221039",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_25#KD#train.wav",
+      "compressed_bytes": 444886,
+      "bytes": 1954792,
+      "offset": 233276902,
+      "crc32": "d772ad23",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_30#HH#train.wav",
+      "compressed_bytes": 238489,
+      "bytes": 1443064,
+      "offset": 233721850,
+      "crc32": "0d290652",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_57#HH.wav",
+      "compressed_bytes": 488939,
+      "bytes": 846764,
+      "offset": 233960401,
+      "crc32": "4bc2ed37",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_04#HH#train.wav",
+      "compressed_bytes": 267195,
+      "bytes": 843420,
+      "offset": 234449396,
+      "crc32": "d4178a9e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_09#SD#train.wav",
+      "compressed_bytes": 248955,
+      "bytes": 536882,
+      "offset": 234716653,
+      "crc32": "72a00fb5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_55#MIX.wav",
+      "compressed_bytes": 534336,
+      "bytes": 705644,
+      "offset": 234965670,
+      "crc32": "3d2be928",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_50#SD#train.wav",
+      "compressed_bytes": 334374,
+      "bytes": 1508600,
+      "offset": 235500063,
+      "crc32": "a42df256",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_51#MIX.wav",
+      "compressed_bytes": 988859,
+      "bytes": 1139860,
+      "offset": 235834499,
+      "crc32": "130c34bf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_17#HH.wav",
+      "compressed_bytes": 812238,
+      "bytes": 1176044,
+      "offset": 236823415,
+      "crc32": "b5e00400",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_05#KD#train.wav",
+      "compressed_bytes": 223491,
+      "bytes": 447808,
+      "offset": 237635709,
+      "crc32": "c7cb2ff4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_03#SD#train.wav",
+      "compressed_bytes": 172492,
+      "bytes": 1092720,
+      "offset": 237859262,
+      "crc32": "9d704b6a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_41#HH.wav",
+      "compressed_bytes": 595697,
+      "bytes": 1310764,
+      "offset": 238031816,
+      "crc32": "8a76cdab",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_51#SD#train.wav",
+      "compressed_bytes": 717717,
+      "bytes": 1705208,
+      "offset": 238627569,
+      "crc32": "361cbb4e",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_05#HH#train.wav",
+      "compressed_bytes": 329486,
+      "bytes": 830426,
+      "offset": 239345348,
+      "crc32": "1981a8d4",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_08#SD#train.wav",
+      "compressed_bytes": 207790,
+      "bytes": 536882,
+      "offset": 239674896,
+      "crc32": "7fc32483",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_31#HH#train.wav",
+      "compressed_bytes": 269667,
+      "bytes": 1508600,
+      "offset": 239882748,
+      "crc32": "98f78697",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_02#SD#train.wav",
+      "compressed_bytes": 235990,
+      "bytes": 1136820,
+      "offset": 240152477,
+      "crc32": "89199174",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_04#KD#train.wav",
+      "compressed_bytes": 309616,
+      "bytes": 500238,
+      "offset": 240388529,
+      "crc32": "25e7855b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_01#HH.wav",
+      "compressed_bytes": 577736,
+      "bytes": 1505324,
+      "offset": 240698207,
+      "crc32": "92ba0383",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_47#SD.wav",
+      "compressed_bytes": 244347,
+      "bytes": 1179692,
+      "offset": 241275999,
+      "crc32": "a3627fb3",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_02#MIX.wav",
+      "compressed_bytes": 1265076,
+      "bytes": 1550466,
+      "offset": 241520402,
+      "crc32": "6e8d20af",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_60#KD.wav",
+      "compressed_bytes": 356032,
+      "bytes": 846764,
+      "offset": 242785535,
+      "crc32": "a13a2062",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_48#HH#train.wav",
+      "compressed_bytes": 527192,
+      "bytes": 1574136,
+      "offset": 243141623,
+      "crc32": "4e56099a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_28#SD#train.wav",
+      "compressed_bytes": 109411,
+      "bytes": 1267892,
+      "offset": 243668877,
+      "crc32": "fcd0e0f6",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum02_00#HH#train.wav",
+      "compressed_bytes": 251579,
+      "bytes": 672010,
+      "offset": 243778350,
+      "crc32": "217425d5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_24#KD#train.wav",
+      "compressed_bytes": 398313,
+      "bytes": 1574136,
+      "offset": 244029993,
+      "crc32": "d971165d",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_10#KD#train.wav",
+      "compressed_bytes": 329139,
+      "bytes": 711910,
+      "offset": 244428368,
+      "crc32": "44221039",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_06#MIX.wav",
+      "compressed_bytes": 1347308,
+      "bytes": 1588998,
+      "offset": 244757569,
+      "crc32": "3bd717b5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_20#KD.wav",
+      "compressed_bytes": 638970,
+      "bytes": 1376300,
+      "offset": 246104934,
+      "crc32": "d40bbc21",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_07#SD.wav",
+      "compressed_bytes": 727590,
+      "bytes": 1324692,
+      "offset": 246743960,
+      "crc32": "bae58b22",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_01#KD#train.wav",
+      "compressed_bytes": 291929,
+      "bytes": 500236,
+      "offset": 247471606,
+      "crc32": "79dd3162",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_07#SD#train.wav",
+      "compressed_bytes": 273818,
+      "bytes": 1248368,
+      "offset": 247763597,
+      "crc32": "79c13e45",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_29#SD.wav",
+      "compressed_bytes": 407369,
+      "bytes": 1310764,
+      "offset": 248037477,
+      "crc32": "6df22910",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_40#MIX.wav",
+      "compressed_bytes": 1074467,
+      "bytes": 1445114,
+      "offset": 248444902,
+      "crc32": "d5bb0d2e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_58#KD#train.wav",
+      "compressed_bytes": 49887,
+      "bytes": 154692,
+      "offset": 249519426,
+      "crc32": "65c34c27",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_34#HH.wav",
+      "compressed_bytes": 618817,
+      "bytes": 1058444,
+      "offset": 249569375,
+      "crc32": "4fa4ab8e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_44#MIX.wav",
+      "compressed_bytes": 878384,
+      "bytes": 1245228,
+      "offset": 250188248,
+      "crc32": "ea85d8f0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_54#SD#train.wav",
+      "compressed_bytes": 680230,
+      "bytes": 1595572,
+      "offset": 251066689,
+      "crc32": "04b7ff23",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_34#HH#train.wav",
+      "compressed_bytes": 230945,
+      "bytes": 1354864,
+      "offset": 251746981,
+      "crc32": "8fcddf57",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_00#HH#train.wav",
+      "compressed_bytes": 232238,
+      "bytes": 729318,
+      "offset": 251977988,
+      "crc32": "b5909977",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_21#KD#train.wav",
+      "compressed_bytes": 328796,
+      "bytes": 1377528,
+      "offset": 252210288,
+      "crc32": "966de246",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_55#KD.wav",
+      "compressed_bytes": 245534,
+      "bytes": 705644,
+      "offset": 252539146,
+      "crc32": "be3255d6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_15#KD.wav",
+      "compressed_bytes": 750095,
+      "bytes": 1139860,
+      "offset": 252784736,
+      "crc32": "154a9dfb",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_32#SD.wav",
+      "compressed_bytes": 599860,
+      "bytes": 1139860,
+      "offset": 253534887,
+      "crc32": "86da6a54",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_48#MIX.wav",
+      "compressed_bytes": 983640,
+      "bytes": 1310764,
+      "offset": 254134803,
+      "crc32": "3aa64615",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_20#KD#train.wav",
+      "compressed_bytes": 435344,
+      "bytes": 1443064,
+      "offset": 255118500,
+      "crc32": "0d6df318",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_39#HH.wav",
+      "compressed_bytes": 651070,
+      "bytes": 1376300,
+      "offset": 255553906,
+      "crc32": "bedf6727",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_43#KD.wav",
+      "compressed_bytes": 741054,
+      "bytes": 1245228,
+      "offset": 256205032,
+      "crc32": "59d0b2ac",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_03#KD.wav",
+      "compressed_bytes": 564023,
+      "bytes": 1179692,
+      "offset": 256946142,
+      "crc32": "5e9f5432",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_24#SD.wav",
+      "compressed_bytes": 690466,
+      "bytes": 1310764,
+      "offset": 257510221,
+      "crc32": "4204f2eb",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_13#MIX.wav",
+      "compressed_bytes": 447443,
+      "bytes": 637388,
+      "offset": 258200743,
+      "crc32": "80415491",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_59#KD#train.wav",
+      "compressed_bytes": 38240,
+      "bytes": 132782,
+      "offset": 258648243,
+      "crc32": "bf2a5e61",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_06#SD#train.wav",
+      "compressed_bytes": 304007,
+      "bytes": 1443064,
+      "offset": 258686545,
+      "crc32": "6c0deb20",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_00#KD#train.wav",
+      "compressed_bytes": 296550,
+      "bytes": 531362,
+      "offset": 258990614,
+      "crc32": "de41f448",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_18#KD.wav",
+      "compressed_bytes": 727994,
+      "bytes": 1176044,
+      "offset": 259287226,
+      "crc32": "5eae29cf",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_01#HH#train.wav",
+      "compressed_bytes": 196664,
+      "bytes": 725950,
+      "offset": 260015276,
+      "crc32": "67610f0a",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_22#HH.wav",
+      "compressed_bytes": 542458,
+      "bytes": 1204268,
+      "offset": 260212002,
+      "crc32": "b821f410",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_58#KD.wav",
+      "compressed_bytes": 202758,
+      "bytes": 846764,
+      "offset": 260754516,
+      "crc32": "b500399b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_35#HH#train.wav",
+      "compressed_bytes": 402326,
+      "bytes": 1464500,
+      "offset": 260957330,
+      "crc32": "5001c1da",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_55#SD#train.wav",
+      "compressed_bytes": 128845,
+      "bytes": 185976,
+      "offset": 261359718,
+      "crc32": "4af03aa6",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_48#SD.wav",
+      "compressed_bytes": 636040,
+      "bytes": 1310764,
+      "offset": 261488625,
+      "crc32": "ce3d1335",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_15#HH.wav",
+      "compressed_bytes": 778859,
+      "bytes": 1139860,
+      "offset": 262124721,
+      "crc32": "0d807f39",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_22#KD#train.wav",
+      "compressed_bytes": 247042,
+      "bytes": 1818258,
+      "offset": 262903636,
+      "crc32": "185ea4d2",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_55#HH.wav",
+      "compressed_bytes": 417756,
+      "bytes": 705644,
+      "offset": 263150740,
+      "crc32": "9f78f2de",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_08#SD.wav",
+      "compressed_bytes": 685706,
+      "bytes": 1285244,
+      "offset": 263568552,
+      "crc32": "60bc8c74",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_02#MIX.wav",
+      "compressed_bytes": 973396,
+      "bytes": 1310764,
+      "offset": 264254314,
+      "crc32": "9826e612",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_57#SD#train.wav",
+      "compressed_bytes": 71938,
+      "bytes": 130478,
+      "offset": 265227767,
+      "crc32": "d6496a47",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_13#SD.wav",
+      "compressed_bytes": 484284,
+      "bytes": 1139860,
+      "offset": 265299767,
+      "crc32": "9e0c6bd1",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_34#KD.wav",
+      "compressed_bytes": 516028,
+      "bytes": 1058444,
+      "offset": 265784107,
+      "crc32": "0cc75f84",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_37#HH#train.wav",
+      "compressed_bytes": 226309,
+      "bytes": 1336568,
+      "offset": 266300191,
+      "crc32": "37f450e8",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_03#HH#train.wav",
+      "compressed_bytes": 160122,
+      "bytes": 770324,
+      "offset": 266526562,
+      "crc32": "99383a19",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_08#KD#train.wav",
+      "compressed_bytes": 479038,
+      "bytes": 1202356,
+      "offset": 266686746,
+      "crc32": "086cf00d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_02#KD#train.wav",
+      "compressed_bytes": 326462,
+      "bytes": 500236,
+      "offset": 267165846,
+      "crc32": "dd79be35",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_04#SD#train.wav",
+      "compressed_bytes": 306954,
+      "bytes": 2737538,
+      "offset": 267492370,
+      "crc32": "1e6ae179",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_06#MIX.wav",
+      "compressed_bytes": 958938,
+      "bytes": 1245228,
+      "offset": 267799386,
+      "crc32": "0538c979",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_53#SD.wav",
+      "compressed_bytes": 628165,
+      "bytes": 1176044,
+      "offset": 268758381,
+      "crc32": "6901f128",
+      "method": 8
+    },
+    {
+      "name": "audio/RealDrum01_02#HH#train.wav",
+      "compressed_bytes": 230477,
+      "bytes": 752446,
+      "offset": 269386602,
+      "crc32": "c45c51d3",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_09#KD#train.wav",
+      "compressed_bytes": 393640,
+      "bytes": 1180920,
+      "offset": 269617141,
+      "crc32": "27cc4007",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_05#SD.wav",
+      "compressed_bytes": 688917,
+      "bytes": 1441836,
+      "offset": 270010843,
+      "crc32": "9b5bd8b0",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_22#KD.wav",
+      "compressed_bytes": 344332,
+      "bytes": 1204268,
+      "offset": 270699816,
+      "crc32": "e575d0a5",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_58#HH.wav",
+      "compressed_bytes": 491625,
+      "bytes": 846764,
+      "offset": 271044204,
+      "crc32": "e7d98d43",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_09#MIX.wav",
+      "compressed_bytes": 1573441,
+      "bytes": 1854370,
+      "offset": 271535885,
+      "crc32": "445a1721",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_36#HH#train.wav",
+      "compressed_bytes": 334547,
+      "bytes": 1398964,
+      "offset": 273109383,
+      "crc32": "ccde36bf",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_56#SD#train.wav",
+      "compressed_bytes": 129348,
+      "bytes": 188064,
+      "offset": 273443992,
+      "crc32": "1a040c6b",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_29#MIX.wav",
+      "compressed_bytes": 1013471,
+      "bytes": 1310764,
+      "offset": 273573402,
+      "crc32": "f94685fb",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_18#HH.wav",
+      "compressed_bytes": 699419,
+      "bytes": 1176044,
+      "offset": 274586930,
+      "crc32": "29d382ae",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_05#SD#train.wav",
+      "compressed_bytes": 417716,
+      "bytes": 1464500,
+      "offset": 275286405,
+      "crc32": "da50e779",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_45#SD.wav",
+      "compressed_bytes": 814293,
+      "bytes": 1285244,
+      "offset": 275704183,
+      "crc32": "ee426a2d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_03#KD#train.wav",
+      "compressed_bytes": 273361,
+      "bytes": 500234,
+      "offset": 276518532,
+      "crc32": "4ad23ecc",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_08#MIX.wav",
+      "compressed_bytes": 1047306,
+      "bytes": 1463774,
+      "offset": 276791955,
+      "crc32": "cdbdfe74",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_25#MIX.wav",
+      "compressed_bytes": 955122,
+      "bytes": 1324692,
+      "offset": 277839320,
+      "crc32": "246eda8e",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_03#HH.wav",
+      "compressed_bytes": 433591,
+      "bytes": 1179692,
+      "offset": 278794499,
+      "crc32": "96cd9b2c",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_05#MIX.wav",
+      "compressed_bytes": 1614234,
+      "bytes": 1840448,
+      "offset": 279228146,
+      "crc32": "d1fb7438",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_00#MIX.wav",
+      "compressed_bytes": 979124,
+      "bytes": 1688988,
+      "offset": 280842437,
+      "crc32": "542d63e7",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum01_01#MIX.wav",
+      "compressed_bytes": 1299725,
+      "bytes": 1496376,
+      "offset": 281821620,
+      "crc32": "908d33d3",
+      "method": 8
+    },
+    {
+      "name": "audio/TechnoDrum01_04#MIX.wav",
+      "compressed_bytes": 1100356,
+      "bytes": 1807668,
+      "offset": 283121402,
+      "crc32": "95642ea9",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_21#MIX.wav",
+      "compressed_bytes": 838667,
+      "bytes": 1245228,
+      "offset": 284221817,
+      "crc32": "3adda09d",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_23#KD#train.wav",
+      "compressed_bytes": 520512,
+      "bytes": 1639672,
+      "offset": 285060541,
+      "crc32": "ff6cda64",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_39#KD.wav",
+      "compressed_bytes": 872706,
+      "bytes": 1376300,
+      "offset": 285581115,
+      "crc32": "5600c732",
+      "method": 8
+    },
+    {
+      "name": "audio/WaveDrum02_43#HH.wav",
+      "compressed_bytes": 545319,
+      "bytes": 1245228,
+      "offset": 286453877,
+      "crc32": "75bed99a",
+      "method": 8
+    },
+    {
+      "name": "importAudioAndAnnotations.m",
+      "compressed_bytes": 1789,
+      "bytes": 5160,
+      "offset": 286999252,
+      "crc32": "7324598f",
+      "method": 8
+    },
+    {
+      "name": "parseSVLAnnotations.m",
+      "compressed_bytes": 570,
+      "bytes": 1360,
+      "offset": 287001098,
+      "crc32": "bd0902a5",
+      "method": 8
+    },
+    {
+      "name": "parseXMLAnnotations.m",
+      "compressed_bytes": 557,
+      "bytes": 1532,
+      "offset": 287001719,
+      "crc32": "c4d4a61e",
+      "method": 8
+    }
+  ]
+}
