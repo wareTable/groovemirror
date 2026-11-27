@@ -1,0 +1,1917 @@
+{
+  "audit": {
+    "archive_members": 942,
+    "distinct_artist_counts_by_source_group": {
+      "RealDrum01": 2,
+      "TechnoDrum01": 1,
+      "TechnoDrum02": 1,
+      "WaveDrum01": 1,
+      "WaveDrum02": 1
+    },
+    "duplicate_wav_hash_sets": 5,
+    "excluded_pairs": [
+      {
+        "audio_sha256": "836535439d5fe76db5619dc4b8e5feaefaf7f489c86d2ceb61ff6858011c1cc4",
+        "raw_annotation_sha256": "414cc9d188c69e364d9dd9aa83f578a8ab94064e5f98f4ec242af5715488344b",
+        "reason": "duplicate_exact_event",
+        "recording_id": "WaveDrum01_08"
+      },
+      {
+        "audio_sha256": "dee5a69ceb6c114cb199c28a16b2a57a75ddcba8a949b3a17b5b8fd8e3a0e471",
+        "raw_annotation_sha256": "00ac8623c21b06c653e87cbbeefefc24aafda0ad79679d74cb280e3a9a4e3e8f",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_05"
+      },
+      {
+        "audio_sha256": "c13a29f3b77e7cdc3c5d5c5728305c58521a2028b26ab3f9fcf1edd7a79c0544",
+        "raw_annotation_sha256": "f4d124171cbfb25610ef219b9bf0f2398259c853952cefa21c5a39d71f2c019c",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_08"
+      },
+      {
+        "audio_sha256": "a48e1fa719527852bfcca51b324312bb13705a20b19573712fc2679fe608c03f",
+        "raw_annotation_sha256": "99be3aad56f9d669c12610695df23189e33dcf1afdc7bb4a31d4d77ddb2df68c",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_11"
+      },
+      {
+        "audio_sha256": "feb355562dea9a4c30488d85bf422b6a703e6713f862e840da7f9e4c0bcedaa5",
+        "raw_annotation_sha256": "0c1f3d532e6840f8fa7e11cc2b725aca48ffe9657e71d571e4afba6d07531632",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_14"
+      },
+      {
+        "audio_sha256": "3db026d199423370e3bfd25f9046c83436e18cde08c5f7e538cf76024e64187a",
+        "raw_annotation_sha256": "701be24a41d0026ce517126805e2e679bf9671b779f16ee4c64b105f9bc63ec2",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_23"
+      },
+      {
+        "audio_sha256": "a5fc95fdb7ee13c8cb096191898d8e355f093524964f29609608a3fba759926c",
+        "raw_annotation_sha256": "ba3655609947df01068a167f9e4d29a266e1475c51066a73c748b5be890a2112",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_26"
+      },
+      {
+        "audio_sha256": "5da2bc641d211c95c20f2b6551da9782293bf30ac65a733f03965127e06f98ac",
+        "raw_annotation_sha256": "519dd1255adc3be1967225f61bbc528e0837086ebb0b79189e1eccf1cace6da9",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_29"
+      },
+      {
+        "audio_sha256": "9c2c303275de72650ba22fdafed018606ea76db0cfe82abd6daaf0f90973cdae",
+        "raw_annotation_sha256": "e8b7683175d2e332a90eb23fa2142827a24c9e8c48813df0eee19daea802fcf9",
+        "reason": "negative_onset",
+        "recording_id": "WaveDrum02_32"
+      }
+    ],
+    "matched_mix_pairs": 95,
+    "wav_members_hashed": 560,
+    "xml_alias_recording_ids": [
+      "RealDrum01_13"
+    ]
+  },
+  "manifest_version": "idmt-phase2-v1",
+  "recordings": [
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_00#MIX.wav",
+      "audio_sha256": "e9d84b4ba7b4d477415458269bd4af4ff16887d1ed6bb1c81926202486dae250",
+      "event_counts": {
+        "hihat": 42,
+        "kick": 23,
+        "snare": 21
+      },
+      "frames": 779794,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_00#MIX.xml",
+      "raw_annotation_sha256": "0792fceaba1b011c533ed4848a425182c8e283b14b060e2577f583af9a94a199",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_00",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_01#MIX.wav",
+      "audio_sha256": "c678a96d0db44a2aae06c9285842fbab9babdd3ffe237ddb32ca65ce02cbe056",
+      "event_counts": {
+        "hihat": 45,
+        "kick": 20,
+        "snare": 13
+      },
+      "frames": 779794,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_01#MIX.xml",
+      "raw_annotation_sha256": "998597b1a51f5902125389adb195b777468d33d73df0f05d57bc279179d903c2",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_01",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_02#MIX.wav",
+      "audio_sha256": "c1023660b6d223832852524b652e7c8225953e6da0c8fd301e568833658d5d2a",
+      "event_counts": {
+        "hihat": 54,
+        "kick": 22,
+        "snare": 21
+      },
+      "frames": 774141,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_02#MIX.xml",
+      "raw_annotation_sha256": "df3d50d4c0959235544fcdf82d735a89737298898f9f0dfb7a54e0e14ce42848",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_02",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_03#MIX.wav",
+      "audio_sha256": "6781e080250dd7b9ae9ca35ef909942e0a0f83abd5930d89b386dae1c0bd6f88",
+      "event_counts": {
+        "hihat": 46,
+        "kick": 23,
+        "snare": 18
+      },
+      "frames": 774141,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_03#MIX.xml",
+      "raw_annotation_sha256": "0c85693d2536e843c2a777afb4d0ee25dc3e0e8c9567c825b8b4c191a54756d2",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_03",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_04#MIX.wav",
+      "audio_sha256": "396d3c68889edf15d37b1e3ed58e8032c6f80abfe0edd3512c8c1c76f01191e3",
+      "event_counts": {
+        "hihat": 60,
+        "kick": 21,
+        "snare": 19
+      },
+      "frames": 719086,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_04#MIX.xml",
+      "raw_annotation_sha256": "8cc0b746bca26bcf2ba233b29dd34b8378cddbf01f3d92c7992228375ccf1ac6",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_04",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_05#MIX.wav",
+      "audio_sha256": "3bd99a1794ea8dcfe1c92fbf1714d265d331cdda3eadcc3b1a73a42edbb18783",
+      "event_counts": {
+        "hihat": 65,
+        "kick": 19,
+        "snare": 20
+      },
+      "frames": 743400,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_05#MIX.xml",
+      "raw_annotation_sha256": "91d0bf22a99aa6a37b113c2f38963877231d2804e6db579f70e14d3a47210ab4",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_05",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_06#MIX.wav",
+      "audio_sha256": "3f9e7c757229645afe9cf089cf300b3b36f5b71f7aba77651cd3207f4f6433b4",
+      "event_counts": {
+        "hihat": 58,
+        "kick": 24,
+        "snare": 23
+      },
+      "frames": 793406,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_06#MIX.xml",
+      "raw_annotation_sha256": "1ec2b20967644bd74522df6dea2f4ead743392052ed089ea1c7fc4cc51f8a210",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_06",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_07#MIX.wav",
+      "audio_sha256": "d3abbcd0de4ef08a16724c7fc9cb13912b029f1a7e973aa56d88e7dd7e60019b",
+      "event_counts": {
+        "hihat": 68,
+        "kick": 25,
+        "snare": 23
+      },
+      "frames": 815850,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_07#MIX.xml",
+      "raw_annotation_sha256": "ee51328cf67bf82958d09b0903e1b8441ecb05b2b6dbe8ac1e572133f993a177",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_07",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_08#MIX.wav",
+      "audio_sha256": "7b2a66fbb37cafc68982fcf7a1143886ec69c87110771f70eea2dc491a6e7096",
+      "event_counts": {
+        "hihat": 71,
+        "kick": 29,
+        "snare": 23
+      },
+      "frames": 826580,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_08#MIX.xml",
+      "raw_annotation_sha256": "a4f10ff6cfbe97574d4492d8d036c0bc46f5de0fe1cb67e019324d262039086d",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_08",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_09#MIX.wav",
+      "audio_sha256": "84d00c635e3d627387a7ac57d75990a7f7d07b75bea0b0fe4356300f693614a1",
+      "event_counts": {
+        "hihat": 59,
+        "kick": 28,
+        "snare": 20
+      },
+      "frames": 730603,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_09#MIX.xml",
+      "raw_annotation_sha256": "fe01e9bdbc8bf28a94f57dec196670c93122f411544fd5c05eea7a97490aeed7",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_09",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_10#MIX.wav",
+      "audio_sha256": "6a66669415a3fc61de2f9694bf21f26f3013cf0a6e55b4586726625e6bc84423",
+      "event_counts": {
+        "hihat": 33,
+        "kick": 24,
+        "snare": 29
+      },
+      "frames": 937125,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_10#MIX.xml",
+      "raw_annotation_sha256": "bf0b373baaabbf25e33bb8ad59c8eb62ef6cbd831ebf34adb0f41a4e879e6210",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_10",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_11#MIX.wav",
+      "audio_sha256": "83854b9f1ae555ac0b8895d51c38c8f98a099eb9cec3ea88de6a7df3551406f5",
+      "event_counts": {
+        "hihat": 50,
+        "kick": 18,
+        "snare": 14
+      },
+      "frames": 862902,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_11#MIX.xml",
+      "raw_annotation_sha256": "698e71ecbcba3ab79b27505e373d2130f5596210a47fdb3a637619b73936ea73",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_11",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_12#MIX.wav",
+      "audio_sha256": "900d2b9eead3a5f96ef85f2c31e3aec2f0a3a35efac27f7e83a023d4edf4d94a",
+      "event_counts": {
+        "hihat": 52,
+        "kick": 18,
+        "snare": 14
+      },
+      "frames": 924721,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_12#MIX.xml",
+      "raw_annotation_sha256": "a6b735fa298e101f5452334a4a3323b4a5f180e016b0ccf557e80e099dc32d1f",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_12",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/RealDrum01_13#MIX.wav",
+      "audio_sha256": "2d9902c67f5fa1f3bc4cb3392f818c7788c24fbfe1a8e0c48015e7be08335dc8",
+      "event_counts": {
+        "hihat": 19,
+        "kick": 8,
+        "snare": 7
+      },
+      "frames": 318672,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/RealDrum01_13#MIX.xml",
+      "raw_annotation_sha256": "0ac48d5d52e1c00b3789d585d694398fb2c8a57a123add73c695e7eb4f2085df",
+      "recording_group": "RealDrum01",
+      "recording_id": "RealDrum01_13",
+      "sample_rate": 44100,
+      "source_group": "RealDrum01",
+      "source_groups": [
+        "RealDrum01",
+        "RealDrum02"
+      ],
+      "source_type": "acoustic",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_00#MIX.wav",
+      "audio_sha256": "950660e84ca0bfc4012987f9e3cab0893d1bb1820a6786341f1de1c86135b766",
+      "event_counts": {
+        "hihat": 93,
+        "kick": 26,
+        "snare": 14
+      },
+      "frames": 843413,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_00#MIX.xml",
+      "raw_annotation_sha256": "c77794b1651400dcb0e2988b0bb9dfd23af770dc272397208e59f6ece68fd1b9",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_00",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_01#MIX.wav",
+      "audio_sha256": "e14c7f1e4846036f9d5eae33cdd3cbc9a0a9e858edb914ee32fa4f78c17a6b4a",
+      "event_counts": {
+        "hihat": 48,
+        "kick": 18,
+        "snare": 13
+      },
+      "frames": 747106,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_01#MIX.xml",
+      "raw_annotation_sha256": "64c92ffb3834ded214ef7e1dbc19c16e1f71b4e7c6b29b5b2cd6fc849772fde4",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_01",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_02#MIX.wav",
+      "audio_sha256": "4779b1e85b8304119ebf25115dcaf0d56fcc9581215884e7ff11bf3a8aebadca",
+      "event_counts": {
+        "hihat": 48,
+        "kick": 19,
+        "snare": 14
+      },
+      "frames": 793801,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_02#MIX.xml",
+      "raw_annotation_sha256": "ee5396b0a2953aa98419c59449332c4e9857155b8d6da53d90fec57db67ff454",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_02",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_03#MIX.wav",
+      "audio_sha256": "df9eca810e1b75f4fcd1034206c61a8c5e9ff5d267d3dcc782bd15c17e125d1c",
+      "event_counts": {
+        "hihat": 49,
+        "kick": 50,
+        "snare": 21
+      },
+      "frames": 793801,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_03#MIX.xml",
+      "raw_annotation_sha256": "a82965b0f61e6d4337728d2e75b2c8ccd51eb0f1e47fbb31f475048a6409d041",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_03",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_04#MIX.wav",
+      "audio_sha256": "216100d8dfa9a5f95db9c99ad11ddd973ab8ce44fb48bffb6ec58fde483d0259",
+      "event_counts": {
+        "hihat": 56,
+        "kick": 23,
+        "snare": 16
+      },
+      "frames": 902753,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_04#MIX.xml",
+      "raw_annotation_sha256": "523d475ebbed38862d58b8ee311ccfec49481270507f368a494892baae2ac438",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_04",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_05#MIX.wav",
+      "audio_sha256": "e3363af26fcf42e1b26d54c800f51cc763c99066742bb13ba07f7340a79111e6",
+      "event_counts": {
+        "hihat": 29,
+        "kick": 16,
+        "snare": 23
+      },
+      "frames": 724169,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_05#MIX.xml",
+      "raw_annotation_sha256": "320c96260922fef93aa7b9378bab88432701fc4d67cf4cc498b2f69295df5231",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_05",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_06#MIX.wav",
+      "audio_sha256": "24d3e0db5737e71d7f7c8f5a35ba2e73a63820e0c041489d8467d0b2f9fff5ef",
+      "event_counts": {
+        "hihat": 51,
+        "kick": 51,
+        "snare": 53
+      },
+      "frames": 768601,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_06#MIX.xml",
+      "raw_annotation_sha256": "808b379d9d5b2153c62b4b85aa77a531d9151013d1b83e93752c3c1f9a213493",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_06",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_07#MIX.wav",
+      "audio_sha256": "4c3922ebae5fb862172b1a6dac5a93e11655074be2326ad023cf8a9cdd874126",
+      "event_counts": {
+        "hihat": 65,
+        "kick": 28,
+        "snare": 17
+      },
+      "frames": 844201,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_07#MIX.xml",
+      "raw_annotation_sha256": "cd7262a8f97f4b8b07ebc80f8b7c0a19e272a2c0c1450e2521914263683a3de6",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_07",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_08#MIX.wav",
+      "audio_sha256": "512ac7addf411ea8f373367c599e0296e3da83c4d7467660c5fb6d64a603afbd",
+      "event_counts": {
+        "hihat": 56,
+        "kick": 23,
+        "snare": 15
+      },
+      "frames": 730801,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_08#MIX.xml",
+      "raw_annotation_sha256": "367e2a459e976aae747234a4e1cae008398bdb3ea7e91d8120dd4e6ca6de0471",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_08",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum01_09#MIX.wav",
+      "audio_sha256": "36467b1e40535630ee04256da5234d29ad6a19537c6d564994503fdc40704411",
+      "event_counts": {
+        "hihat": 56,
+        "kick": 23,
+        "snare": 15
+      },
+      "frames": 730801,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum01_09#MIX.xml",
+      "raw_annotation_sha256": "5a3038ee2a169f38aef2df4a81f5c015e98ae16b751a1e9cc7a0df6fcc20c8c4",
+      "recording_group": "TechnoDrum01",
+      "recording_id": "TechnoDrum01_09",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum01",
+      "source_groups": [
+        "TechnoDrum01"
+      ],
+      "source_type": "synthesizer",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/TechnoDrum02_00#MIX.wav",
+      "audio_sha256": "40f964dd715e4b40a51a0f4f13377b83f3075f011b77c73a5e7f8e74f9b8cbeb",
+      "event_counts": {
+        "hihat": 0,
+        "kick": 12,
+        "snare": 8
+      },
+      "frames": 335983,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/TechnoDrum02_00#MIX.xml",
+      "raw_annotation_sha256": "bd9d64c140ae59a865f4b8ad187d230dd9e90f66f12ff435bd3c0e0d402dc587",
+      "recording_group": "TechnoDrum02",
+      "recording_id": "TechnoDrum02_00",
+      "sample_rate": 44100,
+      "source_group": "TechnoDrum02",
+      "source_groups": [
+        "TechnoDrum02"
+      ],
+      "source_type": "synthesizer",
+      "split": "test"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_00#MIX.wav",
+      "audio_sha256": "8a69d331f251bdd77e7f9aed11c293983acfaa33f623670a3402533cf64040b6",
+      "event_counts": {
+        "hihat": 90,
+        "kick": 25,
+        "snare": 14
+      },
+      "frames": 942638,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_00#MIX.xml",
+      "raw_annotation_sha256": "ee99dcdd920f8581215a807b44cef35f7e61e9902e739bbfcde84ea03e5efadc",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_00",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_01#MIX.wav",
+      "audio_sha256": "5e57065e4ce9c132d0700990934f3aa3395d1fd14090adeee915b0fc12a696f6",
+      "event_counts": {
+        "hihat": 90,
+        "kick": 18,
+        "snare": 13
+      },
+      "frames": 747106,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_01#MIX.xml",
+      "raw_annotation_sha256": "2967fd3ee8027f3b4fd8c4c89d6ae6614187cf3950f3579d17471d76f8e1ef44",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_01",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_02#MIX.wav",
+      "audio_sha256": "61616ac66f8fe4eb2cf9050c98aefe8ebdddfbfb32abf16be2db3f696bd605ac",
+      "event_counts": {
+        "hihat": 99,
+        "kick": 19,
+        "snare": 14
+      },
+      "frames": 809365,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_02#MIX.xml",
+      "raw_annotation_sha256": "cd6d1e4a37e67e9f2c4e18ffde06f92ea82b22701486df7cdd6ec85767d3c07f",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_02",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_03#MIX.wav",
+      "audio_sha256": "a3185adadcc2113b449c4df7eb93defb4552a5bae03581f6fc274bcd728d3fe5",
+      "event_counts": {
+        "hihat": 44,
+        "kick": 51,
+        "snare": 20
+      },
+      "frames": 762671,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_03#MIX.xml",
+      "raw_annotation_sha256": "278d3e103323dfd3486d8a3dac69d4f670d0e52fa7186f8b2c92beb50e5eec8c",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_03",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_04#MIX.wav",
+      "audio_sha256": "8b592125db1ac19954d38dd85fcf0955808cacdc0bba5b306942e9884f1ea6bd",
+      "event_counts": {
+        "hihat": 44,
+        "kick": 51,
+        "snare": 20
+      },
+      "frames": 778236,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_04#MIX.xml",
+      "raw_annotation_sha256": "23331c88732589f5c642c8e5173f82515ce7f8a71922f4e9dab2dd3b50eaa30c",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_04",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_05#MIX.wav",
+      "audio_sha256": "013df161c832692cb0a59b22108fc39e142c5349df4734cdf153e95badf80494",
+      "event_counts": {
+        "hihat": 85,
+        "kick": 26,
+        "snare": 22
+      },
+      "frames": 919137,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_05#MIX.xml",
+      "raw_annotation_sha256": "f09014ddc3d65d1ff474d3ddbb68fc24033294295119361adc163e71e8e20b40",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_05",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_06#MIX.wav",
+      "audio_sha256": "550d43f8512c3b00c8435fe876d3eda4c9165b60346008341dce9a7dd02904e5",
+      "event_counts": {
+        "hihat": 49,
+        "kick": 27,
+        "snare": 19
+      },
+      "frames": 844201,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_06#MIX.xml",
+      "raw_annotation_sha256": "50f1c90c8822441e9399b5cca2012197b9aa22e41b0ff64ede665df6375b61e4",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_06",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_07#MIX.wav",
+      "audio_sha256": "56f5b047af52a4a7d1a7bea60a2b1ce570e4fe21630c0544efee54d509514839",
+      "event_counts": {
+        "hihat": 40,
+        "kick": 22,
+        "snare": 15
+      },
+      "frames": 743401,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_07#MIX.xml",
+      "raw_annotation_sha256": "b923d6433a4744eee86e73384133a3f8109f9865e340feebf27d58d77b4e02ac",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_07",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum01_09#MIX.wav",
+      "audio_sha256": "f68abb4a7788ee775e8f2f5a71b2c171310aab60f7db645a4a035790682cb607",
+      "event_counts": {
+        "hihat": 98,
+        "kick": 30,
+        "snare": 29
+      },
+      "frames": 926101,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum01_09#MIX.xml",
+      "raw_annotation_sha256": "e23dcab9e60eebc869c76b0d3cc818ab5620b87fdf23cdd1a0e0a9ed14931174",
+      "recording_group": "WaveDrum01",
+      "recording_id": "WaveDrum01_09",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum01",
+      "source_groups": [
+        "WaveDrum01"
+      ],
+      "source_type": "sample_library",
+      "split": "val"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_01#MIX.wav",
+      "audio_sha256": "23bb3b53266cf778da12b05e260f9ab448680b334bb0722f04cec216bbabed41",
+      "event_counts": {
+        "hihat": 28,
+        "kick": 15,
+        "snare": 14
+      },
+      "frames": 752640,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_01#MIX.xml",
+      "raw_annotation_sha256": "f18ab38ba8164ffdd8c23dcf4d9bcd73048b78f24baed6cae1d718fcea51c92a",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_01",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_02#MIX.wav",
+      "audio_sha256": "d696686cc44fb64754ef400dece1a79a4266452eafe791002c395337932bc77d",
+      "event_counts": {
+        "hihat": 24,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 655360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_02#MIX.xml",
+      "raw_annotation_sha256": "7a8a9444e442e0169c875866ed365c11d0af656ec7d77825ed6bf4abfa5a1112",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_02",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_03#MIX.wav",
+      "audio_sha256": "26297a0516e80cd757b45d2330f9f0076f6d87d67341066a6a742edb16492cf1",
+      "event_counts": {
+        "hihat": 24,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 589824,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_03#MIX.xml",
+      "raw_annotation_sha256": "ad850570d783fcdbaee16af7387306e17101a404019d88505cca0101dab5ccea",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_03",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_04#MIX.wav",
+      "audio_sha256": "1129bf455a8ae1a58bfa85327ed9767a3cf4c9875088e3111cab8b4799314272",
+      "event_counts": {
+        "hihat": 51,
+        "kick": 21,
+        "snare": 20
+      },
+      "frames": 662324,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_04#MIX.xml",
+      "raw_annotation_sha256": "bde2b7c058ded5574e462c5321ec7ad043c62a59c5a30d810c94236e50189a7d",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_04",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_06#MIX.wav",
+      "audio_sha256": "1f3b5b79d9ef9867f3706e081a752324fd732d1fb280de56ba66f371679a14c7",
+      "event_counts": {
+        "hihat": 48,
+        "kick": 20,
+        "snare": 19
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_06#MIX.xml",
+      "raw_annotation_sha256": "ee786789b84077cd9aa67edca27f297f61e0b61b3a153bf6a52b9194dee080d2",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_06",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_07#MIX.wav",
+      "audio_sha256": "b916f08c849f991a7dd8a38b6a457b3a1db72d6f9d48a283da3e8ac05913e832",
+      "event_counts": {
+        "hihat": 32,
+        "kick": 32,
+        "snare": 19
+      },
+      "frames": 662324,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_07#MIX.xml",
+      "raw_annotation_sha256": "61682bd6b39fab8f4016f95b8941285e9e9dd2ca89e2a4f611d00e0a6547eff9",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_07",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_09#MIX.wav",
+      "audio_sha256": "cf5df015eb06d3f465e5cf228c3eb6b337c08ea9bb9f6f71d1d1129fb785232b",
+      "event_counts": {
+        "hihat": 28,
+        "kick": 29,
+        "snare": 17
+      },
+      "frames": 589824,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_09#MIX.xml",
+      "raw_annotation_sha256": "95b1018b9fa78bc0548828707fe074d2baec0ab2a1284f7792f2673b881fae84",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_09",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_10#MIX.wav",
+      "audio_sha256": "0f62740701ac4bdac5f2e59cca04ac68b4bfde79f4626ac57da9004a3fc8842a",
+      "event_counts": {
+        "hihat": 37,
+        "kick": 10,
+        "snare": 10
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_10#MIX.xml",
+      "raw_annotation_sha256": "223f7ec70c7a782b15d2455cdaa1b3458564ac7fadb65d197cbddb73a8618d8e",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_10",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_12#MIX.wav",
+      "audio_sha256": "a152f23b2dc82faca2ccb94a13162f6974a0cca86bcf3dde03eba76996cb69fb",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 10,
+        "snare": 10
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_12#MIX.xml",
+      "raw_annotation_sha256": "a2d81af9e3175e18d44b5dd47db430ce57ff117400450579fe7b647bef9f579c",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_12",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_13#MIX.wav",
+      "audio_sha256": "fe51d48261f4dc042fff22e3cf45e0c71032d6b56881239d24097bfba426ac0a",
+      "event_counts": {
+        "hihat": 55,
+        "kick": 31,
+        "snare": 11
+      },
+      "frames": 569908,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_13#MIX.xml",
+      "raw_annotation_sha256": "44196401db44f3af4d61984c5b8b1dd950ac56d2fd2f2de2f2e8ce412ad198f8",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_13",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_15#MIX.wav",
+      "audio_sha256": "951723c74811fa174f67510ba1b2b0a15a1a74781ad3a6145a29732ea9ec7b73",
+      "event_counts": {
+        "hihat": 55,
+        "kick": 31,
+        "snare": 11
+      },
+      "frames": 569908,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_15#MIX.xml",
+      "raw_annotation_sha256": "ba949c140331b8deb1e038efcf0325d35cf7234327f2cb549c7257a96b3fa657",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_15",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_16#MIX.wav",
+      "audio_sha256": "c4c3420fb9490730eb661af0546e72f290430a0c4f2e5e644d234190d37bab47",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 31,
+        "snare": 17
+      },
+      "frames": 588000,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_16#MIX.xml",
+      "raw_annotation_sha256": "f3f47ea5e07ecd4a8dceedbf16751ce94baf6f2709e3a4d19e869464e03fd625",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_16",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_17#MIX.wav",
+      "audio_sha256": "82c573c362664109d40fbe773c3b2cf51a184e72c74cc27c7d3c93a855a43e94",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 31,
+        "snare": 17
+      },
+      "frames": 588000,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_17#MIX.xml",
+      "raw_annotation_sha256": "0c5cf0d519eeb05a9991855fb349b9299fdaae41d0d14b2c5e52d6b36b46f6c7",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_17",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_18#MIX.wav",
+      "audio_sha256": "c05e1e0e834cef5705e095b5087a41a71dca4c59f61cfd83348cf30a2bb28e10",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 31,
+        "snare": 17
+      },
+      "frames": 588000,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_18#MIX.xml",
+      "raw_annotation_sha256": "7e12fd388e67c4cf6373f5b6ed3a8049e19480ab53d4eea400f77c9f993c9627",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_18",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_19#MIX.wav",
+      "audio_sha256": "5c9225978326b4a7ac0e509b9195e94ea3c2d1ff7fa7123b0808b9e3c5b127cc",
+      "event_counts": {
+        "hihat": 23,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 632218,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_19#MIX.xml",
+      "raw_annotation_sha256": "f969720aac7b760132dce5eb23dc27b220ee58a3d917f8383aeacf4f8c72389b",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_19",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_20#MIX.wav",
+      "audio_sha256": "500596e983984d4246fa9c60b9f1fa8d97129b00d3a38b21cbf1b4ced76da9da",
+      "event_counts": {
+        "hihat": 23,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 688128,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_20#MIX.xml",
+      "raw_annotation_sha256": "bbc5f2688a76a76da2068c2497a5b421deeda505b2e5b62ff3bdef362882d552",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_20",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_21#MIX.wav",
+      "audio_sha256": "057a6c34b561de7bd667cc60b92013ed43e9acfebe82a64040a98127208e306f",
+      "event_counts": {
+        "hihat": 23,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_21#MIX.xml",
+      "raw_annotation_sha256": "91acfd90259dac4200fd718c7129f20c24a4be774604ba2efec1a8227f411677",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_21",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_22#MIX.wav",
+      "audio_sha256": "d7023a7c7180426c0471c33df7ac0523ec6de9a2beae98c19e80af1b52708815",
+      "event_counts": {
+        "hihat": 42,
+        "kick": 17,
+        "snare": 17
+      },
+      "frames": 602112,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_22#MIX.xml",
+      "raw_annotation_sha256": "a0d7ced72d04960b10d7ef4e516ce744498bc55a2f53457a4ec3c05fd4c342de",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_22",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_24#MIX.wav",
+      "audio_sha256": "3eb970bb9a016172a2d04e9b5bb5c88b252f809941c1ec9f21f41d31393f16a5",
+      "event_counts": {
+        "hihat": 47,
+        "kick": 20,
+        "snare": 19
+      },
+      "frames": 655360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_24#MIX.xml",
+      "raw_annotation_sha256": "8ddd53658fbad4b5150bd269f2e6842e725d3d4c9dc9184230f91129c0d7c35f",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_24",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_25#MIX.wav",
+      "audio_sha256": "8c057b721f81736f05fba5704c73ed9194ab14182568a602a9d86b407ad91e4c",
+      "event_counts": {
+        "hihat": 32,
+        "kick": 32,
+        "snare": 19
+      },
+      "frames": 662324,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_25#MIX.xml",
+      "raw_annotation_sha256": "3e437bfb74ac9981c91113d311f2e8a349c031ad0c581c5dc3a99c7b35d2f587",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_25",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_27#MIX.wav",
+      "audio_sha256": "940d60b5dd3df9bd9daf897607d4e8435fd7f9a1667e7638d781b71d3b70f8bc",
+      "event_counts": {
+        "hihat": 29,
+        "kick": 28,
+        "snare": 17
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_27#MIX.xml",
+      "raw_annotation_sha256": "85e901c20f4dd35cbdd0243e13ff9d35ca507970d00ac2a402a766d31c12ae34",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_27",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_28#MIX.wav",
+      "audio_sha256": "299a743cb186f489e7fd3858f502e854cc74756d20a168d01980c1c6a97f3aee",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 10,
+        "snare": 10
+      },
+      "frames": 589824,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_28#MIX.xml",
+      "raw_annotation_sha256": "78f73817cd01bf7d651150ed2de351a8b5ea589c34bd851c5e1ed488dd6b7c50",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_28",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_30#MIX.wav",
+      "audio_sha256": "5500bf95cee205e3d8d1dc8f60996a00c57e12e25b05153432f5a9f9875ff866",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 10,
+        "snare": 10
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_30#MIX.xml",
+      "raw_annotation_sha256": "c731e808dc94d1ea736568de70d877cd3b650eba825592dd59a625c099468e78",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_30",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_31#MIX.wav",
+      "audio_sha256": "2f7e92284115d4a628b3db5e9b07922c4de2de01c6130852b0915334f9a26022",
+      "event_counts": {
+        "hihat": 55,
+        "kick": 31,
+        "snare": 11
+      },
+      "frames": 569908,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_31#MIX.xml",
+      "raw_annotation_sha256": "02dc51c438a0d2a800d68ec727991a92247794f6268d5f92286cdbd75a872834",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_31",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_33#MIX.wav",
+      "audio_sha256": "3a7600523ba4962b78f2bbb4f89db9a3f48c43b555c9640cc28ba601e0e2c780",
+      "event_counts": {
+        "hihat": 55,
+        "kick": 31,
+        "snare": 11
+      },
+      "frames": 569908,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_33#MIX.xml",
+      "raw_annotation_sha256": "5e1413e3e763571a200982e39057dad64d05b4e04b8f4fc449fd38b329956830",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_33",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_34#MIX.wav",
+      "audio_sha256": "82ca974cd93952b83c596ac4a20e3bd18ee82d19296a7440570aefb3a073229b",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 31,
+        "snare": 17
+      },
+      "frames": 529200,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_34#MIX.xml",
+      "raw_annotation_sha256": "57bcade765d8079718140efc87cfd57d2f8ceac57f16fa0f3aa80fb2ea1019c5",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_34",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_35#MIX.wav",
+      "audio_sha256": "3c6b56205d57816d37b5d81830cee7d2b411c577bf36ff49ca80cbe0e7273d0a",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 31,
+        "snare": 17
+      },
+      "frames": 529200,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_35#MIX.xml",
+      "raw_annotation_sha256": "05612445fc0615e33b49849b0e5eb35f3e893e6fd645cef7a9d426bf6416fb83",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_35",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_36#MIX.wav",
+      "audio_sha256": "64dc62d6aa0ae5e877b53ef9476569c6975e48cc0b211268ac61266cdb81e844",
+      "event_counts": {
+        "hihat": 35,
+        "kick": 31,
+        "snare": 18
+      },
+      "frames": 529200,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_36#MIX.xml",
+      "raw_annotation_sha256": "d7146cbd95364bc13888ab546af2584c685dfc38ea09e604b7f209845e5c956e",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_36",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_37#MIX.wav",
+      "audio_sha256": "442091c996eec96cd7520b408451715512aa9d527c3caad6c24fe7b3803a4cf0",
+      "event_counts": {
+        "hihat": 23,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 662324,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_37#MIX.xml",
+      "raw_annotation_sha256": "ce79a420ef262443e892cf8a432f8dffd0abb926fd54b540c83c3d1110f1833f",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_37",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_38#MIX.wav",
+      "audio_sha256": "fe5cd1c23192641b5b2fea0bea933e5df48b7ab1bbd409d5fce8e3f8e9d072fb",
+      "event_counts": {
+        "hihat": 23,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_38#MIX.xml",
+      "raw_annotation_sha256": "3f130343b99fb09cba63b960c2549e2b52bfbae66209cd2957d9a32bdabf6f1b",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_38",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_39#MIX.wav",
+      "audio_sha256": "e8a48944a88e6faaac1dc08108ba34769d62d32cffcfcdbd6369e4062735b4ba",
+      "event_counts": {
+        "hihat": 23,
+        "kick": 12,
+        "snare": 12
+      },
+      "frames": 688128,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_39#MIX.xml",
+      "raw_annotation_sha256": "16f0dd1bf2cc3736e7ae198806fb92fe017b31c17918d7c08fbc343c838c08f1",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_39",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_40#MIX.wav",
+      "audio_sha256": "cccf94e8275aeec7c289904cdc09615531cfd2ec9259f71920aa8f1d06923672",
+      "event_counts": {
+        "hihat": 49,
+        "kick": 20,
+        "snare": 19
+      },
+      "frames": 722535,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_40#MIX.xml",
+      "raw_annotation_sha256": "50ab708eb8b46dfc514da8bb19251edb3fb0ae283eda459ff9e76aaa5062dda3",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_40",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_41#MIX.wav",
+      "audio_sha256": "27a4945790a6bc890a8d714408a798ad303833c55bda75c13365913e6624c743",
+      "event_counts": {
+        "hihat": 47,
+        "kick": 20,
+        "snare": 19
+      },
+      "frames": 655360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_41#MIX.xml",
+      "raw_annotation_sha256": "390d1b654f59a4e95b3efce9d306cd51db7de1136be1be06c155dac32e5eaf3f",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_41",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_42#MIX.wav",
+      "audio_sha256": "6f4ee405fb77f92330c6cc763530ba612a7125e7b09c9cbcb71244ab2a63c4a4",
+      "event_counts": {
+        "hihat": 47,
+        "kick": 20,
+        "snare": 19
+      },
+      "frames": 753664,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_42#MIX.xml",
+      "raw_annotation_sha256": "b8feb1eed968f9ae7dd002e04ea2f4224483389dea363bce843595d310abbf41",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_42",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_43#MIX.wav",
+      "audio_sha256": "ff74dd7ede1e17f02e3b1dc465bb85730c7f7329d97beb573dd4d6113f8d375d",
+      "event_counts": {
+        "hihat": 20,
+        "kick": 21,
+        "snare": 12
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_43#MIX.xml",
+      "raw_annotation_sha256": "eafcbfff8b37925010b28198a28cdb44f2a98d129d8a45872f50359d70dfc607",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_43",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_44#MIX.wav",
+      "audio_sha256": "89dcbe83f21ce0b9da99dea482b80a80480dae3b421cb2f3a70c82c1a7fafe52",
+      "event_counts": {
+        "hihat": 28,
+        "kick": 29,
+        "snare": 17
+      },
+      "frames": 622592,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_44#MIX.xml",
+      "raw_annotation_sha256": "8700ec41d366ce3876e15c8d62d45eb133b4108682ad2a404492975e81b8e9e2",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_44",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_45#MIX.wav",
+      "audio_sha256": "62ed62e9c9227fa7586d378c4b222ad6d3488eda29c48781c27d7c66d695914e",
+      "event_counts": {
+        "hihat": 29,
+        "kick": 28,
+        "snare": 17
+      },
+      "frames": 642600,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_45#MIX.xml",
+      "raw_annotation_sha256": "32a6b3a7a8816108422e9270451df0aa736cb56ef2c089f3087ffa14ec425b92",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_45",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_46#MIX.wav",
+      "audio_sha256": "31f706f671ff2d8d25791f944fce1295589463c41c101bc9fc62ad01f6c9e3b2",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 10,
+        "snare": 10
+      },
+      "frames": 688128,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_46#MIX.xml",
+      "raw_annotation_sha256": "05aa0fc060d36ed8ddefb92825cd09de8dc247d01cd7a0890d51c33619c7225d",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_46",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_47#MIX.wav",
+      "audio_sha256": "0204701527669ca491ca7bf2713514c357eaad5ba2cd51c4af06ec34fb184ff9",
+      "event_counts": {
+        "hihat": 37,
+        "kick": 10,
+        "snare": 10
+      },
+      "frames": 589824,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_47#MIX.xml",
+      "raw_annotation_sha256": "d4dbfe31b93095caf68bd18855fc6cc5cbd462788efa467e06c0a2168f04ef65",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_47",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_48#MIX.wav",
+      "audio_sha256": "9bff7b8f3a8087deab1209c4e43d02e0180a44cc1694bd219ba63e9c6349eb3c",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 10,
+        "snare": 10
+      },
+      "frames": 655360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_48#MIX.xml",
+      "raw_annotation_sha256": "42ec828a14dbda89fe9177a1baf444e169d1acd391766b0233d787ad328b6d4a",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_48",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_49#MIX.wav",
+      "audio_sha256": "4a4d68277141f2f97a1c5b1aebf154679cbd631659ba6b9945103b160cf62563",
+      "event_counts": {
+        "hihat": 55,
+        "kick": 31,
+        "snare": 11
+      },
+      "frames": 569908,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_49#MIX.xml",
+      "raw_annotation_sha256": "d981cb83fc3d9062a230dbd8b6adfd7fcc44501ed0cae14341229bcccfc4c7d1",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_49",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_50#MIX.wav",
+      "audio_sha256": "018b7fc297bf912d68e05503c948527132041f2f54e82ea01ecc6ccbda24f93e",
+      "event_counts": {
+        "hihat": 56,
+        "kick": 31,
+        "snare": 11
+      },
+      "frames": 569908,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_50#MIX.xml",
+      "raw_annotation_sha256": "a7558f264524857823f2c22143e7996eb5989ebab2f70a0c9437aef9766f2fe5",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_50",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_51#MIX.wav",
+      "audio_sha256": "0d0e8bea2f64e9a88860b676c0e0ba7be3b7cb5083a1bad1803e594a656da789",
+      "event_counts": {
+        "hihat": 55,
+        "kick": 31,
+        "snare": 11
+      },
+      "frames": 569908,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_51#MIX.xml",
+      "raw_annotation_sha256": "5993697f588bedc38bad4fe79cedfbe9fa3a062bc73d185ea53c19fe43dbb78f",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_51",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_52#MIX.wav",
+      "audio_sha256": "7c3b45ba81ee253395b0255b5ae0492db822ac4b27ce0338414ee2fbad77b983",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 31,
+        "snare": 17
+      },
+      "frames": 588000,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_52#MIX.xml",
+      "raw_annotation_sha256": "5cdd00fe92abf22f71b7f67134b6416205a987aac8b05496ae57d1058a05389d",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_52",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_53#MIX.wav",
+      "audio_sha256": "8574d9d8c5de2a9f3592707e02f74e801e79941bc52ece0e9f0cf33588ec1ff8",
+      "event_counts": {
+        "hihat": 35,
+        "kick": 31,
+        "snare": 18
+      },
+      "frames": 588000,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_53#MIX.xml",
+      "raw_annotation_sha256": "b3233bcd463fae3182359babe50863f20f097aa9b0fd314ed04343036a17a661",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_53",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_54#MIX.wav",
+      "audio_sha256": "b44d695dc56f0259eb6749abe58fd2a912e9403be7faa585cfa25bac5e6000ba",
+      "event_counts": {
+        "hihat": 36,
+        "kick": 31,
+        "snare": 17
+      },
+      "frames": 588000,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_54#MIX.xml",
+      "raw_annotation_sha256": "c52a9107c8b2f400be30660a7a1d640f0ff8f2ffe4f5376af202b22f33634d5d",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_54",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_55#MIX.wav",
+      "audio_sha256": "38453f91b18e7b856e8f50e4dbb2437e99c7dbfb3a6f67494750b84caa971b72",
+      "event_counts": {
+        "hihat": 34,
+        "kick": 13,
+        "snare": 10
+      },
+      "frames": 352800,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_55#MIX.xml",
+      "raw_annotation_sha256": "1618e570adcbee570f4133d0c1af2c8bc3b25bfc61d8981a6a313fcef23630ad",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_55",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_56#MIX.wav",
+      "audio_sha256": "8e0ae91e083d38e01cb5897d8b1aea4c190c826f37e4325b10a5828b35cec41f",
+      "event_counts": {
+        "hihat": 26,
+        "kick": 13,
+        "snare": 10
+      },
+      "frames": 352800,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_56#MIX.xml",
+      "raw_annotation_sha256": "b2fbd63dc7b3594eacd471210ed31b85cccf8c7c566129c0769508a8716b22ca",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_56",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_57#MIX.wav",
+      "audio_sha256": "9c762d9b6da0dad71412cce71c519419898c8e6b7d77a94d0e6f7eb5e4855faa",
+      "event_counts": {
+        "hihat": 28,
+        "kick": 18,
+        "snare": 14
+      },
+      "frames": 423360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_57#MIX.xml",
+      "raw_annotation_sha256": "0c623569287924497d6398f8c08a1a0592becf404c1740d01ee5c785d8c43da5",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_57",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_58#MIX.wav",
+      "audio_sha256": "72b82b06db87651ee57c11c8d80d665f0346ae2e6df71078318049cbc3ef6acc",
+      "event_counts": {
+        "hihat": 28,
+        "kick": 18,
+        "snare": 14
+      },
+      "frames": 423360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_58#MIX.xml",
+      "raw_annotation_sha256": "6bc46228bc236a43c0c1bf72bea15c7c628a78b7c507c7fe23960b99b3965f3a",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_58",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_59#MIX.wav",
+      "audio_sha256": "96cd1417250648e14b9202a1730440b7ae43fe8a9e5a065ec050bdce9a9c365c",
+      "event_counts": {
+        "hihat": 56,
+        "kick": 18,
+        "snare": 9
+      },
+      "frames": 423360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_59#MIX.xml",
+      "raw_annotation_sha256": "2deebc04bb039ed1cf7d9edd908a955f4b69ba30e4d576700e6c434bee4d7f95",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_59",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    },
+    {
+      "audio_path": "data/raw/idmt/audio/WaveDrum02_60#MIX.wav",
+      "audio_sha256": "0bf7ad83e01c56c1f4138b5e3aceb3bf943a18e87f33e2e8825c4cb0f4c42b25",
+      "event_counts": {
+        "hihat": 59,
+        "kick": 18,
+        "snare": 9
+      },
+      "frames": 423360,
+      "raw_annotation_path": "data/raw/idmt/annotation_xml/WaveDrum02_60#MIX.xml",
+      "raw_annotation_sha256": "8c90a4255b51579244d2fbf29b0472613a5725b902dd7273d4f10e0f64bdd9e7",
+      "recording_group": "WaveDrum02",
+      "recording_id": "WaveDrum02_60",
+      "sample_rate": 44100,
+      "source_group": "WaveDrum02",
+      "source_groups": [
+        "WaveDrum02"
+      ],
+      "source_type": "sample_library",
+      "split": "train"
+    }
+  ],
+  "source": {
+    "archive": "IDMT-SMT-DRUMS-V2.zip",
+    "archive_bytes": 287075649,
+    "archive_md5": "d2664b4c2aaa34b90ba2f57b389c5663",
+    "dataset_version": "1.0.0",
+    "license": "CC-BY-NC-ND-4.0",
+    "record_url": "https://zenodo.org/records/7544164"
+  },
+  "split_policy": {
+    "phase1_groups_excluded_from_test": [
+      "RealDrum01",
+      "TechnoDrum01",
+      "WaveDrum01"
+    ],
+    "target_percent": {
+      "test": 15,
+      "train": 70,
+      "val": 15
+    }
+  }
+}
