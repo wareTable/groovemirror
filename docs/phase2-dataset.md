@@ -12,7 +12,7 @@ From the checkout containing the code, with the project environment (PowerShell 
 
 ```powershell
 $env:PYTHONPATH = 'ml/src'
-& C:/POLY/DrumProj/.venv/Scripts/python.exe scripts/prepare_phase2.py --data-root C:/POLY/DrumProj --manifest data/manifests/idmt-phase2-splits.json --download --normalize
+.\.venv\Scripts\python.exe scripts/prepare_phase2.py --data-root . --manifest data/manifests/idmt-phase2-splits.json --download --normalize
 ```
 
 `--data-root` is the directory **above** `data/`, not `data/raw/` or the worktree. Adjust the paths for your checkout. `--download` is optional; it fetches the archive only when absent. You can also put the official ZIP in `<root>/data/raw/` yourself. Run without `--download` to regenerate offline. The script checks the archive's full length and MD5, reads members with ZIP CRC checks, rejects modified cached copies instead of overwriting them, and writes unchanged pairs under `<root>/data/raw/idmt/`. `--normalize` optionally writes JSON for the included pairs under `<root>/data/processed/idmt/phase2/`; Phase 1 normalized files are untouched. Both locations are ignored. The ZIP and copies of individual WAVs/XML also remain local.

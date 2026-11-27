@@ -19,9 +19,11 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8,<10", "ruff>=0.11,<1"]
+classifier = ["torch>=2.6,<3"]
 
 [project.scripts]
 groovemirror-baseline = "groovemirror_ml.cli:main"
+groovemirror-classifier = "groovemirror_ml.phase2:main"
 
 [tool.setuptools.packages.find]
 where = ["ml/src"]
