@@ -2,7 +2,7 @@
 
 ## Project scope
 
-GrooveMirror is an educational drum rhythm coach and ML/MLOps portfolio project. The current implementation is a local WAV onset-analysis baseline. Instrument classification, the backend/frontend and later MLOps components are future work, not existing features.
+GrooveMirror is an educational drum rhythm coach and ML/MLOps portfolio project. The current implementation includes a local WAV onset-analysis baseline and a multi-label drum classifier. The backend/frontend and later MLOps components are future work.
 
 Work on the owner's current request. Keep changes small enough to verify. Do not start another milestone or add the full application stack as a side effect of a smaller task.
 

@@ -2,7 +2,7 @@
 
 This project is a drum rhythm coach for my ML/MLOps portfolio. We need to be able to rerun an analysis and check where the results came from, so that's part of what I'm working on here.
 
-Phase 1 is implemented and has been checked locally. For now, it takes a WAV file through the command line. The deployed app and instrument classifier are still planned. The [baseline report](docs/baseline-report.md) has the measurements, limitations and what happened during testing.
+For now, GrooveMirror takes a WAV file through the command line. Phase 1 checks when the hits happen, and Phase 2 adds probabilities for kick, snare and hi-hat. The [onset baseline report](docs/baseline-report.md) has the Phase 1 results. The [instrument classifier guide](docs/phase2-classifier.md) covers the next set of runs and how to try it yourself. The deployed app is still planned.
 
 ## Getting it running
 
@@ -80,4 +80,4 @@ These are only three selected development recordings, so I'd treat the scores as
 - `data/raw/`, `data/processed/`: local source recordings and normalized annotations, ignored by Git.
 - `artifacts/`: generated reports, plots and scratch runs, also ignored by Git.
 
-Additional work: the backend, frontend, classifier training, DVC, MLflow and deployment are still planned for later phases.
+Additional work: the backend, frontend, DVC, MLflow and deployment are still planned for later phases.
